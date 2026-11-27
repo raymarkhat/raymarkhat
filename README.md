@@ -97,6 +97,6 @@ npm run qa        # 死链 / 结构化数据 / meta 自检
 
 ## 8. 上线
 
-站点托管在 **Cloudflare Workers**：https://raymark.847563751-a0d.workers.dev
+站点托管在 **Cloudflare Workers**：https://raymarkhat.com
 
 GitHub 仓库只存源码（不启用 GitHub Pages，避免重复内容）。发布流程见 [DEPLOY.md](./DEPLOY.md)。

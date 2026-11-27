@@ -1,6 +1,6 @@
 # Raymark Caps — Pedia article spec (read carefully, then write only your assigned JSON files)
 
-You are writing knowledge-base ("Pedia") articles for **raymarkcaps.com**, the website of
+You are writing knowledge-base ("Pedia") articles for **raymarkhat.com**, the website of
 **Heze Raymark International Trade Co., Ltd** — a factory-direct baseball cap supplier in Heze,
 Shandong, China that sells to U.S. small businesses (shops, promo distributors, team dealers,
 screen printers, boutique brands) and to larger consumer brands / creators.

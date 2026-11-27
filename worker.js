@@ -3,7 +3,7 @@
 // The site is served from ./dist through the ASSETS binding (see wrangler.toml).
 // Every hostname other than the canonical apex (www, the workers.dev preview URL,
 // anything else) is permanently redirected to the apex, so only one hostname is
-// ever indexed.
+// ever indexed. Canonical: https://raymarkhat.com
 
 const CANONICAL_HOST = 'raymarkhat.com';
 

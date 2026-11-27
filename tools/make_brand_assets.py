@@ -130,7 +130,7 @@ def og(path, kicker, lines, sub, accent=RED):
     d.text((sx - d.textlength(t2, font=f2) / 2, sy + 22), t2, font=f2, fill=CREAM)
 
     # footer text
-    d.text((72, H - 66), "RAYMARKCAPS.COM", font=font(BOLD, 20), fill=(222, 215, 198))
+    d.text((72, H - 66), "RAYMARKHAT.COM", font=font(BOLD, 20), fill=(222, 215, 198))
     d.text((W - 72 - d.textlength("CUSTOM CAPS · FACTORY DIRECT", font=font(BOLD, 20)), H - 66),
            "CUSTOM CAPS · FACTORY DIRECT", font=font(BOLD, 20), fill=(222, 215, 198))
     img.save(os.path.join(OUT, path), optimize=True)

@@ -89,7 +89,12 @@ npx wrangler deploy
 
 ## 域名
 
-当前用 `*.workers.dev` 子域名。换成正式域名（如 `raymarkcaps.com`）：
+主域名：**https://raymarkhat.com**（裸域，canonical 指向这里）
+
+- `www.raymarkhat.com` → 301 → 裸域
+- `raymarkhat.raymarkhat.workers.dev` → 301 → 裸域
+
+跳转逻辑在 `worker.js` 里（按 hostname 判断），换域名时改三处：
 
 1. 域名接入 Cloudflare（NS 改过去）
 2. Workers & Pages → `raymark` → Settings → **Domains & Routes** → Add custom domain
