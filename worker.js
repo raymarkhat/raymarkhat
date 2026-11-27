@@ -1,7 +1,7 @@
 // Cloudflare Worker: static assets + canonical host redirect.
 //
-// The site is served from ./dist via the ASSETS binding (see wrangler.toml).
-// Requests to the apex domain are permanently redirected to www so that only one
+// The site is served from ./dist through the ASSETS binding (see wrangler.toml).
+// Requests to the apex domain are permanently redirected to www, so only one
 // hostname is ever indexed.
 
 const CANONICAL_HOST = 'www.raymarkhat.com';
