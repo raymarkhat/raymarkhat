@@ -1,0 +1,700 @@
+[
+  {
+    "slug": "cotton-twill-bucket-hat",
+    "name": "Cotton Twill Bucket Hat",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "cotton-bucket-hats",
+    "category": "cotton-bucket-hats",
+    "shape": "bucket",
+    "tagline": "6.5 cm brim, three rows of stitching and metal eyelets on a 260 gsm crown.",
+    "blurb": "Structured cotton twill bucket that holds its brim and folds flat in a bag.",
+    "price": 8.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A bucket hat lives or dies on its brim. This one is 6.5 cm deep with three rows of stitching, which stops the edge from curling after a season in a bag, and the crown is left unstructured so the whole cap folds flat into a jacket pocket.",
+      "We sew it from 260 gsm cotton twill, the same fabric as our six-panel caps, with metal eyelets at both sides and a cotton sweatband that takes up moisture instead of sliding on the forehead. The front is one cut piece, so a logo embroiders on a flat field."
+    ],
+    "features": [
+      { "title": "Brim holds its line", "text": "Three rows of stitching stiffen the 6.5 cm brim so it does not wave or curl at the edge." },
+      { "title": "Packs down flat", "text": "Unstructured crown folds to about the size of a folded shirt and springs back when worn." },
+      { "title": "Two metal eyelets", "text": "Two sewn metal eyelets per side move air through the crown on humid days." },
+      { "title": "Flat logo field", "text": "A single cut front panel takes a 7 cm mark without following a curve." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured sewn crown, 4 cm band"],
+      ["Fabric", "100% cotton twill, 260 gsm"],
+      ["Brim", "6.5 cm deep, 3-row stitching, pre-shaped"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Eyelets", "2 metal eyelets per side"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, woven label, screen print"],
+      ["Carton", "100 pcs per carton, 0.11 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label", "Screen print", "Sublimation"],
+    "colors": [
+      { "name": "Navy / Cream", "hex": "#1B2A44" },
+      { "name": "Olive", "hex": "#5A6349" },
+      { "name": "Khaki", "hex": "#B9A379" },
+      { "name": "Washed Black", "hex": "#3A3A38" }
+    ],
+    "sizes": ["One size (56-60 cm)", "Youth (52-55 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#1B2A44",
+      "brim": "#14203A",
+      "accent": "#EFE4CC",
+      "stitch": "#EFE4CC",
+      "mark": "HARBOR",
+      "markScale": 1,
+      "bg": "#EAE3D4"
+    },
+    "faqs": [
+      { "q": "Does the brim spring back after packing?", "a": "Yes. The three rows of stitching hold the shape; unfold it and smooth the brim with your hand and it sits flat again within a minute." },
+      { "q": "Can you embroider the brim as well as the front?", "a": "The front panel takes up to a 7 cm mark. Brim embroidery is possible up to 4 cm before the curve distorts the artwork, so most buyers use a side label instead." },
+      { "q": "Is this the same twill as your six-panel caps?", "a": "Yes, 260 gsm cotton twill from the same mill, which keeps color matching consistent if you order both styles." }
+    ],
+    "related": ["washed-canvas-bucket-hat", "mesh-panel-bucket-hat", "classic-dad-hat"]
+  },
+
+  {
+    "slug": "washed-canvas-bucket-hat",
+    "name": "Washed Canvas Bucket Hat",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "cotton-bucket-hats",
+    "category": "cotton-bucket-hats",
+    "shape": "bucket",
+    "tagline": "Garment-washed 12 oz canvas that arrives soft, dulled and already broken in.",
+    "blurb": "Heavy washed canvas bucket with a vintage hand straight out of the carton.",
+    "price": 7.9,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Garment washing a 12 oz canvas bucket does two things: it tightens the weave and it takes the stiffness out, so the crown slumps into a soft, lived-in shape instead of standing up like a tent. Color dulls slightly at the seams, which is the look most vintage-inspired labels are trying to buy.",
+      "Because every wash lot pulls differently, expect a small tone variation between pieces and between cartons. For a color-critical program, order the full run in one lot so the cartons match; for a seasonal drop, that variation is usually what sells the hat, and it is what keeps the price down."
+    ],
+    "features": [
+      { "title": "12 oz canvas", "text": "Heavy cotton canvas that softens in the wash but keeps enough body for a 6 cm brim." },
+      { "title": "Enzyme washed after sewing", "text": "Washed after sewing, so the cap arrives broken in with no break-in period." },
+      { "title": "Tonal, seam to seam", "text": "Seams, binding and stitch are dyed to the body color, so texture carries the design." },
+      { "title": "50 pc minimum", "text": "50 pcs per colorway, mixed sizes inside that quantity at no surcharge." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured 4-panel, soft crown"],
+      ["Fabric", "100% cotton canvas, 12 oz, garment washed"],
+      ["Brim", "6 cm deep, soft roll, bound edge"],
+      ["Closure", "None - pull-on"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, woven label, leather patch"],
+      ["Carton", "100 pcs per carton, 0.12 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Leather patch", "Woven label", "Screen print"],
+    "colors": [
+      { "name": "Faded Clay", "hex": "#B07A5C" },
+      { "name": "Faded Olive", "hex": "#8A8A6E" },
+      { "name": "Bone", "hex": "#D8CDB6" },
+      { "name": "Faded Black", "hex": "#4A4A48" }
+    ],
+    "sizes": ["One size (56-60 cm)", "Youth (52-55 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#B07A5C",
+      "brim": "#9A6A4E",
+      "accent": "#F4EADA",
+      "stitch": "#D3B49B",
+      "mark": "SALT",
+      "markScale": 1.05,
+      "bg": "#EFE2D6",
+      "cord": true
+    },
+    "faqs": [
+      { "q": "Will two production runs look the same?", "a": "No. Enzyme washing varies by lot, so expect a slight difference in tone. Order one lot for a color-critical program." },
+      { "q": "Does the wash weaken the canvas?", "a": "It softens the hand and lowers tear strength a little, which is fine for headwear. The 12 oz weight keeps it well above a light twill." },
+      { "q": "Can the brim be made stiffer?", "a": "Yes, a hidden plastic brim insert is available from 100 pcs per colorway for about $0.35 per piece." }
+    ],
+    "related": ["cotton-twill-bucket-hat", "wide-brim-sun-bucket", "washed-vintage-cap"]
+  },
+
+  {
+    "slug": "nylon-bucket-hat",
+    "name": "Nylon Bucket Hat",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "nylon-bucket-hats",
+    "category": "nylon-bucket-hats",
+    "shape": "bucket",
+    "tagline": "Light nylon that dries in about 30 minutes and packs into a pocket.",
+    "blurb": "Featherweight nylon bucket for travel and rain. Folds to pocket size, dries fast.",
+    "price": 7.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A nylon bucket is a packing decision more than a fashion one. At under 90 g it adds almost nothing to a bag, dries in about half an hour after rain, and the crown still has enough body to sit up when you put it on.",
+      "The trade-off is hand-feel: nylon is slicker and less breathable than cotton. We line the inside band with thin cotton tape and add eyelets at both sides, which is enough to keep the hat wearable through a humid afternoon outdoors, and it dries flat instead of holding a smell the way a wet cotton band can."
+    ],
+    "features": [
+      { "title": "Packs to a fist", "text": "The crown stuffs into a 9 cm pouch, so it lives in a jacket pocket or camera bag." },
+      { "title": "Dries in 30 minutes", "text": "Solution-dyed nylon sheds water and dries in roughly 30 minutes in sun." },
+      { "title": "Under 90 g", "text": "Light enough that it does not register in a hiking or travel kit." },
+      { "title": "Crisp 6 cm brim", "text": "A bound edge keeps the brim from flopping, wet or dry." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured seamed crown"],
+      ["Fabric", "100% nylon, 70D, 90 g total weight"],
+      ["Brim", "6 cm deep, bound edge"],
+      ["Sweatband", "Cotton tape, 2.5 cm"],
+      ["Eyelets", "2 metal eyelets per side"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, woven label, heat-transfer print"],
+      ["Carton", "100 pcs per carton, 0.09 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label", "Heat-transfer print"],
+    "colors": [
+      { "name": "Olive", "hex": "#4E5A46" },
+      { "name": "Black", "hex": "#1D1F21" },
+      { "name": "Storm", "hex": "#6E7A85" },
+      { "name": "Sand", "hex": "#CFC3A8" }
+    ],
+    "sizes": ["One size (56-60 cm)", "Youth (52-55 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#4E5A46",
+      "brim": "#3E4938",
+      "accent": "#F1EDE0",
+      "stitch": "#8A977F",
+      "mark": "TRAIL",
+      "markScale": 1.05,
+      "bg": "#E6E8DF"
+    },
+    "faqs": [
+      { "q": "Does nylon hold embroidery well?", "a": "Yes, with a light backing. The fabric is thin, so we add a stabilizer behind the front panel to stop the stitch from puckering." },
+      { "q": "Can it go in a washing machine?", "a": "Hand wash cold and air dry. A machine cycle is survivable but the brim binding will start to ripple after a few washes." },
+      { "q": "How small does it pack?", "a": "About 12 x 9 cm when stuffed. It creases, and the creases press out with a warm iron on low." }
+    ],
+    "related": ["waterproof-seam-sealed-bucket", "cotton-twill-bucket-hat", "performance-golf-cap"]
+  },
+
+  {
+    "slug": "waterproof-seam-sealed-bucket",
+    "name": "Waterproof Seam-Sealed Bucket",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "nylon-bucket-hats",
+    "category": "nylon-bucket-hats",
+    "shape": "bucket",
+    "tagline": "PU-coated nylon, fully taped seams and a 3000 mm water column rating.",
+    "blurb": "Seam-sealed rain bucket rated to 3000 mm. Keeps a logo readable in bad weather.",
+    "price": 9.6,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "This is the only bucket in the range built for sustained rain. A PU coating on the reverse of the nylon blocks water and every seam is taped, so the stitching does not become the leak. The fabric is rated at 3000 mm, which holds up to a full day of steady rain.",
+      "The coating adds weight and some stiffness, so the hat feels technical rather than casual and does not pack as small as the plain nylon bucket. Ventilation comes from two brass eyelets at the sides; in heavy rain expect slight moisture at the brow, which is normal for a coated shell."
+    ],
+    "features": [
+      { "title": "Fully taped seams", "text": "Every seam carries 13 mm PU tape, the same sealing method used on rain shells." },
+      { "title": "3000 mm column", "text": "Rated for steady rain and a full working day outside, not for exposed alpine weather." },
+      { "title": "Coating on the reverse", "text": "The outer face stays uncoated, so it takes embroidery without a plastic sheen." },
+      { "title": "Wipes clean with water", "text": "Road spray and mud wipe off with a damp cloth; no machine washing needed." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured seamed crown, taped"],
+      ["Fabric", "100% nylon, PU coated, 3000 mm"],
+      ["Brim", "6.5 cm deep, bound edge"],
+      ["Seams", "13 mm PU tape, fully taped"],
+      ["Sweatband", "Poly mesh, 3 cm"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, heat-transfer print"],
+      ["Carton", "100 pcs per carton, 0.11 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Heat-transfer print", "Reflective heat transfer"],
+    "colors": [
+      { "name": "Steel Blue", "hex": "#46586B" },
+      { "name": "Black", "hex": "#1B1D1F" },
+      { "name": "Moss", "hex": "#4A5346" },
+      { "name": "Burnt Orange", "hex": "#C2542A" }
+    ],
+    "sizes": ["One size (56-60 cm)", "L/XL (58-62 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#46586B",
+      "brim": "#364656",
+      "accent": "#E9EEF2",
+      "stitch": "#8698A8",
+      "mark": "STORM",
+      "markScale": 1,
+      "bg": "#E3E6E8"
+    },
+    "faqs": [
+      { "q": "Is it fully waterproof or only water resistant?", "a": "Waterproof to a 3000 mm column with taped seams. In sustained heavy rain some dampness reaches the brow through the eyelets, which are vents rather than a seam failure." },
+      { "q": "Can I embroider a coated fabric?", "a": "Yes on the front panel, up to 7 cm. The needle leaves small holes, so on orders above 200 pcs we seal the reverse of the embroidery with tape." },
+      { "q": "Does it pack as small as the plain nylon bucket?", "a": "No. The coating holds a crease, so store it flat in a bag rather than stuffed into a pocket." }
+    ],
+    "related": ["nylon-bucket-hat", "tropical-mesh-bucket-hat", "turf-trucker"]
+  },
+
+  {
+    "slug": "mesh-panel-bucket-hat",
+    "name": "Mesh Panel Bucket Hat",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "mesh-bucket-hats",
+    "category": "mesh-bucket-hats",
+    "shape": "bucket",
+    "tagline": "Solid front panel, mesh sides and back, and a rear snap that opens the band.",
+    "blurb": "Bucket with a solid embroidery panel and mesh everywhere else. Built for humid heat.",
+    "price": 8.1,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "This bucket splits the difference between a hat that takes a logo and a hat you can wear in August. The front panel is solid cotton twill for embroidery; the sides and back are mesh, so air moves across the head instead of sitting under a dome.",
+      "A rear snap opens the band by about 3 cm, which matters when one order has to fit a 56 cm and a 60 cm head. The brim stays solid fabric, so the hat still reads as a bucket from across a room, and the mesh is dyed to match the front panel so the build looks deliberate."
+    ],
+    "features": [
+      { "title": "Solid front only", "text": "Front panel is 260 gsm twill; sides and back are 4 mm poly mesh." },
+      { "title": "Rear snap closure", "text": "A snap at the back opens the band roughly 3 cm for a wider fit." },
+      { "title": "Solid twill brim", "text": "The 6 cm brim is twill, not mesh, so it holds shape and shades the face." },
+      { "title": "Ventilated crown body", "text": "Mesh covers about 60% of the crown, which cuts heat build-up in direct sun." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured, solid front panel, mesh body"],
+      ["Fabric", "Cotton twill front, poly mesh sides and back"],
+      ["Brim", "6 cm deep, solid twill, 2-row stitching"],
+      ["Closure", "Rear snap, 3 cm adjustment"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.11 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print"],
+    "colors": [
+      { "name": "Black / Bone", "hex": "#23262A" },
+      { "name": "Navy / White", "hex": "#22304A" },
+      { "name": "Olive / Sand", "hex": "#5A6349" },
+      { "name": "Clay / Cream", "hex": "#A9705A" }
+    ],
+    "sizes": ["One size (56-60 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#23262A",
+      "brim": "#1A1C1F",
+      "accent": "#F2EFE7",
+      "stitch": "#8A8F94",
+      "mark": "SHADE",
+      "markScale": 1,
+      "bg": "#E8E5DE",
+      "mesh": "#D6D2C8"
+    },
+    "faqs": [
+      { "q": "Does mesh let sun through?", "a": "A little. The 4 mm poly mesh blocks most direct light but is not rated for UV, so it is a shade hat rather than a sun-protection hat." },
+      { "q": "Can the mesh be a different color from the front?", "a": "Yes, contrast mesh is available from 100 pcs per colorway at the same price." },
+      { "q": "Will the front panel sag under embroidery?", "a": "No. A 7 cm mark on the solid panel needs no backing; larger marks get a light stabilizer to keep the panel flat." }
+    ],
+    "related": ["tropical-mesh-bucket-hat", "cotton-twill-bucket-hat", "trucker-mesh-cap"]
+  },
+
+  {
+    "slug": "tropical-mesh-bucket-hat",
+    "name": "Tropical Mesh Bucket Hat",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "mesh-bucket-hats",
+    "category": "mesh-bucket-hats",
+    "shape": "bucket",
+    "tagline": "Full mesh body with a solid brim, built for fishing decks and resort guests.",
+    "blurb": "All-mesh bucket that dumps heat. Solid brim, rear loop, nests flat in a tackle bag.",
+    "price": 8.8,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A full mesh body is the coolest option in this range. Air crosses the entire crown, so the hat still works on a boat deck in August where a cotton bucket has stopped being bearable by mid-morning. The brim stays solid fabric, because a mesh brim would collapse in wind and pass the sun straight through.",
+      "Most of these go to fishing, charter and resort buyers who order by the dozen for guests and crew. The crown takes a small embroidery; for a large mark, sew a woven label to the solid band above the brim instead, which holds detail the mesh would swallow."
+    ],
+    "features": [
+      { "title": "Full mesh crown", "text": "3 mm hex mesh runs the whole crown over a solid 4 cm band at the base." },
+      { "title": "Solid 6.5 cm brim", "text": "Twill brim, double stitched, so it holds shape and blocks direct sun." },
+      { "title": "Rear webbing loop", "text": "A small loop at the back takes a chin cord or a hat clip." },
+      { "title": "Nests flat in bags", "text": "Crowns stack inside each other, so 100 pcs ship in 0.13 cbm." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured, full mesh, solid base band"],
+      ["Fabric", "Poly hex mesh crown, cotton twill brim"],
+      ["Brim", "6.5 cm deep, solid, 2-row stitching"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Loop", "Rear webbing loop for chin cord"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, woven label"],
+      ["Carton", "100 pcs per carton, 0.13 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label", "Screen print"],
+    "colors": [
+      { "name": "Sand / Teal", "hex": "#E2D7BE" },
+      { "name": "Bone / Navy", "hex": "#DED5C0" },
+      { "name": "Stone / Forest", "hex": "#C9C2B2" },
+      { "name": "White / Red", "hex": "#EFEAE0" }
+    ],
+    "sizes": ["One size (56-60 cm)", "L/XL (58-62 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#E2D7BE",
+      "brim": "#2E6F70",
+      "accent": "#1F3B3C",
+      "stitch": "#9A8F76",
+      "mark": "ISLA",
+      "markScale": 1.1,
+      "bg": "#EAE7DB",
+      "mesh": "#E4DCC8"
+    },
+    "faqs": [
+      { "q": "Is a full mesh hat too light for wind?", "a": "The brim is solid, so it does catch wind. Use the rear loop with a chin cord on boats; we can fit one from 100 pcs." },
+      { "q": "Can the brim be a contrast color?", "a": "Yes. Two-tone brims are standard stock from 50 pcs per colorway." },
+      { "q": "Does it float?", "a": "Briefly, then it waterlogs. The mesh drains fast once lifted out, but it is not a flotation device." }
+    ],
+    "related": ["mesh-panel-bucket-hat", "wide-brim-sun-bucket", "trucker-mesh-cap"]
+  },
+
+  {
+    "slug": "wide-brim-sun-bucket",
+    "name": "Wide Brim Sun Bucket",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "wide-brim-bucket-hats",
+    "category": "wide-brim-bucket-hats",
+    "shape": "bucket",
+    "tagline": "9 cm brim with a removable neck cord and UPF-rated cotton poplin.",
+    "blurb": "Wide 9 cm brim and neck cord. The bucket you keep on all afternoon in open sun.",
+    "price": 9.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Nine centimeters is roughly where a bucket brim starts shading the ears and the nape, not just the nose. We cut this one with a slight downward dip at front and back and keep the side brim flatter, so it shades without blocking peripheral vision.",
+      "A cotton neck cord ties under the chin or hangs behind the head when it is not needed. The crown is cotton poplin over a light interfacing, which keeps it from collapsing in wind without making it awkward to store: fold it once and it takes about the space of a folded newspaper."
+    ],
+    "features": [
+      { "title": "9 cm brim", "text": "Wide enough to shade ears and nape; the front dips about 1 cm below the sides." },
+      { "title": "Removable neck cord", "text": "Adjustable cotton cord with a wooden toggle, removable by undoing one knot." },
+      { "title": "Light crown interfacing", "text": "The crown holds shape in wind but still folds into a tote." },
+      { "title": "Four side eyelets", "text": "Vents at the sides stop a wide brim from turning the crown into a sauna." }
+    ],
+    "specs": [
+      ["Crown", "Unstructured 4-panel, light interfacing"],
+      ["Fabric", "100% cotton poplin, 180 gsm, UPF-rated"],
+      ["Brim", "9 cm front and back, 8 cm at the sides"],
+      ["Cord", "Cotton neck cord, wooden toggle"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Sizes", "One size (56-60 cm)"],
+      ["Decoration", "Flat embroidery, woven label"],
+      ["Carton", "100 pcs per carton, 0.14 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label", "Screen print"],
+    "colors": [
+      { "name": "Ochre", "hex": "#C98F3E" },
+      { "name": "Natural", "hex": "#DCCBA8" },
+      { "name": "Olive", "hex": "#6A7050" },
+      { "name": "Navy", "hex": "#22304A" }
+    ],
+    "sizes": ["One size (56-60 cm)", "L/XL (58-62 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#C98F3E",
+      "brim": "#B27B31",
+      "accent": "#3A2A18",
+      "stitch": "#F0DFC4",
+      "mark": "SUNUP",
+      "markScale": 1,
+      "bg": "#F0E4D0"
+    },
+    "faqs": [
+      { "q": "Is the fabric certified UPF?", "a": "The mill supplies a UPF rating declaration with the fabric and we will send it with your quote. We do not run an independent lab test on this style." },
+      { "q": "Will the wide brim block my view?", "a": "The sides are 8 cm and cut flatter than the front, so you keep peripheral vision. Field crews generally adapt within a day." },
+      { "q": "Can the neck cord be removed?", "a": "Yes, it threads through two side channels and comes out without tools." }
+    ],
+    "related": ["upf50-wide-brim-bucket", "washed-canvas-bucket-hat", "performance-golf-cap"]
+  },
+
+  {
+    "slug": "upf50-wide-brim-bucket",
+    "name": "UPF 50+ Wide Brim Bucket",
+    "eyebrow": "CUSTOM · BUCKET",
+    "cat": "wide-brim-bucket-hats",
+    "category": "wide-brim-bucket-hats",
+    "shape": "bucket",
+    "tagline": "Lab-tested UPF 50+, 10 cm brim and an anchored chin cord on a safari crown.",
+    "blurb": "Safari-shape bucket with a 10 cm brim and fabric lab-tested to UPF 50+.",
+    "price": 10.8,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "This is the safari shape: a taller crown, a 10 cm brim and a band set lower on the head, so the hat stays put when you look down at a clipboard or a plant bed. The fabric is laboratory tested to UPF 50+, which blocks over 98% of UV radiation, and the test report ships with the order, which most retail buyers need for the listing.",
+      "Field and survey crews, park staff and nurseries are the usual buyers, so it is built for ten-hour days: matte cotton drill that does not glare, a 4 cm sweatband, and a chin cord sewn into both side seams rather than stapled at a single point."
+    ],
+    "features": [
+      { "title": "UPF 50+ tested", "text": "Tested to AATCC 183 in a lab; the report is included with bulk orders." },
+      { "title": "10 cm brim", "text": "The widest brim we run: 10 cm front and back, 9 cm at the sides." },
+      { "title": "Anchored chin cord", "text": "The cord is sewn into both side seams, so it cannot pull out at one point." },
+      { "title": "Matte field-grade drill", "text": "260 gsm cotton drill with a matte finish that does not glare under flash." }
+    ],
+    "specs": [
+      ["Crown", "5-panel field crown, lower band"],
+      ["Fabric", "100% cotton drill, 260 gsm, UPF 50+"],
+      ["Brim", "10 cm front and back, 9 cm at the sides"],
+      ["Cord", "Cotton chin cord, anchored both sides"],
+      ["Sweatband", "Cotton drill, 4 cm"],
+      ["Sizes", "One size (56-60 cm), L/XL (58-62 cm)"],
+      ["Decoration", "Flat embroidery, woven patch, screen print"],
+      ["Carton", "100 pcs per carton, 0.15 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print"],
+    "colors": [
+      { "name": "Bone", "hex": "#E3D9C2" },
+      { "name": "Khaki", "hex": "#C0AE8C" },
+      { "name": "Slate", "hex": "#5C6672" },
+      { "name": "Olive Drab", "hex": "#5A5F45" }
+    ],
+    "sizes": ["One size (56-60 cm)", "L/XL (58-62 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#E3D9C2",
+      "brim": "#C8BC9E",
+      "accent": "#2E3A33",
+      "stitch": "#A39A83",
+      "mark": "SAFARI",
+      "markScale": 0.95,
+      "bg": "#EDE9DC"
+    },
+    "faqs": [
+      { "q": "Does the UPF rating survive washing?", "a": "Yes, to about 40 home launderings on the test fabric. The rating comes from the tightness of the weave and the yarn, not a surface finish that washes off." },
+      { "q": "Can you print the UPF 50+ claim on the label?", "a": "Yes, with the wording from the test report. We will not print a claim that is not on the report." },
+      { "q": "Is this hat unisex?", "a": "Yes, one size with an L/XL. The crown is 1 cm taller than the sun bucket, which suits both." }
+    ],
+    "related": ["wide-brim-sun-bucket", "felt-cowboy-hat", "end-zone-camo-cap"]
+  },
+
+  {
+    "slug": "wool-blend-beret",
+    "name": "Wool Blend Beret",
+    "eyebrow": "CUSTOM · BERET",
+    "cat": "berets",
+    "category": "berets",
+    "shape": "beret",
+    "tagline": "60% wool, 28 cm disc and a leather band. Cut and sewn, not blocked.",
+    "blurb": "Classic 28 cm wool beret with a real leather band. Cut and sewn, not blocked.",
+    "price": 9.8,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Most inexpensive berets are blocked: the wool is pulled over a heated form and steamed into shape. That is fast, and it leaves a hard, papery hand. This one is cut and sewn from a 60% wool blend, so the disc keeps a soft drape and can be shaped by hand over one ear. The edge stays slightly irregular, which is how a sewn beret should look.",
+      "The 28 cm disc is the classic diameter, wide enough to pull over an ear and still look deliberate. A genuine leather sweatband holds the band shape and stops the wool from stretching out after a few months of wear. Cheap berets fail at exactly this band, which is why we do not substitute a knit one."
+    ],
+    "features": [
+      { "title": "Cut, not blocked", "text": "Panels are cut and joined rather than steamed over a form, so the wool stays soft." },
+      { "title": "28 cm disc", "text": "The standard beret diameter; sits wide over one ear without drooping at the back." },
+      { "title": "Genuine leather band", "text": "A 2 cm genuine leather band holds shape and resists stretching." },
+      { "title": "Wool-rich, brushed finish", "text": "60% wool with a brushed surface that takes a heat-set shape." }
+    ],
+    "specs": [
+      ["Construction", "Cut and sewn, not blocked"],
+      ["Crown", "Disc, 28 cm diameter"],
+      ["Fabric", "60% wool / 40% polyester, 340 gsm"],
+      ["Band", "Genuine leather sweatband, 2 cm"],
+      ["Lining", "Unlined"],
+      ["Sizes", "One size (55-58 cm)"],
+      ["Decoration", "Flat embroidery, woven label, metal pin"],
+      ["Carton", "100 pcs per carton, 0.08 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label", "Metal pin"],
+    "colors": [
+      { "name": "Burgundy", "hex": "#6E2230" },
+      { "name": "Black", "hex": "#1A1B1D" },
+      { "name": "Camel", "hex": "#A98B62" },
+      { "name": "Forest", "hex": "#2B4436" }
+    ],
+    "sizes": ["One size (55-58 cm)", "S/M (54-57 cm)", "L/XL (57-60 cm)"],
+    "art": {
+      "shape": "beret",
+      "crown": "#6E2230",
+      "brim": "#5B1B27",
+      "accent": "#EFE4CC",
+      "stitch": "#A9707A",
+      "mark": "ATELIER",
+      "markScale": 0.9,
+      "bg": "#EADFDA"
+    },
+    "faqs": [
+      { "q": "Is this a blocked beret?", "a": "No. It is cut and sewn from a wool blend, which gives a softer drape and a slightly irregular edge. A blocked beret is stiffer and cheaper to make." },
+      { "q": "How do I shape it?", "a": "Dampen the band, pull the disc over one ear and let it dry on your head or over a bowl about 30 cm wide." },
+      { "q": "Does the wool itch?", "a": "The leather band sits between the wool and your forehead, so most wearers are fine. Ask for the cotton-band version if you need one." }
+    ],
+    "related": ["leather-trim-beret", "corduroy-cap", "classic-dad-hat"]
+  },
+
+  {
+    "slug": "leather-trim-beret",
+    "name": "Leather Trim Beret",
+    "eyebrow": "CUSTOM · BERET",
+    "cat": "berets",
+    "category": "berets",
+    "shape": "beret",
+    "tagline": "Wool felt disc with a leather band and a metal badge point at the side.",
+    "blurb": "Wool felt beret with leather trim and a badge point. The dressier cut-and-sew option.",
+    "price": 11.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Same cut-and-sew construction as the wool blend beret, but the surface is a denser wool felt and the band is trimmed in leather rather than plain knit. The result reads dressier, closer to a finished accessory than a piece of uniform. It is the beret buyers order for hotel, gallery and restaurant staff, where a knit band looks too casual.",
+      "A small metal badge point on the left side takes a pin or a die-struck badge, which is where a brand usually puts its mark on a beret. Embroidery on the disc works too, but keep it under 6 cm: the felt is 1.2 mm thick."
+    ],
+    "features": [
+      { "title": "Cut and sewn felt", "text": "Dense wool felt disc, cut and joined rather than blocked, so the edge stays soft." },
+      { "title": "Leather band trim", "text": "A 1.8 cm leather band replaces the usual ribbed knit band." },
+      { "title": "Side badge point", "text": "A reinforced metal point at the left side for a pin or a custom badge." },
+      { "title": "Tighter dress silhouette", "text": "A 27 cm disc and flatter crown than the wool blend beret." }
+    ],
+    "specs": [
+      ["Construction", "Cut and sewn, not blocked"],
+      ["Crown", "Disc, 27 cm diameter"],
+      ["Fabric", "70% wool / 30% polyester felt, 1.2 mm"],
+      ["Trim", "Leather band, 1.8 cm"],
+      ["Hardware", "Metal badge point, antique brass"],
+      ["Sizes", "One size (55-58 cm)"],
+      ["Decoration", "Metal badge, flat embroidery, woven label"],
+      ["Carton", "100 pcs per carton, 0.08 cbm"]
+    ],
+    "decoration": ["Metal badge", "Flat embroidery", "Woven label"],
+    "colors": [
+      { "name": "Charcoal", "hex": "#3A3A3C" },
+      { "name": "Black", "hex": "#1A1B1D" },
+      { "name": "Camel", "hex": "#A98B62" },
+      { "name": "Deep Forest", "hex": "#2B4436" }
+    ],
+    "sizes": ["One size (55-58 cm)", "L/XL (57-60 cm)"],
+    "art": {
+      "shape": "beret",
+      "crown": "#3A3A3C",
+      "brim": "#2C2C2E",
+      "accent": "#C9A227",
+      "stitch": "#8E8E90",
+      "mark": "NOIR",
+      "markScale": 1.05,
+      "bg": "#E4E2DC"
+    },
+    "faqs": [
+      { "q": "Can I supply my own badge?", "a": "Yes. Send a die line or a sample; we can also produce a die-struck badge from a vector file at 200 pcs." },
+      { "q": "Is the leather band real leather?", "a": "Yes, a 1.8 cm genuine leather band. A PU version saves about $0.90 per piece but shows creasing sooner." },
+      { "q": "Why is this beret more expensive?", "a": "The felt is denser and the leather trim and metal point are hand-fitted, which adds roughly 25 minutes of labor per piece." }
+    ],
+    "related": ["wool-blend-beret", "leather-patch-cap", "felt-cowboy-hat"]
+  },
+
+  {
+    "slug": "felt-cowboy-hat",
+    "name": "Felt Cowboy Hat",
+    "eyebrow": "CUSTOM · WESTERN",
+    "cat": "cowboy-hats",
+    "category": "cowboy-hats",
+    "shape": "cowboy",
+    "tagline": "3X wool felt, 10 cm brim and a cattleman crease. Cut and sewn, not wet-blocked.",
+    "blurb": "Wool felt cowboy hat with a cattleman crease and leather band at a workwear price.",
+    "price": 14.5,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Three-ply wool felt, a 10 cm brim and the cattleman crease most buyers ask for: a center dent with two side dents, pressed by hand at the factory. It is the shape you see on working ranches and in country bars, and it does not need a $200 hat to read correctly.",
+      "The body is cut and sewn from felt panels rather than wet-blocked, which is why it lands at this price. You trade some of the crisp, sculpted finish of a blocked hat for a softer feel and the ability to pack it in a suitcase without a hard case."
+    ],
+    "features": [
+      { "title": "3X wool felt", "text": "Three-ply wool felt at about 1.5 mm; holds a crease but stays softer than a 10X body." },
+      { "title": "10 cm brim", "text": "Flat with a gentle side curl; can be shaped up or down before packing." },
+      { "title": "Hand-set cattleman crease", "text": "Center dent with two side dents, hand-pressed and set with steam." },
+      { "title": "Removable leather band", "text": "A 2.2 cm leather band with a silver-tone keeper, removable." }
+    ],
+    "specs": [
+      ["Construction", "Cut and sewn felt, hand-creased"],
+      ["Crown", "Cattleman crease, 11 cm open height"],
+      ["Fabric", "3X wool felt, 1.5 mm"],
+      ["Brim", "10 cm, flat with side curl"],
+      ["Band", "Leather, 2.2 cm, silver keeper"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Sizes", "One size (57-60 cm)"],
+      ["Carton", "50 pcs per carton, 0.22 cbm"]
+    ],
+    "decoration": ["Leather band", "Metal badge", "Brand stamp", "Flat embroidery"],
+    "colors": [
+      { "name": "Silverbelly", "hex": "#C4C0B4" },
+      { "name": "Black", "hex": "#1C1C1E" },
+      { "name": "Saddle", "hex": "#8A5A3B" },
+      { "name": "Chocolate", "hex": "#4A3527" }
+    ],
+    "sizes": ["One size (57-60 cm)", "M (56-58 cm)", "L (59-61 cm)"],
+    "art": {
+      "shape": "cowboy",
+      "crown": "#C4C0B4",
+      "brim": "#ADA99B",
+      "accent": "#4A3722",
+      "stitch": "#8A8478",
+      "mark": "RANCH",
+      "markScale": 1.1,
+      "bg": "#ECEAE2"
+    },
+    "faqs": [
+      { "q": "Is this a blocked hat?", "a": "No. The felt panels are cut and sewn and the crown is creased by hand, which keeps it soft and packable. A wet-blocked hat holds a sharper shape but costs roughly twice as much and does not pack." },
+      { "q": "Will it hold up in rain?", "a": "A light shower is fine if you let it dry away from heat. Prolonged soaking will spot the felt and lift the crease, so bring a cover or a nylon bucket." },
+      { "q": "Can the brim be shaped differently?", "a": "Yes. We can curl the sides up or press the brim flatter before packing at no cost; note it on the order." }
+    ],
+    "related": ["straw-cowboy-hat", "leather-trim-beret", "end-zone-camo-cap"]
+  },
+
+  {
+    "slug": "straw-cowboy-hat",
+    "name": "Straw Cowboy Hat",
+    "eyebrow": "CUSTOM · WESTERN",
+    "cat": "cowboy-hats",
+    "category": "cowboy-hats",
+    "shape": "cowboy",
+    "tagline": "Paper straw weave with a ventilated crown and a braided chin strap.",
+    "blurb": "Paper straw cowboy hat with a vented crown and chin strap. Summer stock that moves.",
+    "price": 12.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Paper straw is the cheapest way into a straw cowboy hat and the most consistent: the weave is uniform, the color does not yellow, and it holds a shape in dry heat. It is not a hat for rain, because one soaking softens the weave permanently.",
+      "Two woven vent panels sit above the band so heat escapes instead of collecting under the crown, and a braided chin strap keeps the hat on in wind or on a boat. Sold as summer seasonal stock, usually next to the felt version, and both shapes share a 2.2 cm band so a retailer can show them as one group."
+    ],
+    "features": [
+      { "title": "Paper straw weave", "text": "A tight 5 mm weave with a smooth finish that takes a band without bulk." },
+      { "title": "Vented crown sides", "text": "Two woven vent panels let heat out above the sweatband." },
+      { "title": "Braided chin strap", "text": "Cord with a sliding knot, anchored into both side seams." },
+      { "title": "Flexes for travel", "text": "The crown is cut and sewn, so it packs without a hard hat case." }
+    ],
+    "specs": [
+      ["Construction", "Cut and sewn straw, not blocked"],
+      ["Crown", "Cattleman crease, vented sides"],
+      ["Fabric", "Paper straw, 5 mm weave"],
+      ["Brim", "9.5 cm, flat with side curl"],
+      ["Strap", "Braided chin cord, sliding knot"],
+      ["Sweatband", "Cotton twill, 2.5 cm"],
+      ["Sizes", "One size (57-60 cm)"],
+      ["Carton", "50 pcs per carton, 0.20 cbm"]
+    ],
+    "decoration": ["Leather band", "Woven label", "Metal badge", "Screen print"],
+    "colors": [
+      { "name": "Natural Straw", "hex": "#D9C08A" },
+      { "name": "Bleached", "hex": "#E8DCC0" },
+      { "name": "Toasted", "hex": "#B08A55" },
+      { "name": "Black Weave", "hex": "#2A2926" }
+    ],
+    "sizes": ["One size (57-60 cm)", "M (56-58 cm)", "L (59-61 cm)"],
+    "art": {
+      "shape": "cowboy",
+      "crown": "#D9C08A",
+      "brim": "#C3A76F",
+      "accent": "#4A3722",
+      "stitch": "#8A7448",
+      "mark": "PRAIRIE",
+      "markScale": 1,
+      "bg": "#F0E8D4"
+    },
+    "faqs": [
+      { "q": "Can I wear it in rain?", "a": "No. Paper straw softens and loses shape once soaked. For wet weather take the felt cowboy hat or a nylon bucket." },
+      { "q": "How do I clean it?", "a": "Brush dust off with a soft brush and wipe marks with a barely damp cloth. Do not soak it or run it under a tap." },
+      { "q": "Is it crushable?", "a": "It flexes and survives a suitcase better than a blocked straw hat, but it is not crushable in the sense a travel hat is." }
+    ],
+    "related": ["felt-cowboy-hat", "wide-brim-sun-bucket", "upf50-wide-brim-bucket"]
+  }
+]

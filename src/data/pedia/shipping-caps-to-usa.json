@@ -1,0 +1,139 @@
+{
+  "slug": "shipping-caps-to-usa",
+  "title": "Shipping Caps to the USA: Express, Air and Sea Freight",
+  "h1": "Shipping Custom Caps from China to the U.S.: Modes, Incoterms and Customs",
+  "description": "Express, air and sea freight compared for caps, plus packing, Incoterms EXW, FOB and DDP, HTS 6505, duties and the delays that hold up most shipments.",
+  "category": "Logistics",
+  "updated": "2026-11-23",
+  "readMinutes": 6,
+  "tldr": [
+    "Express courier lands in 5–8 days door to door and suits roughly 50–300 caps; air freight takes 8–12 days for the middle range; sea LCL runs 30–40 days and wins on cost for large, non-urgent orders.",
+    "Caps are light but bulky, so carriers bill volumetric weight — always compare the charged weight against the actual carton weight before you judge a rate.",
+    "EXW means you arrange everything from the factory gate, FOB means you take over at the port, and DDP means the supplier delivers to your door with duty paid.",
+    "Duty depends on the HTS subheading for your fiber content, and Section 301 tariffs on China-origin goods change, so confirm the current rate before you set a retail price."
+  ],
+  "intro": "Moving caps from a factory in Shandong to a shop in Ohio is mostly a packing and paperwork problem, not a transport problem. Here is how the three modes compare, what each Incoterm commits you to, and the three mistakes behind most customs delays.",
+  "keyFacts": [
+    { "label": "Fastest door to door", "value": "Express, 5–8 days" },
+    { "label": "Air freight", "value": "8–12 days" },
+    { "label": "Sea freight (LCL)", "value": "30–40 days" },
+    { "label": "HTS heading for textile headwear", "value": "6505" },
+    { "label": "DDP door delivery", "value": "Available" },
+    { "label": "Duty and tariffs", "value": "Confirm current rate by HTS code" }
+  ],
+  "sections": [
+    {
+      "h2": "How do custom caps get from China to the U.S.?",
+      "blocks": [
+        { "type": "p", "text": "Three ways: express courier, air freight, or sea freight, which at cap volumes usually means LCL, where your cartons share a container with other cargo. The right choice depends on carton count and your in-hands date, not the rate per kilo alone." },
+        { "type": "p", "text": "A 100-cap order and a 5,000-cap order are different problems: small batches travel as parcels, because fixed entry fees cost more than the air they save." }
+      ]
+    },
+    {
+      "h2": "Which shipping mode should you choose?",
+      "blocks": [
+        { "type": "p", "text": "Express for speed and small orders, air freight for the middle, and sea LCL when you can plan six weeks or more ahead." },
+        {
+          "type": "table",
+          "head": ["Mode", "Transit time", "Cost per kg", "Best batch size", "Watch out for"],
+          "rows": [
+            ["Express courier", "5–8 days door to door", "Highest — you buy speed and tracking", "50–300 caps", "Bulky, light cartons bill on volume"],
+            ["Air freight", "8–12 days", "Middle — falls as volume grows", "300–2,000 caps", "Needs a broker and a U.S. address"],
+            ["Sea LCL", "30–40 days", "Lowest per kg, plus fixed fees", "1,000+ caps or pallets", "Slowest mode, and fixed fees hurt small loads"]
+          ],
+          "caption": "Transit times are Raymark's standard ranges. Cost per kg moves with fuel surcharges, season and carrier, so ask for a live quote."
+        },
+        { "type": "callout", "tone": "note", "title": "Compare landed cost per cap, not rate per kilo", "text": "Caps are low-density freight. A carton weighing 8 kg can bill at 20 kg volumetric, so the cheapest-looking rate can lose once dimensional weight and fees are added." }
+      ]
+    },
+    {
+      "h2": "How do caps pack, and why does volumetric weight matter?",
+      "blocks": [
+        { "type": "p", "text": "Caps compress well because a crown is mostly air. Factories stack unstructured caps flat, pack structured caps crown to crown, and pick a carton that keeps dimensional weight near actual weight." },
+        {
+          "type": "ul",
+          "items": [
+            "Volumetric weight is length × width × height in cm ÷ 5,000 for express and ÷ 6,000 for air freight; billable weight is the greater.",
+            "As a common rule of thumb, a cap carton holds 100–150 pieces at roughly 60 × 40 × 40 cm; confirm the count on your packing list.",
+            "Unstructured and dad-hat styles compress best, while structured, flat-brim and rope caps need more carton volume and cost more per piece to fly.",
+            "Individual poly bags add a little volume but protect against scuffing, so request them on retail-bound orders."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "What do EXW, FOB and DDP actually mean?",
+      "blocks": [
+        { "type": "p", "text": "They name the exact point where cost and risk pass from the factory to you, and the same caps quote very differently under each, so pick one before you ask for prices." },
+        {
+          "type": "ul",
+          "items": [
+            "EXW (Ex Works): you buy at the factory door in Heze and arrange pickup, export clearance, freight, duty and delivery. Lowest invoice, most work.",
+            "FOB (Free On Board): the supplier delivers to the named port and clears export, and you pay freight from there plus duty and inland delivery.",
+            "DDP (Delivered Duty Paid): the supplier handles freight, duty and final delivery to your door. One landed price, which is why small brands start here; Raymark quotes DDP on request."
+          ]
+        },
+        { "type": "callout", "tone": "tip", "title": "Price the same order both ways", "text": "The gap between an FOB and a DDP quote tells you what freight and duty really cost. If DDP comes in close to FOB plus a small margin, take it and skip the paperwork." }
+      ]
+    },
+    {
+      "h2": "What do you need in place for U.S. customs?",
+      "blocks": [
+        { "type": "p", "text": "An importer of record, an EIN and a broker to file the entry. The importer of record is legally responsible for the entry, so it should be your company if you buy to resell." },
+        {
+          "type": "ul",
+          "items": [
+            "HTS classification: textile headwear sits under HTS heading 6505, and the full subheading depends on fiber content and knit construction, so confirm the code with your broker.",
+            "EIN: a U.S. employer identification number, or an SSN for a sole proprietor, used by CBP to identify the importer.",
+            "Customs bond: a continuous bond covers every entry for a year, a single-entry bond covers one shipment; a broker arranges either.",
+            "Documents: commercial invoice with HTS code, origin and unit value, plus a packing list and the bill of lading or air waybill. Ocean freight also needs an ISF filed 24 hours before loading."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How are duty and tariffs worked out?",
+      "blocks": [
+        { "type": "p", "text": "Duty is a percentage of the declared customs value, set by the HTS subheading. Section 301 tariffs, the Merchandise Processing Fee and, on ocean imports, the Harbor Maintenance Fee all add to the landed cost." },
+        {
+          "type": "ul",
+          "items": [
+            "Declared value is the transaction value: what you actually paid the factory, plus tooling or artwork you supplied free of charge.",
+            "Section 301 tariffs apply to many China-origin goods and have been revised several times, so check the current lists for your code.",
+            "The Merchandise Processing Fee is a percentage of value with a minimum and maximum per entry, so splitting one shipment into several small entries costs more.",
+            "Fiber content can change the subheading, so a cotton cap and a polyester mesh cap may not land at the same rate."
+          ]
+        },
+        { "type": "callout", "tone": "warn", "title": "Do not budget from a remembered rate", "text": "Rates on China-origin headwear have changed more than once. A figure quoted from memory, or from an old article, is a planning placeholder, so confirm the current rate for your HTS code." }
+      ]
+    },
+    {
+      "h2": "What is de minimis, and does it still apply?",
+      "blocks": [
+        { "type": "p", "text": "De minimis is the value threshold below which a shipment can enter duty-free with minimal paperwork. The historic U.S. threshold is $800 per shipment per importer, but eligibility for goods of Chinese origin has been restricted and the rules have changed." },
+        { "type": "p", "text": "For cap programs, do not build a landed-cost model on de minimis. Enter the goods commercially with a broker and treat a duty-free outcome as a bonus." }
+      ]
+    },
+    {
+      "h2": "What causes the three most common delays?",
+      "blocks": [
+        { "type": "p", "text": "Paperwork, timing and the import setup. Nearly every delayed cap shipment traces to one of those three, and all three are fixable before the cartons leave Heze." },
+        {
+          "type": "steps",
+          "items": [
+            { "title": "Match the invoice to the goods", "text": "Description, HTS code, fiber content, quantity and unit value must agree across the invoice and packing list." },
+            { "title": "Book production around peak season", "text": "Bulk runs take 12–18 days after artwork approval, and peak season pushes that to 18–25 days. Map transit and customs backward from your in-hands date." },
+            { "title": "Set up the import side first", "text": "Have your EIN, bond and broker ready before the shipment sails, because cargo that arrives without a bond sits in a warehouse at your expense." }
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Is express shipping cheaper than air freight for caps?", "a": "Rarely per kilo, often per order. Below roughly 300 caps express usually wins on total landed cost, because air freight adds broker fees and airport handling that a small shipment cannot absorb." },
+    { "q": "Who is the importer of record on a DDP shipment?", "a": "Usually the supplier or their forwarder, which is why DDP is easy for small brands. If you want the entry in your own name for resale records or a bond history, buy FOB and hire a broker." },
+    { "q": "Do I need a customs broker to import caps?", "a": "In practice yes, unless you file entries yourself. A broker classifies the goods, files the entry, arranges the bond and handles exams, and most charge a per-entry fee plus the bond cost." },
+    { "q": "How many caps fit in a shipping carton?", "a": "Commonly 100–150, with unstructured styles packing tighter than structured ones. Ask for the packing list and calculate volumetric weight before you choose a mode." }
+  ],
+  "related": ["cap-fabric-guide", "cap-care-guide", "trucker-mesh-cap"]
+}

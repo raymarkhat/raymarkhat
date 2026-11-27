@@ -1,0 +1,932 @@
+[
+  {
+    "slug": "heavyweight-6-panel-cap",
+    "name": "Heavyweight 6-Panel Cap",
+    "eyebrow": "CUSTOM · 6-PANEL",
+    "cat": "classic-baseball-cap",
+    "shape": "baseball",
+    "tagline": "300 gsm cotton twill, six structured panels, and a crown that holds a dense logo.",
+    "blurb": "The premium blank: dense 300 gsm twill and a stiff front panel that keeps logos crisp.",
+    "price": 7.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Most caps are built from 240 to 260 gsm twill. This one runs 300 gsm, a heavier yarn count that gives the crown body and stops the front panel from softening after a season. Six sewn panels, a full buckram front and a pre-curved visor keep the shape square in the box.",
+      "It is the blank brands order when the logo is the product: one dense front mark, a small side hit, nothing else. The heavier weave also takes 3D puff better, because the stitches sit on a surface that does not pucker under the tension of a dense stitch block."
+    ],
+    "features": [
+      {
+        "title": "300 gsm twill",
+        "text": "Roughly 40 gsm heavier than a standard cap, so the crown resists softening and the brim keeps its curve."
+      },
+      {
+        "title": "Structured front",
+        "text": "Full buckram backing keeps the panel flat, which holds a 9 cm embroidered mark legible at a distance."
+      },
+      {
+        "title": "Holds puff embroidery",
+        "text": "The dense weave carries 3D puff up to 4 mm without the panel puckering underneath the stitch block."
+      },
+      {
+        "title": "One size, adjustable",
+        "text": "Metal slide buckle adjusts 56–60 cm; S/M, L/XL and youth bands are cut on the same minimum."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, mid-profile, structured"],
+      ["Fabric", "100% cotton twill, 300 gsm"],
+      ["Visor", "Pre-curved, 7.5 cm deep, 6-row stitching"],
+      ["Closure", "Metal slide buckle with tuck-in strap"],
+      ["Sweatband", "Cotton twill, 4-needle stitched"],
+      ["Eyelets", "6 embroidered eyelets"],
+      ["Decoration", "3D puff, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.15 cbm"]
+    ],
+    "decoration": ["3D puff embroidery", "Flat embroidery", "Woven patch", "Leather patch"],
+    "colors": [
+      { "name": "Stone", "hex": "#CDC6B6" },
+      { "name": "Natural", "hex": "#E6DFCB" },
+      { "name": "Washed Black", "hex": "#3A3A38" },
+      { "name": "Deep Navy", "hex": "#22304A" }
+    ],
+    "sizes": ["One size (56–60 cm)", "S/M (55–57 cm)", "L/XL (58–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#CDC6B6",
+      "brim": "#B3AC99",
+      "accent": "#2A2A26",
+      "stitch": "#EFE9DC",
+      "mark": "HEAVY",
+      "markScale": 1,
+      "bg": "#E8E4D8"
+    },
+    "faqs": [
+      {
+        "q": "What makes this heavier than your other six-panels?",
+        "a": "The twill is 300 gsm against 240–260 gsm on a standard cap, and the crown carries a full buckram front rather than a partial one."
+      },
+      {
+        "q": "Why is it $7.40 at 50 pcs?",
+        "a": "The heavier fabric costs more per meter and the structured build takes longer to block, which adds roughly $1.00 over our entry six-panel."
+      },
+      {
+        "q": "Can I buy it blank for my own decoration?",
+        "a": "Yes. Blanks ship in 7–10 days and can be packed flat with no fold crease if your own embroidery shop finishes them."
+      }
+    ],
+    "related": ["signature-6-panel-cap", "structured-fitted-cap", "leather-patch-cap"]
+  },
+  {
+    "slug": "structured-fitted-cap",
+    "name": "Structured Fitted Cap",
+    "eyebrow": "CUSTOM · FITTED",
+    "cat": "fitted-caps",
+    "shape": "baseball",
+    "tagline": "Acrylic-wool fitted crown in half sizes, flat or curved visor, no adjuster.",
+    "blurb": "True fitted cap with a sewn-in size band and a high structured crown. No strap.",
+    "price": 11.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A fitted cap is a size, not a range. The band is sewn in from 6 7/8 to 7 5/8 in half sizes, the crown is blocked on a wooden form, and there is no plastic snap to loosen after a hundred wears. That is why it reads as equipment rather than giveaway.",
+      "The acrylic-wool blend holds a pressed shape better than cotton, resists pilling at the band and takes 3D puff cleanly on the front panel. Order a balanced size run across six or seven sizes, or send the size curve from your last program and we will cut to it."
+    ],
+    "features": [
+      {
+        "title": "Half sizes, no adjuster",
+        "text": "6 7/8 to 7 5/8, each size blocked separately, so the fit does not depend on a strap."
+      },
+      {
+        "title": "Pressed on a block",
+        "text": "Steam-pressed over a wooden form after sewing; the crown keeps its shape through packing and wear."
+      },
+      {
+        "title": "Flat or curved visor",
+        "text": "Stock build is flat with 6 rows of stitching; we curve it in-house at no charge when specified."
+      },
+      {
+        "title": "3D puff front",
+        "text": "The high front panel carries raised embroidery up to 10 cm wide without visible distortion."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, high-profile, structured"],
+      ["Fabric", "80% acrylic / 20% wool, 320 gsm"],
+      ["Visor", "Flat or curved, 7.5 cm, 6-row stitching"],
+      ["Closure", "None — sewn-in fitted band"],
+      ["Sweatband", "Woven poly with size label"],
+      ["Sizes", "6 7/8 – 7 5/8, half sizes"],
+      ["Decoration", "3D puff, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.17 cbm"]
+    ],
+    "decoration": ["3D puff embroidery", "Flat embroidery", "Woven patch", "Metal badge"],
+    "colors": [
+      { "name": "Burgundy", "hex": "#5E2230" },
+      { "name": "Black", "hex": "#16181B" },
+      { "name": "Navy", "hex": "#1E2A42" },
+      { "name": "Heather Grey", "hex": "#9AA0A6" }
+    ],
+    "sizes": ["6 7/8", "7", "7 1/8", "7 1/4", "7 3/8", "7 1/2", "7 5/8"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#5E2230",
+      "brim": "#481A25",
+      "accent": "#EFE4CC",
+      "stitch": "#C08A93",
+      "mark": "CLUB 6",
+      "markScale": 0.95,
+      "bg": "#EBDCD8",
+      "puff": true
+    },
+    "faqs": [
+      {
+        "q": "Do I have to order every size?",
+        "a": "No, but a fitted run is usually split across five to seven sizes. Send a size curve and we will quote the mix."
+      },
+      {
+        "q": "Can the visor arrive curved?",
+        "a": "Yes. The stock visor is flat; we shape it before packing at no extra cost if it is noted on the order."
+      },
+      {
+        "q": "Will the wool blend shrink?",
+        "a": "Cold hand wash and air dry. Hot water shrinks the band about half a size, and that is not recoverable."
+      }
+    ],
+    "related": ["pro-fit-fitted-cap", "wool-blend-fitted-cap", "heavyweight-6-panel-cap"]
+  },
+  {
+    "slug": "wool-blend-fitted-cap",
+    "name": "Wool Blend Fitted Cap",
+    "eyebrow": "CUSTOM · FITTED",
+    "cat": "fitted-caps",
+    "shape": "baseball",
+    "tagline": "Twenty percent wool, on-field crown shape, eight rows of visor stitching.",
+    "blurb": "Wool-blend fitted cap with the on-field silhouette and dense eight-row visor stitching.",
+    "price": 12.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "The gap between a wool blend and a straight acrylic cap shows in the hand: the wool adds loft, the crown presses sharper and the fabric does not shine under arena lights. Ours runs 20% wool, enough to change the look without the price of a full wool felt.",
+      "Built to the on-field pattern: high structured crown, flat visor, eight rows of stitching across the brim and a fitted band with no adjuster. Half sizes from 6 7/8 to 7 5/8, each blocked individually so a 7 1/4 is actually a 7 1/4 and not a 7 3/8."
+    ],
+    "features": [
+      {
+        "title": "20% wool blend",
+        "text": "Wool adds loft and a matte surface; the visor keeps its shape instead of curling after a season."
+      },
+      {
+        "title": "8-row visor stitching",
+        "text": "Eight concentric stitch rows at 6 mm spacing, the densest brim build we run."
+      },
+      {
+        "title": "On-field pattern",
+        "text": "High crown, flat brim, fitted band and no adjuster — the shape used on the field."
+      },
+      {
+        "title": "Blocked per size",
+        "text": "Every half size is pressed on its own form, which keeps sizing consistent between production runs."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, high-profile, structured"],
+      ["Fabric", "80% acrylic / 20% wool, 340 gsm"],
+      ["Visor", "Flat, 7.5 cm deep, 8-row stitching"],
+      ["Closure", "None — sewn-in fitted band"],
+      ["Sweatband", "Woven poly with size label"],
+      ["Sizes", "6 7/8 – 7 5/8, half sizes"],
+      ["Decoration", "3D puff, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.17 cbm"]
+    ],
+    "decoration": ["3D puff embroidery", "Flat embroidery", "Woven patch", "Chenille patch"],
+    "colors": [
+      { "name": "Hunter Green", "hex": "#1B3B31" },
+      { "name": "Black", "hex": "#16181B" },
+      { "name": "Navy", "hex": "#1F2B44" },
+      { "name": "Off White", "hex": "#EFE9DC" }
+    ],
+    "sizes": ["6 7/8", "7", "7 1/8", "7 1/4", "7 3/8", "7 1/2", "7 5/8"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#1B3B31",
+      "brim": "#14291F",
+      "accent": "#D9B45B",
+      "stitch": "#CBBE8E",
+      "mark": "ONFIELD",
+      "markScale": 0.88,
+      "bg": "#E2E6DE",
+      "puff": true
+    },
+    "faqs": [
+      {
+        "q": "How much wool is actually in it?",
+        "a": "20% wool, 80% acrylic. A full wool cap costs about $3 more per piece and runs hotter; the blend keeps the matte look without the heat."
+      },
+      {
+        "q": "Is the eight-row stitching structural?",
+        "a": "It stiffens the visor edge as well as finishing it, which is why the brim stays flat instead of curling over time."
+      },
+      {
+        "q": "Why does it cost more than the acrylic fitted cap?",
+        "a": "The wool content raises the yarn price and the extra stitch rows add machine time, about $1.20 per piece at this quantity."
+      }
+    ],
+    "related": ["structured-fitted-cap", "pro-fit-fitted-cap", "gridiron-snapback"]
+  },
+  {
+    "slug": "wordmark-snapback",
+    "name": "Wordmark Snapback",
+    "eyebrow": "CUSTOM · SNAPBACK",
+    "cat": "snapback-caps",
+    "shape": "baseball",
+    "tagline": "Mid-profile snapback with a flat brim, cut for long thin wordmarks.",
+    "blurb": "Six-panel snapback shaped for wide, thin lettering. Flat brim, plastic snap.",
+    "price": 9.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Most snapbacks are built for a badge. This one is built for a line of type: a mid-profile crown, a front panel without heavy buckram support, and a flat brim that keeps the proportions horizontal. Long, thin wordmarks read cleanly across it instead of wrapping around a stiff curve.",
+      "The stock build is six panels with a seven-position plastic snap and a cotton twill sweatband. Because the crown sits lower than a high-profile streetwear shape, the cap works as merch for a record label or a coffee brand, not only for a skate drop."
+    ],
+    "features": [
+      {
+        "title": "Made for wide marks",
+        "text": "The flat brim and mid crown give a horizontal field that suits letterforms up to 14 cm wide."
+      },
+      {
+        "title": "7-position snap",
+        "text": "Plastic snapback adjusts about 55–61 cm and does not slip the way a buckle does under daily wear."
+      },
+      {
+        "title": "Low front buckram",
+        "text": "Partial support only, so thin lettering sits flat instead of bridging a hard curve."
+      },
+      {
+        "title": "Flat brim, 6-row",
+        "text": "Uncurved 7.5 cm visor with six stitch rows; we can pre-curve it on request at no cost."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, mid-profile, structured"],
+      ["Fabric", "100% cotton twill, 280 gsm"],
+      ["Visor", "Flat, 7.5 cm deep, 6-row stitching"],
+      ["Closure", "7-position plastic snapback"],
+      ["Sweatband", "Cotton twill"],
+      ["Eyelets", "6 embroidered eyelets"],
+      ["Decoration", "Flat embroidery, woven patch, screen print"],
+      ["Carton", "100 pcs per carton, 0.15 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print", "Sublimation"],
+    "colors": [
+      { "name": "Olive Drab", "hex": "#6E7250" },
+      { "name": "Black", "hex": "#1A1B1D" },
+      { "name": "Stone", "hex": "#C9C2B2" },
+      { "name": "Burgundy", "hex": "#6E2230" }
+    ],
+    "sizes": ["One size (55–61 cm)", "Youth (52–55 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#6E7250",
+      "brim": "#5A5E42",
+      "accent": "#F2EDE0",
+      "stitch": "#C9C6AA",
+      "mark": "MERIDIAN",
+      "markScale": 0.78,
+      "bg": "#E7E5D8"
+    },
+    "faqs": [
+      {
+        "q": "How wide can my wordmark be?",
+        "a": "About 14 cm across the front panel before the ends start to drop over the curve. Send the artwork and we scale it in the proof."
+      },
+      {
+        "q": "Is the brim really flat?",
+        "a": "Yes, it ships uncurved. We can curve it before packing if your customers expect a traditional shape."
+      },
+      {
+        "q": "Can you embroider a strapline under the wordmark?",
+        "a": "Yes. A second line of text adds about $0.45 per piece and needs 8 mm of clear space between lines."
+      }
+    ],
+    "related": ["flat-brim-snapback", "gridiron-snapback", "heavyweight-6-panel-cap"]
+  },
+  {
+    "slug": "foam-front-trucker",
+    "name": "Foam Front Trucker",
+    "eyebrow": "CUSTOM · TRUCKER",
+    "cat": "trucker-caps",
+    "shape": "baseball",
+    "tagline": "Foam front, mesh back, five panels — the cheapest large-logo build we run.",
+    "blurb": "Classic foam-front trucker with a mesh back. Biggest flat logo area for the money.",
+    "price": 7.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "The foam-front trucker is the least expensive way to put a large logo on a cap. The front is a single molded foam panel, so a 12 cm print or patch sits perfectly flat with no curve to fight, and the mesh back keeps both the cost and the weight down.",
+      "It is a five-panel build with a snapback, which suits promo, farm supply, landscaping, fishing and event work across the U.S. South and Midwest, where a cheap cap that breathes matters more than a fashion shape. Bright foam colors are stock; we dye to a Pantone reference from 100 pcs per colorway."
+    ],
+    "features": [
+      {
+        "title": "12 cm flat field",
+        "text": "The molded foam front takes a 12 cm wide print or patch with no curvature distortion."
+      },
+      {
+        "title": "Breathes in heat",
+        "text": "Poly mesh back panels move air; it is the coolest cap in the range in direct sun."
+      },
+      {
+        "title": "Lowest decoration cost",
+        "text": "Screen print on foam is our cheapest method, about $0.30 per piece at volume."
+      },
+      {
+        "title": "Five-panel front",
+        "text": "No center seam across the front, so a single wide mark stays uninterrupted."
+      }
+    ],
+    "specs": [
+      ["Crown", "5-panel, mid-profile, foam front"],
+      ["Fabric", "Poly foam front, poly mesh back"],
+      ["Visor", "Curved, 7 cm deep, 4-row stitching"],
+      ["Closure", "7-position plastic snapback"],
+      ["Sweatband", "Polyester"],
+      ["Eyelets", "None — mesh vents"],
+      ["Decoration", "Screen print, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.18 cbm"]
+    ],
+    "decoration": ["Screen print", "Flat embroidery", "Woven patch", "Sublimation"],
+    "colors": [
+      { "name": "Navy / White", "hex": "#26364F" },
+      { "name": "Red / White", "hex": "#B3202A" },
+      { "name": "Black / Grey", "hex": "#1A1B1D" },
+      { "name": "Lime / Black", "hex": "#9BBF3A" }
+    ],
+    "sizes": ["One size (55–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#26364F",
+      "brim": "#1B2839",
+      "accent": "#F4EFE2",
+      "stitch": "#D7DEE8",
+      "mark": "FIELD",
+      "markScale": 1.1,
+      "bg": "#E7E1D3",
+      "mesh": "#E4DCCB",
+      "fivePanel": true
+    },
+    "faqs": [
+      {
+        "q": "Why is the carton larger than a twill cap?",
+        "a": "Foam fronts do not compress. A 100-pc carton runs about 0.18 cbm against 0.15 for twill, so freight per piece is slightly higher."
+      },
+      {
+        "q": "Can the mesh be a color other than white?",
+        "a": "Yes, contrast mesh is available from 100 pcs per colorway; stock builds ship with white mesh."
+      },
+      {
+        "q": "Is embroidery possible on the foam front?",
+        "a": "Yes, but keep it under 8 cm wide. Larger embroidery pulls the foam and leaves a visible ring."
+      }
+    ],
+    "related": ["trucker-mesh-cap", "contrast-mesh-trucker", "turf-trucker"]
+  },
+  {
+    "slug": "contrast-mesh-trucker",
+    "name": "Contrast Mesh Trucker",
+    "eyebrow": "CUSTOM · TRUCKER",
+    "cat": "trucker-caps",
+    "shape": "baseball",
+    "tagline": "Two-tone trucker with contrast mesh, a piped brim and a snapback closure.",
+    "blurb": "Two-tone trucker with contrast mesh and piping. A promo cap that looks designed.",
+    "price": 8.1,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "The foam-front trucker is cheap; the two-tone version looks expensive. Contrast mesh against the front panel, piping along the visor edge and a snapback closure turn a giveaway into something a retailer will hang on a peg instead of dropping it into a clearance bin.",
+      "Piping is the detail that separates this from a plain trucker: a corded edge in a third color runs the whole visor line and picks up the mesh tone. Stock builds ship in four two-tone combinations; custom Pantone splits start at 100 pcs per colorway, with a matched under-brim."
+    ],
+    "features": [
+      {
+        "title": "Contrast mesh",
+        "text": "A second color in the back mesh and under-brim adds depth without extra decoration cost."
+      },
+      {
+        "title": "Corded visor piping",
+        "text": "Piping runs the visor edge in a third color, the detail that reads as a designed cap."
+      },
+      {
+        "title": "Molded foam front",
+        "text": "Still holds a 12 cm flat logo area; the two-tone build limits nothing about decoration."
+      },
+      {
+        "title": "Snapback closure",
+        "text": "Seven-position plastic snap, about 55–61 cm, better for shared stock than a buckle."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, mid-profile, foam front"],
+      ["Fabric", "Poly foam front, contrast poly mesh back"],
+      ["Visor", "Curved, 7 cm deep, contrast piping"],
+      ["Closure", "7-position plastic snapback"],
+      ["Sweatband", "Polyester"],
+      ["Eyelets", "None — mesh vents"],
+      ["Decoration", "Screen print, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.18 cbm"]
+    ],
+    "decoration": ["Screen print", "Flat embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Terracotta / Cream", "hex": "#A2543C" },
+      { "name": "Forest / Cream", "hex": "#2C4A3B" },
+      { "name": "Black / Sand", "hex": "#1A1B1D" },
+      { "name": "Royal / White", "hex": "#2B4C7E" }
+    ],
+    "sizes": ["One size (55–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#A2543C",
+      "brim": "#EFE6D2",
+      "accent": "#F4EFE2",
+      "stitch": "#E7CDBA",
+      "mark": "SUMMIT",
+      "markScale": 1.05,
+      "bg": "#EBE0D4",
+      "mesh": "#E8DCC4"
+    },
+    "faqs": [
+      {
+        "q": "Is the piping a separate material?",
+        "a": "It is a braided cord sewn into the visor seam, matched to the mesh color or set to a third color at your choice."
+      },
+      {
+        "q": "Can the mesh and piping be different colors?",
+        "a": "Yes. Crown, mesh and piping can each be a different color inside the same per-colorway minimum."
+      },
+      {
+        "q": "Does the two-tone build cost more?",
+        "a": "About $0.55 per piece over the single-tone trucker, which covers the extra cutting and color matching, not the materials."
+      }
+    ],
+    "related": ["turf-trucker", "foam-front-trucker", "trucker-mesh-cap"]
+  },
+  {
+    "slug": "tour-golf-cap",
+    "name": "Tour Golf Cap",
+    "eyebrow": "CUSTOM · GOLF",
+    "cat": "golf-caps",
+    "shape": "baseball",
+    "tagline": "Laser-perforated technical tour cap with a moisture-wicking sweatband.",
+    "blurb": "Tour-shaped performance cap: perforated panels, wicking band, structured front.",
+    "price": 9.8,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A tour cap has to look technical without looking like a running hat. This one is built on a low structured crown with laser-perforated side panels, a wicking sweatband and a matte poly shell that does not shine under a camera flash or a clubhouse light.",
+      "The perforations are laser cut, not punched, so the hole edges stay clean through repeated washing. Fabric weight is around 165 gsm, light enough for a July round on a humid afternoon and dense enough to hold a structured front panel and a crisp embroidered mark."
+    ],
+    "features": [
+      {
+        "title": "Laser-cut vents",
+        "text": "Perforations are cut by laser rather than punched, so edges do not fray and the pattern stays even."
+      },
+      {
+        "title": "Wicking sweatband",
+        "text": "Poly band with an antimicrobial finish pulls sweat off the brow and dries in minutes."
+      },
+      {
+        "title": "Structured low crown",
+        "text": "Light buckram keeps the front flat without the height of a streetwear crown."
+      },
+      {
+        "title": "Matte finish",
+        "text": "A dull poly surface that photographs without glare, which is why tour caps look expensive on camera."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, low-profile, structured"],
+      ["Fabric", "100% polyester, matte finish, 165 gsm"],
+      ["Visor", "Curved, 6.8 cm deep, 6-row stitching"],
+      ["Closure", "Metal slide buckle"],
+      ["Sweatband", "Moisture-wicking poly, antimicrobial"],
+      ["Eyelets", "Laser-perforated side panels"],
+      ["Decoration", "Flat embroidery, laser-etched patch, sublimation"],
+      ["Carton", "100 pcs per carton, 0.13 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Laser-etched patch", "Sublimation", "Screen print"],
+    "colors": [
+      { "name": "Storm", "hex": "#5C6E7A" },
+      { "name": "White", "hex": "#EFEDE7" },
+      { "name": "Black", "hex": "#191B1C" },
+      { "name": "Coastal Blue", "hex": "#5C87A8" }
+    ],
+    "sizes": ["One size (55–59 cm)", "L/XL (58–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#5C6E7A",
+      "brim": "#46545E",
+      "accent": "#F7F4EC",
+      "stitch": "#C6D0D6",
+      "mark": "TOUR",
+      "markScale": 1.1,
+      "bg": "#E4E8E8",
+      "perf": true
+    },
+    "faqs": [
+      {
+        "q": "Do the perforations weaken the crown?",
+        "a": "No. They are limited to the side panels, which carry no structural load, and the front keeps a full buckram backing."
+      },
+      {
+        "q": "Is this the same body as your performance golf cap?",
+        "a": "Same pattern family, but this build uses a lighter 165 gsm matte shell and a lower crown height."
+      },
+      {
+        "q": "Can I print instead of embroider?",
+        "a": "Yes, sublimation and heat transfer both work on the poly shell; embroidery holds up longer on the structured front."
+      }
+    ],
+    "related": ["performance-golf-cap", "pique-golf-cap", "performance-golf-visor"]
+  },
+  {
+    "slug": "pique-golf-cap",
+    "name": "Piqué Golf Cap",
+    "eyebrow": "CUSTOM · GOLF",
+    "cat": "golf-caps",
+    "shape": "baseball",
+    "tagline": "Cotton piqué golf cap with a metal buckle and a classic club profile.",
+    "blurb": "Piqué cotton, mid crown, brass buckle. The clubhouse cap without the club markup.",
+    "price": 8.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Piqué is the polo-shirt weave: a small raised diamond that gives cotton texture and lets air through. On a cap it reads as clubhouse rather than sportswear, which is why pro shops and resort accounts order it over a technical shell. It also creases less than plain twill after a day in a golf bag.",
+      "The build is deliberately traditional: six panels, mid-profile structured crown, curved visor and an antique brass slide buckle with a fabric tuck strap. Embroidered club marks sit well on the piqué surface, and the weave hides the slight puckering that flat twill shows along the seam under dense stitching."
+    ],
+    "features": [
+      {
+        "title": "Piqué weave",
+        "text": "A raised diamond texture that breathes better than plain twill and hides creasing in a bag."
+      },
+      {
+        "title": "Brass buckle",
+        "text": "Antique brass slide buckle and fabric tuck strap instead of a plastic snap."
+      },
+      {
+        "title": "Club proportions",
+        "text": "Mid-profile crown and a 7 cm curved visor, the shape a pro shop expects to see."
+      },
+      {
+        "title": "Tonal or contrast mark",
+        "text": "Cream on navy or white on forest; the weave holds fine 2 mm lettering cleanly."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, mid-profile, structured"],
+      ["Fabric", "100% cotton piqué, 260 gsm"],
+      ["Visor", "Curved, 7 cm deep, 4-row stitching"],
+      ["Closure", "Antique brass slide buckle"],
+      ["Sweatband", "Cotton piqué"],
+      ["Eyelets", "6 embroidered eyelets"],
+      ["Decoration", "Flat embroidery, woven patch, screen print"],
+      ["Carton", "100 pcs per carton, 0.14 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print", "Woven label"],
+    "colors": [
+      { "name": "Sky", "hex": "#8FB6CE" },
+      { "name": "Forest", "hex": "#2C4A3B" },
+      { "name": "Cream", "hex": "#EFE5D2" },
+      { "name": "Navy", "hex": "#22304A" }
+    ],
+    "sizes": ["One size (56–60 cm)", "Youth (52–55 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#8FB6CE",
+      "brim": "#6E97B0",
+      "accent": "#1F2E3A",
+      "stitch": "#DCE7EE",
+      "mark": "LINK",
+      "markScale": 1,
+      "bg": "#E4EAEE"
+    },
+    "faqs": [
+      {
+        "q": "Will piqué shrink when washed?",
+        "a": "Expect up to 2% on the first cold wash. We cut with that allowance, so the fit after washing matches the stated size."
+      },
+      {
+        "q": "Can I get this in a technical poly piqué?",
+        "a": "Yes, a poly piqué version exists at the same price and dries faster; ask for it when you request the quote."
+      },
+      {
+        "q": "Is the buckle solid brass?",
+        "a": "Antique brass finish over zinc alloy. Solid brass is available from 300 pcs at about $0.40 more per piece."
+      }
+    ],
+    "related": ["tour-golf-cap", "rope-cap", "performance-golf-cap"]
+  },
+  {
+    "slug": "performance-golf-visor",
+    "name": "Performance Golf Visor",
+    "eyebrow": "CUSTOM · VISOR",
+    "cat": "golf-visors",
+    "shape": "visor",
+    "tagline": "Open-top visor with a wide wicking band and a laser-perforated brim.",
+    "blurb": "Open-top performance visor. Wide wicking band, low glare, built for summer rounds.",
+    "price": 6.9,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A visor solves the problem a cap creates: heat. With the crown open, air moves over the head, and a wide band still catches sweat before it reaches the eyes. Ours uses a 4.5 cm band with a wicking lining rather than the thin elastic band on a promotional visor.",
+      "The brim is a poly twill with a matte finish and laser-perforated vents on the top surface, so it does not turn into a heat trap in direct sun. One size with an elastic back section fits roughly 55–59 cm and has no visible adjuster to break."
+    ],
+    "features": [
+      {
+        "title": "Wide 4.5 cm band",
+        "text": "A broad band with a wicking lining catches sweat before it reaches the brow."
+      },
+      {
+        "title": "Open crown",
+        "text": "No crown means maximum airflow; the coolest option in the range for July events."
+      },
+      {
+        "title": "Perforated brim",
+        "text": "Laser vents in the brim surface stop heat building on top of the head."
+      },
+      {
+        "title": "Hidden elastic",
+        "text": "An elastic back section holds 55–59 cm with no plastic tab or buckle showing."
+      }
+    ],
+    "specs": [
+      ["Crown", "Open top, 4.5 cm band, structured brim"],
+      ["Fabric", "100% polyester twill, matte, 170 gsm"],
+      ["Visor", "Curved, 7 cm deep, 4-row stitching"],
+      ["Closure", "Elastic back section, no adjuster"],
+      ["Sweatband", "Moisture-wicking poly terry"],
+      ["Eyelets", "Laser-perforated brim vents"],
+      ["Decoration", "Flat embroidery, heat transfer"],
+      ["Carton", "100 pcs per carton, 0.10 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Heat transfer", "Woven label"],
+    "colors": [
+      { "name": "Deep Teal", "hex": "#2F6F6B" },
+      { "name": "White", "hex": "#EFEDE7" },
+      { "name": "Black", "hex": "#191B1C" }
+    ],
+    "sizes": ["One size (55–59 cm)"],
+    "art": {
+      "shape": "visor",
+      "crown": "#2F6F6B",
+      "brim": "#245955",
+      "accent": "#F4EFE2",
+      "stitch": "#CFE0DC",
+      "mark": "CLUB 9",
+      "markScale": 1,
+      "bg": "#E2E9E6"
+    },
+    "faqs": [
+      {
+        "q": "Does an open visor stay on during a swing?",
+        "a": "Yes, if the band is sized correctly. The elastic holds 55–59 cm; larger heads should take the XL band, which we cut at 60 cm."
+      },
+      {
+        "q": "Can I put a logo on the band?",
+        "a": "Up to 6 cm wide on the front of the band, embroidered or heat transferred. Wider marks wrap around the curve."
+      },
+      {
+        "q": "Is this unisex?",
+        "a": "Yes. The band is one size and the brim is 7 cm deep, which suits most women and men without a separate pattern."
+      }
+    ],
+    "related": ["performance-golf-cap", "knit-band-visor", "pique-golf-cap"]
+  },
+  {
+    "slug": "knit-band-visor",
+    "name": "Knit Band Visor",
+    "eyebrow": "CUSTOM · VISOR",
+    "cat": "golf-visors",
+    "shape": "visor",
+    "tagline": "Soft knit band visor that packs flat, with an elastic back and no hardware.",
+    "blurb": "Knit-band visor that folds into a bag. Elastic back, no hardware, travel-ready.",
+    "price": 7.6,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "This visor is built around a soft knit band rather than a stiff shell, so it can be folded in half and pushed into a golf bag without taking a permanent crease. It comes out looking the way it went in, which is useful for resort shops that hand them out at the first tee.",
+      "The band is a two-layer knit with a cotton-facing inner edge, and the brim is a light cotton-nylon blend with a sewn edge rather than a molded plastic core. One size fits 54–59 cm on the hidden elastic, and the whole visor weighs just under 60 g."
+    ],
+    "features": [
+      {
+        "title": "Packs flat",
+        "text": "No rigid band or plastic brim core, so it folds and recovers without a permanent crease."
+      },
+      {
+        "title": "Soft knit band",
+        "text": "Two-layer knit with a cotton-facing inner edge that does not scratch the forehead."
+      },
+      {
+        "title": "Under 60 g",
+        "text": "Light enough to forget you are wearing it, and cheap to ship in a padded mailer."
+      },
+      {
+        "title": "Elastic back",
+        "text": "Hidden elastic covers 54–59 cm with no visible tab or buckle."
+      }
+    ],
+    "specs": [
+      ["Crown", "Open top, 4 cm knit band"],
+      ["Fabric", "Cotton-nylon knit, 220 gsm"],
+      ["Visor", "Curved, 6.5 cm deep, sewn edge"],
+      ["Closure", "Elastic back section, no adjuster"],
+      ["Sweatband", "Cotton-jersey facing"],
+      ["Eyelets", "None — knit band vents naturally"],
+      ["Decoration", "Woven label, heat transfer, flat embroidery"],
+      ["Carton", "200 pcs per carton, 0.10 cbm"]
+    ],
+    "decoration": ["Woven label", "Heat transfer", "Flat embroidery"],
+    "colors": [
+      { "name": "Coral", "hex": "#D08A72" },
+      { "name": "Sand", "hex": "#D9CBB0" },
+      { "name": "Navy", "hex": "#22304A" },
+      { "name": "Olive", "hex": "#6B6F4A" }
+    ],
+    "sizes": ["One size (54–59 cm)"],
+    "art": {
+      "shape": "visor",
+      "crown": "#D08A72",
+      "brim": "#B8725C",
+      "accent": "#2B2620",
+      "stitch": "#F0DFD4",
+      "mark": "KNIT",
+      "markScale": 1.1,
+      "bg": "#EDE1D8"
+    },
+    "faqs": [
+      {
+        "q": "Does it lose shape after packing?",
+        "a": "No. The band has no rigid core, so it recovers as soon as it is worn; that is the whole reason it exists as a travel SKU."
+      },
+      {
+        "q": "How does sizing work without an adjuster?",
+        "a": "Elastic covers 54–59 cm. Outside that range the band will pinch or sit loose, so we do not recommend it for XL programs."
+      },
+      {
+        "q": "Can I embroider the band?",
+        "a": "A woven label or heat transfer is the better choice; embroidery on a knit band adds bulk and can pucker the band."
+      }
+    ],
+    "related": ["performance-golf-visor", "tour-golf-cap", "performance-golf-cap"]
+  },
+  {
+    "slug": "featherweight-running-cap",
+    "name": "Featherweight Running Cap",
+    "eyebrow": "CUSTOM · RUNNING",
+    "cat": "running-caps",
+    "shape": "baseball",
+    "tagline": "90 gsm micro poly running cap with an optional reflective trim.",
+    "blurb": "Featherweight running cap in 90 gsm micro poly. Low profile, reflective option.",
+    "price": 8.9,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "At 90 gsm the shell is about half the weight of a standard cotton cap, and the finished piece comes in near 55 g. That matters on a long run: less fabric to soak, faster drying, and no heavy buckram pressing on the forehead after twenty minutes.",
+      "The pattern is low profile with a short 6 cm visor, so it sits under a helmet or a hood without lifting. Reflective trim can be added along the visor edge and the back seam, which makes it a practical option for early and late training."
+    ],
+    "features": [
+      {
+        "title": "90 gsm shell",
+        "text": "About half the weight of cotton twill; the finished cap is close to 55 g."
+      },
+      {
+        "title": "Reflective option",
+        "text": "Retroreflective tape along the visor edge and back seam, available from 100 pcs."
+      },
+      {
+        "title": "Low profile",
+        "text": "Short 6 cm visor and a shallow crown that sit under a helmet or a hood."
+      },
+      {
+        "title": "Dries fast",
+        "text": "Micro poly knit releases water quickly, so a soaked cap is dry in about 20 minutes in sun."
+      }
+    ],
+    "specs": [
+      ["Crown", "6-panel, low-profile, unstructured"],
+      ["Fabric", "100% micro polyester, 90 gsm"],
+      ["Visor", "Curved, 6 cm deep, 4-row stitching"],
+      ["Closure", "Elastic drawcord with toggle"],
+      ["Sweatband", "Moisture-wicking poly mesh"],
+      ["Eyelets", "Bonded mesh side panels"],
+      ["Decoration", "Heat transfer, flat embroidery, sublimation"],
+      ["Carton", "200 pcs per carton, 0.09 cbm"]
+    ],
+    "decoration": ["Heat transfer", "Flat embroidery", "Sublimation", "Reflective trim"],
+    "colors": [
+      { "name": "Volt", "hex": "#CDDC4A" },
+      { "name": "Black", "hex": "#191B1C" },
+      { "name": "White", "hex": "#F0EFE9" },
+      { "name": "Storm Grey", "hex": "#8E9498" }
+    ],
+    "sizes": ["One size (55–59 cm)", "S/M (54–57 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#CDDC4A",
+      "brim": "#2A3320",
+      "accent": "#1F2418",
+      "stitch": "#8C9A38",
+      "mark": "PACE",
+      "markScale": 1.15,
+      "bg": "#E9EBDD"
+    },
+    "faqs": [
+      {
+        "q": "Does the reflective trim cost extra?",
+        "a": "About $0.60 per piece from 100 pcs, applied to the visor edge and the back seam."
+      },
+      {
+        "q": "Will it fit under a bike helmet?",
+        "a": "Yes. The 6 cm visor and shallow crown were cut for that; it also fits under a hood without pushing the brim down."
+      },
+      {
+        "q": "Is 90 gsm too thin to hold a logo?",
+        "a": "Heat transfer and small embroidery both work. Keep embroidery under 6 cm wide and backed, or the thin knit will pucker."
+      }
+    ],
+    "related": ["performance-golf-cap", "tennis-club-cap", "classic-dad-hat"]
+  },
+  {
+    "slug": "tennis-club-cap",
+    "name": "Tennis Club Cap",
+    "eyebrow": "CUSTOM · RUNNING",
+    "cat": "running-caps",
+    "shape": "baseball",
+    "tagline": "Five-panel tennis cap with a short visor and a light cotton blend shell.",
+    "blurb": "Short-visor five-panel in light cotton blend. Made for courts, clubs and resort shops.",
+    "price": 8.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Tennis caps are cut short on purpose: a 6 cm visor keeps the ball in view on an overhead, and a five-panel crown sits close enough to stay put through a serve. This one is built on a light cotton blend at about 180 gsm, cool enough for a full match.",
+      "The palette is club rather than sport: cream, navy, forest and clay, with contrast visor options that pick up the court color. A metal buckle keeps the back clean and flat, and the short visor means the cap reads as tennis from thirty feet away."
+    ],
+    "features": [
+      {
+        "title": "Short 6 cm visor",
+        "text": "Cut short so an overhead does not disappear behind the brim."
+      },
+      {
+        "title": "Five-panel crown",
+        "text": "No center seam, sits close, and stays put through a serve."
+      },
+      {
+        "title": "Light cotton blend",
+        "text": "About 180 gsm, cool enough for a full match and structured enough to hold a mark."
+      },
+      {
+        "title": "Metal buckle",
+        "text": "Antique brass buckle and tuck strap, a cleaner back than a plastic snap."
+      }
+    ],
+    "specs": [
+      ["Crown", "5-panel, mid-profile, unstructured"],
+      ["Fabric", "60% cotton / 40% polyester, 180 gsm"],
+      ["Visor", "Curved, 6 cm deep, 4-row stitching"],
+      ["Closure", "Antique brass slide buckle"],
+      ["Sweatband", "Cotton twill"],
+      ["Eyelets", "6 embroidered eyelets"],
+      ["Decoration", "Flat embroidery, woven patch, screen print"],
+      ["Carton", "100 pcs per carton, 0.13 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print"],
+    "colors": [
+      { "name": "Court Cream", "hex": "#EDE7D6" },
+      { "name": "Clay", "hex": "#B5713F" },
+      { "name": "Forest", "hex": "#2C4A3B" },
+      { "name": "Navy", "hex": "#22304A" }
+    ],
+    "sizes": ["One size (55–59 cm)", "Youth (52–55 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#EDE7D6",
+      "brim": "#2C3B52",
+      "accent": "#2C3B52",
+      "stitch": "#C9C0AC",
+      "mark": "SET 3",
+      "markScale": 1.05,
+      "bg": "#EAE4D4",
+      "fivePanel": true
+    },
+    "faqs": [
+      {
+        "q": "Why is the visor shorter than a standard cap?",
+        "a": "It is a tennis-specific cut: a 6 cm brim keeps the ball visible when you look up for a lob or a serve."
+      },
+      {
+        "q": "Is this cap unisex?",
+        "a": "Yes, one size at 55–59 cm with a buckle. A youth band at 52–55 cm is available on the same minimum."
+      },
+      {
+        "q": "Can I order a matching visor?",
+        "a": "Yes, the knit band visor can be built in the same fabric and colorway for a two-SKU club order."
+      }
+    ],
+    "related": ["pique-golf-cap", "featherweight-running-cap", "rope-cap"]
+  }
+]

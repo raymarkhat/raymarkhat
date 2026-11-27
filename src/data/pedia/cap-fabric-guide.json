@@ -1,0 +1,137 @@
+{
+  "slug": "cap-fabric-guide",
+  "title": "Cap Fabric Guide: Cotton Twill, Canvas and Mesh",
+  "h1": "Baseball Cap Fabric Guide: Twill, Canvas, Corduroy, Mesh and Leather",
+  "description": "Twill, canvas, corduroy, denim, acrylic blends, mesh and leather compared by GSM, breathability, pilling, embroidery behavior and best use case.",
+  "category": "Materials",
+  "updated": "2026-11-23",
+  "readMinutes": 6,
+  "tldr": [
+    "Most baseball caps are 100% cotton twill, commonly in the 240–320 GSM range, because a dense twill weave holds a structured crown and takes flat or 3D puff embroidery cleanly.",
+    "Weight comes first: below roughly 220 GSM a crown needs stiffening to stand up, and above roughly 320 GSM the cap stands on its own but takes longer to break in.",
+    "Polyester performance mesh suits golf and summer promo, canvas and corduroy suit retail and boutique drops, and leather is a patch and trim material rather than a full crown.",
+    "Fabric is a small share of a cap's cost — decoration, panel count and trim move the unit price more — so choose the hand feel you want and let GSM follow."
+  ],
+  "intro": "Fabric is the first thing a customer feels and the last thing most buyers specify. This guide covers the ten fabrics you will actually be quoted on, what GSM changes, and which one fits promo, retail, team, golf and workwear programs.",
+  "keyFacts": [
+    { "label": "Most common cap fabric", "value": "100% cotton twill" },
+    { "label": "Typical cap twill weight", "value": "240–320 GSM" },
+    { "label": "Lightest common option", "value": "Performance mesh, 120–180 GSM" },
+    { "label": "Heaviest common option", "value": "Canvas and corduroy, 300–400 GSM" },
+    { "label": "Best embroidery ground", "value": "Cotton twill" },
+    { "label": "Custom minimum", "value": "50 pcs per style and colorway" }
+  ],
+  "sections": [
+    {
+      "h2": "What fabric are most baseball caps made of?",
+      "blocks": [
+        { "type": "p", "text": "Most baseball caps are 100% cotton twill. Twill is a diagonal-rib weave that packs yarn densely, so a six-panel crown cut from it holds its shape and gives embroidery a flat, stable ground for a 4,000–9,000 stitch front logo." },
+        { "type": "p", "text": "That is why twill is the default on structured caps: it carries a stiffened front panel well, resists needle pull, and keeps its body after washing. The two numbers worth asking a supplier for are fiber content and GSM." }
+      ]
+    },
+    {
+      "h2": "How does each common cap fabric behave?",
+      "blocks": [
+        { "type": "p", "text": "Every fabric below trades structure, breathability, sheen and cost against the others, and each one changes how your logo sits on the cap." },
+        {
+          "type": "ul",
+          "items": [
+            "Cotton twill: the workhorse. Matte, moderate breathability, minimal pilling, and the best all-round surface for flat and 3D puff embroidery.",
+            "Brushed cotton: twill or canvas sanded for a peach hand. Soft and forgiving, but it fades sooner and picks up finger oil at the brim.",
+            "Canvas: a plain or basket weave, usually 300–400 GSM. Dry and heavy, ideal for unstructured camp caps and workwear, coarse for fine lettering.",
+            "Corduroy: cotton with a cut pile in wales, usually 8–14 per inch. Warm and textured, but the pile swallows small stitch detail.",
+            "Denim: 10–14 oz indigo-dyed cotton twill. It fades on purpose, crocks onto light clothing when new, and wants a heavier needle.",
+            "Acrylic and wool blends: warm and matte. Acrylic pills more than wool, while wool costs more and can felt if washed warm.",
+            "Polyester performance and mesh: light, often 120–180 GSM, quick-drying and highly breathable in mesh panels. It shows needle holes if a logo is unpicked.",
+            "Nylon: smooth, light, and often used for shells and webbing. It is slippery under the needle, so it needs backing and a slower stitch rate.",
+            "Leather and faux leather: usually a patch, visor or trim rather than a full crown. It punches instead of weaving, so laser engraving often replaces thread.",
+            "Recycled polyester: chemically the same as polyester, spun from post-consumer PET. Hand and behavior match virgin polyester; the benefit is the material story."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "What does weight in GSM actually change?",
+      "blocks": [
+        { "type": "p", "text": "GSM is the best single predictor of how a cap feels and ages. Heavier fabric holds a taller, stiffer crown and resists creasing in a carton; lighter fabric drapes, packs flat and breathes, but collapses when wet." },
+        {
+          "type": "ul",
+          "items": [
+            "Structure: below roughly 220 GSM a crown needs stiffening, and above roughly 320 GSM it stands on its own but takes weeks to break in.",
+            "Breathability: weave matters as much as weight, so a 300 GSM open canvas breathes better than a 200 GSM tight polyester.",
+            "Shrinkage: untreated cotton twill commonly moves 2–5% on the first cold wash, while pre-shrunk and garment-washed lots move less and cost more.",
+            "Hand: heavy twill feels dry and papery at first and softens with wear, while brushed and washed finishes start soft and stay that way."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Which fabric fits which use case?",
+      "blocks": [
+        { "type": "p", "text": "Match the fabric to how the cap will be worn and sold, not to how it looks in a photo. The table is the short version." },
+        {
+          "type": "table",
+          "head": ["Fabric", "Typical GSM", "Breathability", "Embroidery", "Best for"],
+          "rows": [
+            ["Cotton twill", "240–320", "Moderate", "Excellent", "Promo, retail, team"],
+            ["Brushed cotton", "240–300", "Moderate", "Very good", "Retail, lifestyle"],
+            ["Canvas", "300–400", "Moderate to good", "Good, coarse", "Workwear, camp caps"],
+            ["Corduroy", "280–350", "Low to moderate", "Fair, bold shapes", "Boutique, fall drops"],
+            ["Denim", "300–400", "Moderate", "Good", "Vintage, streetwear"],
+            ["Acrylic or wool blend", "250–350", "Low", "Very good", "Winter, team"],
+            ["Performance mesh", "120–180", "High", "Good", "Golf, running, summer promo"],
+            ["Nylon", "100–200", "Moderate", "Fair, needs backing", "Outdoor, packable"],
+            ["Leather or faux leather", "Patch and trim", "Low", "Fair, low density", "Premium, patch-led"],
+            ["Recycled polyester", "150–300", "Moderate to high", "Good", "Brands with a material story"]
+          ],
+          "caption": "GSM ranges are typical figures quoted for cap fabric rather than a standard, so confirm the mill's spec sheet before you commit."
+        }
+      ]
+    },
+    {
+      "h2": "How does fabric choice affect cost per piece?",
+      "blocks": [
+        { "type": "p", "text": "Less than most buyers expect. Fabric is a minor share of a cap's cost, and decoration, panel count, labor and trim move the unit price more. Raymark's 50 pc minimum per style and colorway is low enough to test a heavier canvas before a full rollout." },
+        {
+          "type": "ul",
+          "items": [
+            "As a common rule of thumb, stepping up 60–80 GSM adds cents per cap rather than dollars, because a cap uses little cloth.",
+            "Wool blends and genuine leather are the real cost jumps, while recycled polyester now prices close to virgin polyester at volume.",
+            "Garment, enzyme and acid washes are separate process steps, each with its own minimum batch per color.",
+            "Corduroy and canvas waste more in cutting, so the fabric line item rises even when the price per meter looks similar."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Why does twill embroider better than mesh or corduroy?",
+      "blocks": [
+        { "type": "p", "text": "Because embroidery needs a dense, flat, dimensionally stable ground. Twill gives the needle an even surface, so a typical 6–9 cm front logo lands with clean edges and no puckering." },
+        {
+          "type": "ul",
+          "items": [
+            "Mesh and performance knits stretch, so add cut-away or tear-away backing and expect a slightly softer edge.",
+            "Corduroy pile swallows small text, so keep lettering bold and avoid hairlines under about 2 mm.",
+            "Leather needs lower stitch density and a fresh sharp needle, or the holes tear and never close.",
+            "3D puff works best on twill and flat canvas and worst on stretch mesh, because the foam needs a stable ground."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "What about pilling, fading and color fastness?",
+      "blocks": [
+        { "type": "p", "text": "Pilling comes from loose staple fibers working free and balling up, so brushed cotton, acrylic and low-twist wool blends pill first, while tight-filament polyester and combed cotton twill barely pill at all." },
+        { "type": "p", "text": "Color fastness depends on dye method as much as fiber. Piece-dyed and garment-dyed lots can crock for the first few washes, indigo denim fades by design, and sulfur-dyed blacks can bleed, so wash dark caps alone, cold, and inside out." },
+        { "type": "callout", "tone": "tip", "title": "Lock the dye lot before a repeat order", "text": "If a second run has to match an existing cap, send a physical sample and ask the mill to hold the dye lot. A screen color cannot confirm a match, and lots drift between runs." }
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Is 100% cotton twill better than a cotton-poly blend for caps?", "a": "Neither is better, because they solve different problems. Cotton breathes and takes embroidery cleanly but wrinkles and can shrink, while a cotton-poly blend holds shape, resists shrinking and dries faster at the cost of a slicker hand." },
+    { "q": "What GSM is a typical baseball cap?", "a": "Most cap twill sits around 240–320 GSM. Light summer caps run 200–240 GSM, and heavy canvas or corduroy caps run 300–400 GSM and above." },
+    { "q": "Which cap fabric is best for a hot climate?", "a": "A light polyester performance mesh with mesh back panels, or a light cotton twill with metal eyelets. Look for an open weave and venting rather than assuming that thin fabric is automatically cooler." },
+    { "q": "Can you embroider on a leather cap?", "a": "Yes, with adjustments. Leather and faux leather take embroidery at lower stitch density with a sharp needle, and laser engraving is often the cleaner choice for fine detail." }
+  ],
+  "related": ["cap-care-guide", "shipping-caps-to-usa", "corduroy-cap"]
+}

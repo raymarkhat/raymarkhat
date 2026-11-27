@@ -1,0 +1,17 @@
+{
+  "name": "raymark-caps",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static marketing site for Heze Raymark International Trade Co., Ltd — custom & pro-colorway caps",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node tools/serve.mjs 8787",
+    "brand": "python tools/make_brand_assets.py",
+    "qa": "node tools/qa.mjs",
+    "photos": "node tools/photos.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "5-panel-vs-6-panel",
+  "title": "5-Panel vs 6-Panel Caps: Fit, Logo Area, Cost",
+  "h1": "5-Panel vs 6-Panel Caps: How Panel Count Changes Fit and Logos",
+  "description": "See how 5-panel and 6-panel caps differ in seam layout, front logo area, crown depth, and cost, and which crown suits your artwork before you order.",
+  "category": "Construction",
+  "updated": "2026-11-23",
+  "readMinutes": 5,
+  "tldr": [
+    "A 5-panel cap has one wide front panel with no center seam; a 6-panel cap has a seam splitting the front in two.",
+    "Wide wordmarks fit a 5-panel better; tall crests and stacked marks fit a 6-panel better.",
+    "Most promo caps are 6-panel because the blank is a stock standard and takes a large front logo.",
+    "Panel count is a small cost factor; structure, decoration, and blank availability drive price more.",
+    "A 5-panel usually sits flatter and shallower, while a 6-panel reads as the classic baseball shape."
+  ],
+  "intro": "Panel count is the first thing to settle when you pick a cap shape, because it decides where the seams fall and how much flat space your logo gets. It also shifts crown depth, structure options, and cost. Here is the practical difference between a 5-panel and a 6-panel, without the catalog language.",
+  "keyFacts": [
+    { "label": "5-panel layout", "value": "one wide front panel, no center seam" },
+    { "label": "6-panel layout", "value": "six triangles, front center seam" },
+    { "label": "Common 5-panel styles", "value": "camp caps, rope hats, 5-panel snapbacks" },
+    { "label": "Common 6-panel styles", "value": "classic baseball caps, promo caps, trucker fronts" },
+    { "label": "Custom MOQ", "value": "50 pcs per colorway" }
+  ],
+  "sections": [
+    {
+      "h2": "What is the difference between a 5-panel and a 6-panel cap?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A 5-panel cap is cut from five pieces of fabric with no seam down the middle of the front; a 6-panel cap uses six triangular panels that meet at a button on top, with a seam running down the center of the front. That one seam shapes everything else: logo area, crown depth, structure options, and cost."
+        },
+        {
+          "type": "p",
+          "text": "The 6-panel is the classic baseball silhouette. The 5-panel is the flatter, lower cap you see in skate, workwear, and camp-style caps, where the wide front panel is the point."
+        }
+      ]
+    },
+    {
+      "h2": "How does panel count change the front logo area?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A 5-panel gives you one wide, uninterrupted front panel, which suits horizontal wordmarks, wide badges, and logos that would otherwise be split by a seam. A 6-panel splits the front into two halves, so the usable flat area is narrower and taller."
+        },
+        {
+          "type": "p",
+          "text": "For a wide logo, the 5-panel is the easier canvas. For a tall crest, a stacked monogram, or a mark with a vertical axis, the 6-panel's center seam reads as a natural spine and the two front panels give you height. Embroidery that crosses the center seam on a 6-panel can pucker and shift, so wide marks are often scaled down or moved to a patch instead."
+        }
+      ]
+    },
+    {
+      "h2": "Structured or unstructured: which crown should you pick?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A structured crown has a stiff backing fused into the front panels, so the cap stands up on its own and holds its shape; an unstructured crown is soft and collapses flat. Most 5-panels are unstructured or lightly structured, while 6-panels come either way."
+        },
+        {
+          "type": "p",
+          "text": "Structure affects how the logo sits. A structured front holds a flat plane for dense embroidery; an unstructured front drapes, so heavy stitch counts can pull and distort the panel. If your artwork is dense or large, choose structure or reduce stitch density."
+        }
+      ]
+    },
+    {
+      "h2": "Where do camp caps and rope hats fit in?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Camp caps and rope hats are 5-panel variants. The [camp cap](/caps/camp-5-panel-cap/) is the unstructured, low-profile 5-panel, often in nylon or canvas, and a [rope hat](/caps/rope-cap/) adds a braided cord along the front seam of a 5-panel crown."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Camp cap: five panels, unstructured, shallow crown, short brim; suited to casual, outdoor, and boutique looks",
+            "Rope cap: five panels with a cord at the front seam; the cord draws the eye to the front and pairs well with a small embroidered mark",
+            "6-panel snapback: flat brim and plastic snap, with a structured front that takes a large logo"
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Both 5-panel variants read as fashion or heritage rather than sport, which is why they show up in boutique drops and brand collaborations more often than in promo catalogs."
+        }
+      ]
+    },
+    {
+      "h2": "Why are most promo caps 6-panel?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Most promo caps are 6-panel because the blank is the industry standard. Mills and decorators stock it in dozens of colors, embroidery frames are set up for it, and the structured front takes a big logo without special handling. Volume makes it the cheapest and fastest option."
+        },
+        {
+          "type": "p",
+          "text": "A 6-panel also fits more head shapes predictably, because the seams shape the crown into a rounder dome. For a distributor ordering 500 caps with one logo, that predictability is worth more than a slightly wider front panel."
+        }
+      ]
+    },
+    {
+      "h2": "How does panel count affect cost?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Panel count itself is a small cost factor. The bigger drivers are whether the crown is structured, how the front is decorated, and whether the style is a stock blank. A 5-panel is not automatically cheaper, because it uses fewer seams but often a wider front panel and a less common blank."
+        },
+        {
+          "type": "p",
+          "text": "Where a 5-panel adds cost is customization: a rope cord, a camp-style short brim, or a patch on an unstructured front all add handwork. Where it can save is decoration, because one wide panel takes a large embroidered mark without splitting it across a seam."
+        }
+      ]
+    },
+    {
+      "h2": "Which should you pick for a wide logo versus a tall logo?",
+      "blocks": [
+        {
+          "type": "table",
+          "head": ["Attribute", "5-panel", "6-panel"],
+          "rows": [
+            ["Front seam", "None; one wide panel", "Center seam splits the front"],
+            ["Best logo shape", "Wide wordmarks, horizontal badges", "Tall crests, stacked marks"],
+            ["Crown depth", "Usually shallower", "Usually deeper and rounder"],
+            ["Structure", "Often unstructured or lightly structured", "Available structured or unstructured"],
+            ["Typical styles", "Camp caps, rope hats, 5-panel snapbacks", "Classic baseball caps, promo caps, trucker fronts"],
+            ["Fit feel", "Flatter, closer to the head", "Rounder, more volume above the head"],
+            ["Cost at 50-500 pcs", "Higher on non-stock builds", "Lowest on stock blanks"]
+          ],
+          "caption": "Panel count is a shape decision first and a cost decision second. Size, color, and decoration change the price more than the panel count does."
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "title": "Run a logo test",
+          "text": "Put your artwork on a 5-panel and a 6-panel mockup before you commit. If the mark is wider than it is tall, the 5-panel usually wins; if it is taller than wide, the 6-panel gives it a spine."
+        }
+      ]
+    },
+    {
+      "h2": "What about fit depth and head shape?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Crown depth matters more than panel count for comfort. A 5-panel tends to sit lower and flatter, which suits wearers who dislike a tall crown. A 6-panel with a mid crown sits well on most head shapes and is the safer default for a group."
+        },
+        {
+          "type": "p",
+          "text": "If your group spans a wide range of head sizes, an adjustable 6-panel in 56-60 cm is the safer single SKU. If the cap is a fashion piece for a narrower audience, a 5-panel camp or rope style signals the look more clearly than any logo can."
+        },
+        {
+          "type": "callout",
+          "tone": "note",
+          "title": "Order both samples",
+          "text": "A 5-panel and a 6-panel in the same labeled size can feel different by close to a full size in depth. Raymark samples run 1-2 pcs in 5-7 days, so test both before a bulk run."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a 5-panel cap smaller than a 6-panel cap?",
+      "a": "Not necessarily in circumference, but it usually has a shallower crown and a flatter profile. A 5-panel in the same size often feels lower on the head."
+    },
+    {
+      "q": "Can a 5-panel cap be structured?",
+      "a": "Yes, though it is less common. Light structure in the front panel is the usual middle ground, and it gives embroidery a flatter surface without turning the cap into a stiff trucker profile."
+    },
+    {
+      "q": "Why do rope hats use five panels?",
+      "a": "The rope sits on the front seam of a single wide panel, which keeps the cord running in one clean line. A center seam on a 6-panel would interrupt it."
+    },
+    {
+      "q": "Which is better for a company logo?",
+      "a": "A 6-panel with a structured front is the safer choice for a single logo at volume, unless the logo is wider than it is tall, in which case a 5-panel shows it better."
+    }
+  ],
+  "related": ["camp-5-panel-cap", "rope-cap", "embroidery-vs-print"]
+}

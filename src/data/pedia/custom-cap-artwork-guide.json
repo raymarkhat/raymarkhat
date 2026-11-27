@@ -1,0 +1,208 @@
+{
+  "slug": "custom-cap-artwork-guide",
+  "title": "Cap Embroidery Artwork Guide: Files, Sizes, Colors",
+  "h1": "Preparing Logo Artwork for Cap Embroidery: A File-Prep Guide",
+  "description": "Send vector, not screenshots. Minimum line weights and text sizes, stitch counts, Pantone matching, 3D puff and patch rules, plus a file-prep checklist.",
+  "category": "Decoration",
+  "updated": "2026-11-23",
+  "readMinutes": 6,
+  "tldr": [
+    "Send .ai, .eps, .pdf, or .svg vector art; a .png or .jpg is a reference image and often needs redrawing before it can be digitized.",
+    "At a 6-9 cm front logo, keep lines at 1 mm or heavier and letters at 5 mm cap height or taller.",
+    "A typical front logo runs 4,000-9,000 stitches, and stitch count is the number that drives price and sew time.",
+    "Gradients, drop shadows, and halftones cannot be stitched, so they must be simplified to solid colors before production.",
+    "Pantone colors are matched to the nearest thread, which means a close match rather than an exact one."
+  ],
+  "intro": "Most embroidery problems are decided before the first stitch, in the file you send. Cap panels are small, curved, and sewn with thread, which puts hard limits on line weight, letter size, and color blending. This guide covers the file types to send, the minimum detail at cap scale, and how puff and patch artwork differ.",
+  "keyFacts": [
+    { "label": "Best file types", "value": ".ai, .eps, .pdf, .svg" },
+    { "label": "Minimum line weight", "value": "1 mm at cap scale" },
+    { "label": "Minimum text height", "value": "5 mm (flat embroidery)" },
+    { "label": "Typical front logo", "value": "6-9 cm, 4,000-9,000 stitches" },
+    { "label": "Thread colors", "value": "up to 12" }
+  ],
+  "sections": [
+    {
+      "h2": "Which file format should you send for cap embroidery?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Send vector art, meaning .ai, .eps, .pdf, or .svg, because the digitizer needs clean outlines and solid shapes rather than pixels. A .png or .jpg is a reference image; if it is the only file you have, the factory redraws it, which adds a day or two and can shift details."
+        },
+        {
+          "type": "ul",
+          "items": [
+            ".ai or .eps: best option. Native vector paths, editable, and closest to what the digitizing software needs.",
+            ".pdf: nearly as good, as long as it was exported from a vector program rather than scanned.",
+            ".svg: fine for simple marks; check that text was converted to outlines before export.",
+            ".png or .jpg: reference only. Usable at 300 dpi or higher for a simple one-color mark."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Convert text to outlines and flatten layer effects before exporting. If your logo lives in a design tool, send one file for print and one simplified version for embroidery."
+        }
+      ]
+    },
+    {
+      "h2": "What are the minimum line weights and text sizes at cap scale?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "At a 6-9 cm front logo, keep every line at 1 mm or thicker and every letter at 5 mm cap height or taller. Below those sizes, satin stitches crowd each other, edges fray, and letters fill in."
+        },
+        {
+          "type": "table",
+          "head": ["Element", "Minimum at cap scale", "Why"],
+          "rows": [
+            ["Line or outline weight", "1 mm (about 3 pt)", "Thinner satin columns do not hold a clean edge"],
+            ["Letter height, flat embroidery", "5 mm cap height", "Counters and serifs collapse below this"],
+            ["Letter height, 3D puff", "8-10 mm", "Foam needs room to sit under the stitch"],
+            ["Gap between parallel lines", "1.5 mm", "Closer lines merge into one block of thread"],
+            ["Negative space inside a shape", "1.5 mm", "Small holes fill in with thread"]
+          ],
+          "caption": "Rules of thumb for a front logo 6-9 cm wide, sewn at standard production density."
+        },
+        {
+          "type": "p",
+          "text": "Scale changes how a logo reads more than the font does. A wordmark that looks crisp on a business card often collapses at 6 cm; use a bolder version or a different decoration method."
+        }
+      ]
+    },
+    {
+      "h2": "How many stitches will the logo use, and why does density matter?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A typical front logo lands between 4,000 and 9,000 stitches at 6-9 cm wide. Stitch count tracks the covered area and the density setting, and it drives both price and sew time."
+        },
+        {
+          "type": "p",
+          "text": "Standard embroidery spaces stitches about 0.4 mm apart as a rule of thumb. Denser than that adds thread and stiffens the panel without improving coverage, and a dense logo on a curved panel can pucker the fabric. Ask for the stitch count with the proof; if a quote looks high for a small logo, that number is usually why."
+        }
+      ]
+    },
+    {
+      "h2": "Why do gradients, shadows, and small text fail on curved panels?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Embroidery cannot reproduce gradients, drop shadows, or halftones: each stitch is one solid thread color, and the panel curves away from the needle. Art that depends on smooth shading must be rebuilt, not scaled."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Gradients and fades: thread does not blend. Replace with two or three solid bands, or drop the gradient.",
+            "Drop shadows and glows: they read as a smudge. Convert to a solid offset outline or remove them.",
+            "Halftones and tiny dots: dots under about 1.5 mm disappear into the base fabric.",
+            "Fine text and serif fonts: letters under 5 mm fill in. Use a bold sans serif, or move small text to a woven label."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The fix is simplification: one or two thread colors, bold shapes, and a mark that still reads at 6 cm. If the design cannot survive that, a woven patch carries detail embroidery cannot."
+        },
+        {
+          "type": "callout",
+          "tone": "note",
+          "title": "What a good proof shows",
+          "text": "A usable proof shows the logo width in cm, the thread color numbers, the stitch count, and the placement on the cap. Ask for revisions until all four match what you expect."
+        }
+      ]
+    },
+    {
+      "h2": "How do Pantone colors become thread colors?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Pantone numbers are matched to the nearest thread in a thread chart, so expect a close match rather than an exact one. Thread is dyed in batches and reads differently on twill, mesh, or corduroy."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Send the PMS number for every color, not just a name like forest green.",
+            "Ask for the closest two thread options with photos in daylight when the shade is critical.",
+            "Accept that some Pantone shades, especially metallic and neon, have no thread equivalent.",
+            "Keep to 12 thread colors or fewer. Each color is another cone and another pass on every cap."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "What extra rules apply to 3D puff and patch artwork?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "3D puff and patches both sit above the fabric, so they need thicker shapes and more clearance than flat embroidery. Puff raises the logo on foam; a patch is cut to a trim line and sewn on."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "3D puff: keep strokes at 6 mm or wider, letters at 8-10 mm, and two or three colors.",
+            "Patches: add 2-3 mm of bleed beyond the trim line on embroidered and woven styles.",
+            "Merrowed border: the edge sits outside the trim line, so keep detail 3 mm inside it.",
+            "Laser-engraved leather: send solid black vector shapes with no gradients or screens.",
+            "Chenille: no thin lines or small text; keep letters at 10 mm or more."
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "title": "Puff plus flat",
+          "text": "Use puff for the main mark and flat embroidery for small text. You keep the raised look without pushing fine detail past what foam can hold."
+        }
+      ]
+    },
+    {
+      "h2": "What should you check before sending the file?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Run this checklist before you send artwork to avoid most revision rounds."
+        },
+        {
+          "type": "table",
+          "head": ["Check", "Requirement"],
+          "rows": [
+            ["File type", "Vector .ai, .eps, .pdf, or .svg, with text converted to outlines"],
+            ["Color mode", "Pantone (PMS) references listed; CMYK acceptable as a backup"],
+            ["Line weight", "1 mm or heavier at the finished cap size"],
+            ["Text size", "5 mm cap height minimum for flat, 8-10 mm for 3D puff"],
+            ["Logo width", "State the finished width in cm; 6-9 cm is typical for a front logo"],
+            ["Effects", "Gradients, shadows, and halftones removed or replaced with solid colors"],
+            ["Stitch count", "Ask for the digitized stitch count with the proof"],
+            ["Placement", "Front, side, or back location and height on the panel, in cm"]
+          ],
+          "caption": "File-prep checklist for cap embroidery. Each line prevents one round of back-and-forth."
+        },
+        {
+          "type": "p",
+          "text": "Raymark reviews artwork and sends a free digital proof before production is quoted, and artwork is kept confidential. The [custom program](/custom-hat/custom-baseball-caps/) page compares embroidery, puff, patches, and print."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you digitize a logo from a JPG?",
+      "a": "Yes, if the mark is simple. One-color logos usually redraw cleanly; complex art takes longer and may need small details simplified."
+    },
+    {
+      "q": "What resolution should a PNG be?",
+      "a": "300 dpi at the size it will be embroidered, or a file at least 1,000 px wide for a 6-9 cm front logo."
+    },
+    {
+      "q": "Why does the embroidered logo look different from my screen?",
+      "a": "Thread reflects light instead of emitting it, so colors read duller and darker on fabric. Compare the approved thread numbers in daylight, not on a monitor."
+    },
+    {
+      "q": "Do more thread colors raise the price?",
+      "a": "Slightly. Up to 12 colors is workable, but each color adds a thread change, and at low quantities that shows up in the unit price."
+    },
+    {
+      "q": "Can gradients be embroidered at all?",
+      "a": "Only as stepped bands of solid color. A true fade cannot be stitched, which is why gradients are usually replaced with two or three flat tones."
+    }
+  ],
+  "related": ["custom-cap-moq-guide", "how-to-order-custom-caps", "leather-patch-cap"]
+}

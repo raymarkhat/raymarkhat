@@ -1,0 +1,14 @@
+# Cloudflare Worker (static assets) deployment config.
+# Deploy with:  npx wrangler deploy
+# Requires CLOUDFLARE_API_TOKEN (Workers Scripts: Edit) and CLOUDFLARE_ACCOUNT_ID.
+
+name = "raymark"
+compatibility_date = "2025-01-01"
+
+[assets]
+directory = "./dist"
+not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"
+
+[observability]
+enabled = true

@@ -1,0 +1,667 @@
+[
+  {
+    "slug": "kids-6-panel-cap",
+    "name": "Kids 6-Panel Cap",
+    "eyebrow": "CUSTOM · KIDS",
+    "cat": "kids-baseball-caps",
+    "shape": "baseball",
+    "tagline": "Soft structured crown, 52–55 cm band, strap kids can adjust themselves.",
+    "blurb": "Structured kids cap with a soft crown, a 52–55 cm band and a no-pinch strap.",
+    "price": 5.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Kids outgrow caps faster than they wear them out, so this one is built around the two things that matter: a band that starts at 52 cm and a crown that does not fight the logo. Light buckram holds the front panel flat, and the rest stays soft enough to fold into a backpack.",
+      "The strap is a plastic snap with a tuck-in tail, sized so a seven-year-old can tighten it without help. There are no detachable charms, clips or pins anywhere on the cap. Decoration is flat embroidery or a small woven patch, and the front panel takes a mark up to 7 cm wide."
+    ],
+    "features": [
+      { "title": "Soft structured crown", "text": "Light buckram keeps the front panel flat for embroidery without making the cap stiff." },
+      { "title": "No small parts", "text": "Sewn-on button, stitched eyelets and no detachable charms, so there is nothing to pull off." },
+      { "title": "Adjustable 52–55 cm", "text": "Plastic snap with a tuck-in tail; the band also fits most four- to eight-year-olds." },
+      { "title": "Adult-grade twill build", "text": "The same 260 gsm cotton twill and four-row visor stitching we use on adult caps." }
+    ],
+    "specs": [
+      ["Crown", "6-panel, low-profile, soft structured"],
+      ["Fabric", "100% cotton twill, 260 gsm"],
+      ["Visor", "Curved, 6 cm deep, 4-row stitching"],
+      ["Closure", "Plastic snap with tuck-in tail"],
+      ["Sweatband", "Cotton twill, 3 cm"],
+      ["Sizes", "One size (52–55 cm), toddler 48–50 cm"],
+      ["Decoration", "Flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.12 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print"],
+    "colors": [
+      { "name": "Sky / Cream", "hex": "#6E9BB8" },
+      { "name": "Coral / White", "hex": "#D9705C" },
+      { "name": "Sage / Cream", "hex": "#9FB49A" }
+    ],
+    "sizes": ["One size (52–55 cm)", "Toddler (48–50 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#6E9BB8",
+      "brim": "#5A85A2",
+      "accent": "#F4EFE2",
+      "stitch": "#DCE7EE",
+      "mark": "LITTLE",
+      "markScale": 1,
+      "bg": "#E6EDF0"
+    },
+    "faqs": [
+      { "q": "What ages does the 52–55 cm band fit?", "a": "About four to eight years. The snap takes up 3 cm, so the band closes to 52 cm without the crown dropping over the ears." },
+      { "q": "Are there any small parts?", "a": "No. The top button is sewn through, the eyelets are stitched, and there is no charm, clip or pin anywhere on the cap." },
+      { "q": "Can I split a 50 pc order between sizes?", "a": "Yes. The kids band and the toddler band can be mixed in one 50 pc colorway at no extra cost." }
+    ],
+    "related": ["kids-trucker-cap", "kids-cotton-bucket", "signature-6-panel-cap"]
+  },
+  {
+    "slug": "kids-trucker-cap",
+    "name": "Kids Trucker Cap",
+    "eyebrow": "CUSTOM · KIDS",
+    "cat": "kids-baseball-caps",
+    "shape": "baseball",
+    "tagline": "Foam front, mesh back, 50–54 cm band — the cheapest cap to print.",
+    "blurb": "Foam-front kids trucker with a mesh back and a 50–54 cm strap. Big logo, low cost.",
+    "price": 5.9,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A kids trucker is the cheapest way to put a large logo on a small head. The foam front is flat, so a 10 cm print or patch sits square with no curve distortion, and the mesh back keeps a running, sweaty kid noticeably cooler than cotton.",
+      "Sizing runs 50–54 cm on a plastic snap, which covers about three to six years. The front takes screen print, flat embroidery or a woven patch; the mesh back is left plain because embroidery on mesh puckers. Minimum is 50 pcs per colorway, mixed sizes allowed."
+    ],
+    "features": [
+      { "title": "Flat foam front", "text": "Takes a 10 cm wide print or patch with no curvature distortion." },
+      { "title": "Mesh back vents air", "text": "Poly mesh moves air, which matters for a cap worn all summer." },
+      { "title": "No small parts", "text": "Snap closure, sewn-on button, no detachable badge or charm." },
+      { "title": "Cheapest decoration we run", "text": "Screen print on foam is the lowest-cost method per unit." }
+    ],
+    "specs": [
+      ["Crown", "5-panel, mid-profile, structured foam front"],
+      ["Fabric", "Poly foam front, polyester mesh back"],
+      ["Visor", "Curved, 6.5 cm deep"],
+      ["Closure", "Plastic snapback, 7 positions"],
+      ["Sweatband", "Polyester, 2.5 cm"],
+      ["Sizes", "One size (50–54 cm), toddler 46–48 cm"],
+      ["Decoration", "Screen print, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.15 cbm"]
+    ],
+    "decoration": ["Screen print", "Flat embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Coral / White", "hex": "#D9705C" },
+      { "name": "Sky / Navy", "hex": "#6E9BB8" },
+      { "name": "Black / White", "hex": "#1A1B1D" }
+    ],
+    "sizes": ["One size (50–54 cm)", "Toddler (46–48 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#D9705C",
+      "brim": "#C25B49",
+      "accent": "#FFF6EC",
+      "stitch": "#F6D9CF",
+      "mark": "TINY",
+      "markScale": 1.1,
+      "bg": "#F5E6DE",
+      "mesh": "#F0E8DA"
+    },
+    "faqs": [
+      { "q": "What size head does 50–54 cm fit?", "a": "Roughly three to six years. The snap closes to 50 cm and opens to 54 cm, and a toddler band at 46–48 cm is available in the same colorway." },
+      { "q": "Can the mesh back be embroidered?", "a": "No. Embroidery puckers on open mesh, so keep decoration on the foam front or use a woven patch." },
+      { "q": "Are there small parts on this cap?", "a": "None that detach. The snap and the sewn-on top button are the only hardware." }
+    ],
+    "related": ["kids-6-panel-cap", "trucker-mesh-cap", "kids-cotton-bucket"]
+  },
+  {
+    "slug": "kids-cotton-bucket",
+    "name": "Kids Cotton Bucket Hat",
+    "eyebrow": "CUSTOM · KIDS",
+    "cat": "kids-bucket-hats",
+    "shape": "bucket",
+    "tagline": "5.5 cm brim, 50–54 cm band, neck cord — a bucket hat that stays on.",
+    "blurb": "Cotton bucket hat with a neck cord and a 5.5 cm brim for playground sun.",
+    "price": 5.2,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "A bucket hat is the practical answer for kids who will not keep a cap on: the brim shades the ears and the neck cord keeps it attached when they run. This one is 100% cotton twill with a 5.5 cm brim, a 50–54 cm band and a soft crown that packs flat.",
+      "The cord is a flat woven tape with a plastic toggle, long enough to sit under a collar and short enough that it will not catch on play equipment. Child-safe build: no small detachable parts, no wire in the brim, and the band is a single stitched loop rather than an adjustable strap."
+    ],
+    "features": [
+      { "title": "Brim shades ears", "text": "5.5 cm brim angles down to cover the ears and the back of the neck." },
+      { "title": "Cord keeps it on", "text": "Flat woven neck cord with a plastic toggle that does not dig in." },
+      { "title": "No small parts", "text": "No charm, clip or detachable badge; the cord is stitched into the band." },
+      { "title": "Folds into a bag", "text": "Soft cotton crown packs down, with no buckram to crack." }
+    ],
+    "specs": [
+      ["Crown", "Bucket, soft, unlined"],
+      ["Fabric", "100% cotton twill, 240 gsm"],
+      ["Brim", "5.5 cm, downturned, no wire"],
+      ["Closure", "None — fixed band"],
+      ["Sweatband", "Cotton twill, 2.5 cm"],
+      ["Sizes", "One size (50–54 cm), toddler 46–48 cm"],
+      ["Decoration", "Flat embroidery, woven label"],
+      ["Carton", "120 pcs per carton, 0.16 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label", "Screen print"],
+    "colors": [
+      { "name": "Sage / Cream", "hex": "#9FB49A" },
+      { "name": "Sky / Cream", "hex": "#6E9BB8" },
+      { "name": "Butter", "hex": "#E7C777" }
+    ],
+    "sizes": ["One size (50–54 cm)", "Toddler (46–48 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#9FB49A",
+      "brim": "#8AA085",
+      "accent": "#233A29",
+      "stitch": "#E4EADF",
+      "mark": "TRAIL",
+      "markScale": 1,
+      "bg": "#E7EDE2"
+    },
+    "faqs": [
+      { "q": "Does the neck cord come off?", "a": "No. It is stitched into the band at both ends and cannot be removed, which is deliberate on a kids hat." },
+      { "q": "Is the brim stiff?", "a": "No wire and no plastic insert. It is a soft downturned brim that folds when the hat is packed." },
+      { "q": "Can it be washed?", "a": "Hand wash cold and air dry. A machine wash flattens the brim and softens the crown." }
+    ],
+    "related": ["kids-reversible-bucket", "kids-6-panel-cap", "kids-trucker-cap"]
+  },
+  {
+    "slug": "kids-reversible-bucket",
+    "name": "Kids Reversible Bucket Hat",
+    "eyebrow": "CUSTOM · KIDS",
+    "cat": "kids-bucket-hats",
+    "shape": "bucket",
+    "tagline": "Two prints in one hat, 52–56 cm, packable — flip it and it is a new cap.",
+    "blurb": "Reversible bucket hat: two prints, one 52–56 cm band, packs into a pocket.",
+    "price": 6.4,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "Two hats in one bag: a printed cotton bucket with a second print on the inside, joined at the brim so it can be turned inside out and worn the other way. Useful for travel, camp and any parent who has watched a child refuse the hat they picked.",
+      "The band is 52–56 cm with a soft elastic back, so it fits roughly six to eleven years. Both prints are reactive-printed, which holds color through a summer of pool water, and the whole hat weighs about 55 g. No small parts: no drawstring toggle, no charm, no detachable badge."
+    ],
+    "features": [
+      { "title": "Two prints, one hat", "text": "Reversible at the brim seam; turn it inside out for a second colorway." },
+      { "title": "Reactive-printed cotton twill", "text": "The print dyes the fiber, so pool water and sun fade it slowly." },
+      { "title": "Packs to a fist", "text": "55 g unlined cotton folds to about the size of a fist." },
+      { "title": "52–56 cm band", "text": "Soft elastic back covers about six to eleven years with no strap." }
+    ],
+    "specs": [
+      ["Crown", "Bucket, soft, unlined, reversible"],
+      ["Fabric", "100% cotton twill, reactive printed, 200 gsm"],
+      ["Brim", "5 cm, downturned, double-faced"],
+      ["Closure", "None — elastic back panel"],
+      ["Sweatband", "Cotton twill"],
+      ["Sizes", "One size (52–56 cm)"],
+      ["Decoration", "Woven label in the brim seam, flat embroidery on request"],
+      ["Carton", "120 pcs per carton, 0.15 cbm"]
+    ],
+    "decoration": ["Woven label", "Flat embroidery", "Sublimation"],
+    "colors": [
+      { "name": "Berry Floral / Cream", "hex": "#A9526B" },
+      { "name": "Ocean Check / White", "hex": "#4E7E92" },
+      { "name": "Citrus Dot / Navy", "hex": "#D79A3E" }
+    ],
+    "sizes": ["One size (52–56 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#A9526B",
+      "brim": "#8F4258",
+      "accent": "#F6E7EC",
+      "stitch": "#EBCFD8",
+      "mark": "FLIP",
+      "markScale": 1.05,
+      "bg": "#F1E2E6"
+    },
+    "faqs": [
+      { "q": "How does a reversible hat work?", "a": "The two prints are joined at the brim seam. You turn the hat inside out through the open crown and the second print becomes the outside." },
+      { "q": "Will the prints fade?", "a": "Reactive printing dyes the fiber rather than coating it, so pool water and sun fade it slowly. Expect some softening after a full summer." },
+      { "q": "What ages fit 52–56 cm?", "a": "About six to eleven years. The elastic back takes up 4 cm and there is no strap to adjust." }
+    ],
+    "related": ["kids-cotton-bucket", "kids-6-panel-cap", "baby-brim-sun-hat"]
+  },
+  {
+    "slug": "baby-sun-hat-chin-strap",
+    "name": "Baby Sun Hat with Chin Strap",
+    "eyebrow": "CUSTOM · BABY",
+    "cat": "baby-sun-hats",
+    "shape": "bucket",
+    "tagline": "44–48 cm, 6 cm brim, tie chin strap and UPF 50+ cotton — first-summer hat.",
+    "blurb": "Baby sun hat with a wide 6 cm brim, tie chin strap and UPF 50+ fabric.",
+    "price": 4.9,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "For a baby too young for a cap, the sun hat does the work: a 6 cm brim that covers the face and the back of the neck, a 44–48 cm band and a chin strap that keeps it on in a stroller or a carrier.",
+      "The fabric is a UPF 50+ cotton poplin: the rating sits in the weave and the finish, not in a topical coating, so it does not wash off. Safety details matter more here than anywhere else: the strap ties, the toggle releases under a firm pull, the brim is soft with no wire, and there are no small parts on the hat at all."
+    ],
+    "features": [
+      { "title": "Wide 6 cm brim", "text": "Covers the forehead and the back of the neck without blocking the eyes." },
+      { "title": "Release chin strap", "text": "The toggle gives way under a firm pull instead of tightening around the neck." },
+      { "title": "Soft brim, no wire", "text": "No wire or plastic insert, so the brim folds back when a baby lies down." },
+      { "title": "UPF 50+ cotton", "text": "Cotton poplin rated UPF 50+, with no topical UV coating to wash out." }
+    ],
+    "specs": [
+      ["Crown", "Bucket, soft, unlined"],
+      ["Fabric", "100% cotton poplin, UPF 50+, 150 gsm"],
+      ["Brim", "6 cm, soft, no wire"],
+      ["Closure", "Tie chin strap with release toggle"],
+      ["Sweatband", "Cotton poplin, 2 cm"],
+      ["Sizes", "One size (44–48 cm)"],
+      ["Decoration", "Flat embroidery, woven label"],
+      ["Carton", "150 pcs per carton, 0.14 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label"],
+    "colors": [
+      { "name": "Butter", "hex": "#E7C777" },
+      { "name": "Blush", "hex": "#E5B9AF" },
+      { "name": "Sky", "hex": "#A9C6D8" }
+    ],
+    "sizes": ["One size (44–48 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#E7C777",
+      "brim": "#D4B364",
+      "accent": "#4A3A1B",
+      "stitch": "#F7EDD2",
+      "mark": "SUNNY",
+      "markScale": 0.95,
+      "bg": "#F5EBD6"
+    },
+    "faqs": [
+      { "q": "Is UPF 50+ a coating?", "a": "No. It is a property of the cotton poplin weave and the finish, so it does not wash off the way a topical treatment does." },
+      { "q": "How does the chin strap release?", "a": "The strap ties, and the plastic toggle gives way under a firm pull so the loop cannot tighten around the neck." },
+      { "q": "What age is 44–48 cm?", "a": "About 3 to 18 months. Measure the head just above the ears; the band is fixed and should not need room to grow." }
+    ],
+    "related": ["baby-brim-sun-hat", "kids-cotton-bucket", "kids-reversible-bucket"]
+  },
+  {
+    "slug": "baby-brim-sun-hat",
+    "name": "Baby Brim Sun Hat",
+    "eyebrow": "CUSTOM · BABY",
+    "cat": "baby-sun-hats",
+    "shape": "bucket",
+    "tagline": "42–46 cm, soft brim and hook-and-loop strap — the newborn sun hat.",
+    "blurb": "Smallest sun hat we make: 42–46 cm band, soft brim, hook-and-loop strap.",
+    "price": 5.3,
+    "moq": 50,
+    "badges": [],
+    "intro": [
+      "This is the newborn size: a 42–46 cm band, a soft brim and a hook-and-loop strap instead of a tie, because a strap a parent can open one-handed is the difference between the hat staying on and ending up in the stroller basket at all, which is where most baby hats finish.",
+      "The brim is a single layer of cotton with a soft interlining, no wire and no plastic insert, so it folds when a baby sleeps against a shoulder. The band is a fixed loop with no adult-size adjuster to leave slack, and there are no small parts: no button on top, no charm, no detachable badge."
+    ],
+    "features": [
+      { "title": "Newborn-size fixed band", "text": "42–46 cm fixed loop, sized for about 0 to 9 months." },
+      { "title": "Strap opens one-handed", "text": "Hook-and-loop tab opens with one hand and holds without a knot." },
+      { "title": "Soft interlined brim", "text": "Interlined cotton brim, no wire, so it folds flat against a shoulder." },
+      { "title": "No small parts", "text": "No top button, charm or detachable badge anywhere on the hat." }
+    ],
+    "specs": [
+      ["Crown", "Bucket, soft, unlined"],
+      ["Fabric", "100% cotton twill, 180 gsm"],
+      ["Brim", "5 cm, soft interlined, no wire"],
+      ["Closure", "Hook-and-loop chin strap"],
+      ["Sweatband", "Cotton twill, 2 cm"],
+      ["Sizes", "One size (42–46 cm)"],
+      ["Decoration", "Flat embroidery, woven label"],
+      ["Carton", "150 pcs per carton, 0.13 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven label"],
+    "colors": [
+      { "name": "Blush", "hex": "#E5B9AF" },
+      { "name": "Mint", "hex": "#A9C6B4" },
+      { "name": "Butter", "hex": "#E7C777" }
+    ],
+    "sizes": ["One size (42–46 cm)"],
+    "art": {
+      "shape": "bucket",
+      "crown": "#E5B9AF",
+      "brim": "#D2A398",
+      "accent": "#5A3A31",
+      "stitch": "#F6E4DE",
+      "mark": "BABY",
+      "markScale": 1,
+      "bg": "#F4E7E1"
+    },
+    "faqs": [
+      { "q": "What age is the 42–46 cm band?", "a": "Newborn to about nine months. It is a fixed loop, so measure before ordering rather than guessing." },
+      { "q": "Why hook-and-loop instead of a tie?", "a": "It opens one-handed while you are holding the baby, and it does not come undone in a stroller." },
+      { "q": "Does the brim hold its shape?", "a": "It is soft interlined cotton with no wire. It folds against a shoulder and presses back out." }
+    ],
+    "related": ["baby-sun-hat-chin-strap", "kids-cotton-bucket", "kids-6-panel-cap"]
+  },
+  {
+    "slug": "court-colorway-snapback",
+    "name": "Court Colorway Snapback",
+    "eyebrow": "PRO COLORWAY · SNAPBACK",
+    "cat": "nba-colorways",
+    "shape": "baseball",
+    "tagline": "Royal crown, white visor, high-profile — an original basketball colorway.",
+    "blurb": "Two-tone snapback in a basketball palette. Ships blank or with your own logo.",
+    "price": 9.9,
+    "moq": 25,
+    "badges": ["Pro colorway"],
+    "intro": [
+      "A high-profile snapback in royal blue and white: structured crown, flat visor, white 3D puff front. It is an original two-tone colorway built in a basketball palette — the colors read as court-side, but the cap carries no team name, league mark or player reference.",
+      "The white visor and matching white button are what make the two-tone read as a uniform rather than a plain cap. Order it blank for resale or send a logo file: flat embroidery, 3D puff and a woven patch all fit the front panel. MOQ is 25 pcs because the body is already cut and dyed."
+    ],
+    "features": [
+      { "title": "Two-tone court build", "text": "Royal crown, white visor and white button in one stock colorway." },
+      { "title": "Ships blank or branded", "text": "Order the body as-is, or send a logo and we embroider the front." },
+      { "title": "High-profile flat front", "text": "About 10 cm of flat panel takes raised puff up to 10 cm wide." },
+      { "title": "25 pc minimum", "text": "Stock bodies are already cut and dyed, so the minimum is lower." }
+    ],
+    "specs": [
+      ["Crown", "6-panel, high-profile, structured"],
+      ["Fabric", "80% acrylic / 20% wool, 300 gsm"],
+      ["Visor", "Flat, 7.5 cm, contrast white"],
+      ["Closure", "7-position plastic snapback"],
+      ["Sweatband", "Woven poly"],
+      ["Sizes", "One size (55–61 cm)"],
+      ["Decoration", "3D puff, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.16 cbm"]
+    ],
+    "decoration": ["3D puff embroidery", "Flat embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Royal / White", "hex": "#2A4CA0" },
+      { "name": "Navy / Silver", "hex": "#1B2A44" },
+      { "name": "Black / Gold", "hex": "#15171B" }
+    ],
+    "sizes": ["One size (55–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#2A4CA0",
+      "brim": "#F2EFE6",
+      "accent": "#F2EFE6",
+      "stitch": "#C6D4EE",
+      "mark": "COURT",
+      "markScale": 1,
+      "bg": "#E4E7EF",
+      "puff": true
+    },
+    "faqs": [
+      { "q": "Does the cap come with a team logo?", "a": "No. It ships blank or with your own mark. Team names, league marks and player references are not part of this product, and nothing on it is licensed." },
+      { "q": "Can I order 25 pcs in one colorway?", "a": "Yes, 25 pcs per colorway, mixed sizes included. Custom colorways start at 50 pcs." },
+      { "q": "Is the colorway exclusive to me?", "a": "No. It is a stock colorway we run year-round, so other buyers can order it too. Exclusive colorways start at 100 pcs." }
+    ],
+    "related": ["hardwood-colorway-dad-hat", "flat-brim-snapback", "pro-fit-fitted-cap"]
+  },
+  {
+    "slug": "hardwood-colorway-dad-hat",
+    "name": "Hardwood Colorway Dad Hat",
+    "eyebrow": "PRO COLORWAY · DAD HAT",
+    "cat": "nba-colorways",
+    "shape": "baseball",
+    "tagline": "Gold crown, black visor, soft unstructured — a basketball-palette dad hat.",
+    "blurb": "Soft dad hat in a hardwood gold-and-black colorway. Blank or your logo.",
+    "price": 8.9,
+    "moq": 25,
+    "badges": ["Pro colorway"],
+    "intro": [
+      "The same court color story on a soft crown: gold garment-washed twill, black visor, contrast stitch. Where the snapback is loud, this is the cap someone wears to a game and then to work the next day, because an unstructured low crown does not look like merchandise.",
+      "It is an original two-tone colorway in a basketball palette, sold blank or with your own mark. No team name, league mark or player reference is applied, and nothing here is endorsed by a team or league. Front decoration is flat embroidery or a small woven patch; MOQ is 25 pcs."
+    ],
+    "features": [
+      { "title": "Court palette, soft body", "text": "Gold crown and black visor on a garment-washed unstructured crown." },
+      { "title": "Blank or branded", "text": "Ships as a blank stock colorway, or with your logo embroidered." },
+      { "title": "Low unstructured crown", "text": "Low-profile unstructured front suits long wordmarks and small badges." },
+      { "title": "Adjustable 55–60 cm", "text": "55–60 cm adjustable band; 25 pc minimum, mixed sizes allowed." }
+    ],
+    "specs": [
+      ["Crown", "6-panel, low-profile, unstructured"],
+      ["Fabric", "100% cotton twill, garment washed, 240 gsm"],
+      ["Visor", "Curved, 7 cm, contrast black"],
+      ["Closure", "Antique brass slide buckle"],
+      ["Sweatband", "Cotton twill"],
+      ["Sizes", "One size (55–60 cm)"],
+      ["Decoration", "Flat embroidery, woven patch, screen print"],
+      ["Carton", "100 pcs per carton, 0.13 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "Woven patch", "Screen print"],
+    "colors": [
+      { "name": "Gold / Black", "hex": "#C99A3E" },
+      { "name": "Cream / Crimson", "hex": "#EFE5D2" },
+      { "name": "Grey / Navy", "hex": "#C9C6BE" }
+    ],
+    "sizes": ["One size (55–60 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#C99A3E",
+      "brim": "#1E1F22",
+      "accent": "#FFF7E4",
+      "stitch": "#F0DEB4",
+      "mark": "HARDWOOD",
+      "markScale": 0.82,
+      "bg": "#F0E6D2"
+    },
+    "faqs": [
+      { "q": "Is this a licensed team hat?", "a": "No. It is an original two-tone colorway in a basketball palette, sold blank or with your own logo, with no team, league or player marks." },
+      { "q": "Can I get it decorated?", "a": "Yes. Flat embroidery or a woven patch on the front; side and back decoration is quoted per order." },
+      { "q": "Why is the twill washed?", "a": "The garment wash softens the fabric so the hat arrives with a broken-in hand-feel instead of a stiff promo finish." }
+    ],
+    "related": ["court-colorway-snapback", "huddle-dad-hat", "classic-dad-hat"]
+  },
+  {
+    "slug": "diamond-colorway-fitted",
+    "name": "Diamond Colorway Fitted",
+    "eyebrow": "PRO COLORWAY · FITTED",
+    "cat": "mlb-colorways",
+    "shape": "baseball",
+    "tagline": "Navy fitted crown, scarlet visor, flat brim — a baseball-palette stock cap.",
+    "blurb": "Stock fitted cap in a navy-and-scarlet baseball palette. Blank or your logo.",
+    "price": 11.8,
+    "moq": 25,
+    "badges": ["Pro colorway"],
+    "intro": [
+      "A stock fitted cap in a baseball palette: navy wool-blend crown, scarlet flat visor, dense 3D puff front. No strap and no snap, just a sewn size band and a close fit — the shape buyers ask for when the cap has to read as on-field rather than promotional.",
+      "It is an original two-tone colorway in a baseball palette, not a licensed product: no club name, league mark or player reference appears anywhere on the cap. Ships blank in S/M and L/XL, or decorated with your mark. Because the bodies are stock, the minimum is 25 pcs per size pair."
+    ],
+    "features": [
+      { "title": "True fitted shape", "text": "Sewn size band, no adjuster; S/M covers 55–57 cm, L/XL 58–60 cm." },
+      { "title": "Flat 7.5 cm visor", "text": "7.5 cm flat visor with eight rows of stitching, shipped uncurved." },
+      { "title": "Blank or branded", "text": "Stock blank bodies, or your logo in 3D puff on the front." },
+      { "title": "Dense wool blend", "text": "320 gsm acrylic-wool holds the crown through a full season." }
+    ],
+    "specs": [
+      ["Crown", "6-panel, high-profile, structured"],
+      ["Fabric", "80% acrylic / 20% wool, 320 gsm"],
+      ["Visor", "Flat, 7.5 cm, contrast scarlet"],
+      ["Closure", "None — fitted band"],
+      ["Sweatband", "Woven poly with size label"],
+      ["Sizes", "S/M (55–57 cm), L/XL (58–60 cm)"],
+      ["Decoration", "3D puff, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.17 cbm"]
+    ],
+    "decoration": ["3D puff embroidery", "Flat embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Navy / Scarlet", "hex": "#1F2E4E" },
+      { "name": "Black / White", "hex": "#15171B" },
+      { "name": "Royal / Cream", "hex": "#2A4CA0" }
+    ],
+    "sizes": ["S/M (55–57 cm)", "L/XL (58–60 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#1F2E4E",
+      "brim": "#B3202A",
+      "accent": "#F4EFE2",
+      "stitch": "#C9D1DE",
+      "mark": "DIAMOND",
+      "markScale": 0.8,
+      "bg": "#E5E6EA",
+      "puff": true
+    },
+    "faqs": [
+      { "q": "Does this fitted cap come with a team logo?", "a": "No. Stock bodies ship blank or carry your own mark. No club name, league mark or player reference is applied." },
+      { "q": "How does stock fitted sizing work?", "a": "S/M is 55–57 cm and L/XL is 58–60 cm, both sewn bands with no adjuster. A 25 pc order can mix the two." },
+      { "q": "Is the visor curved?", "a": "It ships flat. We can curve it before packing at no charge if you ask on the order." }
+    ],
+    "related": ["dugout-colorway-trucker", "pro-fit-fitted-cap", "court-colorway-snapback"]
+  },
+  {
+    "slug": "dugout-colorway-trucker",
+    "name": "Dugout Colorway Trucker",
+    "eyebrow": "PRO COLORWAY · TRUCKER",
+    "cat": "mlb-colorways",
+    "shape": "baseball",
+    "tagline": "Cardinal foam front, white mesh — a baseball-palette trucker, blank or branded.",
+    "blurb": "Foam-front trucker in a cardinal-and-white baseball palette. Blank or your logo.",
+    "price": 9.4,
+    "moq": 25,
+    "badges": ["Pro colorway"],
+    "intro": [
+      "A trucker in a baseball palette: cardinal foam front, white mesh back, white visor piping and a big flat panel for a logo. The trucker shape is the cheapest way to carry a wide mark, and the contrast mesh is what makes the two-tone read as deliberate rather than mismatched.",
+      "It is an original two-tone colorway in a baseball palette and carries no club name, league mark or player reference. Order the blank body for resale or send artwork: screen print and flat embroidery both work on foam, up to about 10 cm wide. Stock bodies mean a 25 pc minimum and 7–10 day blank turnaround."
+    ],
+    "features": [
+      { "title": "Oversized logo area", "text": "Foam front takes a 12 cm wide mark, the largest flat field we run." },
+      { "title": "Contrast white mesh", "text": "White mesh against a cardinal front gives the two-tone build its edge." },
+      { "title": "Blank or branded", "text": "Order stock blanks, or your logo printed or embroidered." },
+      { "title": "Low cost per impression", "text": "Screen print on foam is our lowest-cost decoration per unit." }
+    ],
+    "specs": [
+      ["Crown", "5-panel, mid-profile, structured foam front"],
+      ["Fabric", "Poly foam front, white polyester mesh back"],
+      ["Visor", "Curved, 7 cm, contrast piping"],
+      ["Closure", "7-position plastic snapback"],
+      ["Sweatband", "Polyester"],
+      ["Sizes", "One size (55–61 cm)"],
+      ["Decoration", "Screen print, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.18 cbm"]
+    ],
+    "decoration": ["Screen print", "Flat embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Cardinal / White", "hex": "#A63A46" },
+      { "name": "Navy / White", "hex": "#1F2E4E" },
+      { "name": "Forest / Cream", "hex": "#26493A" }
+    ],
+    "sizes": ["One size (55–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#A63A46",
+      "brim": "#F2EFE6",
+      "accent": "#F2EFE6",
+      "stitch": "#F0D6D8",
+      "mark": "DUGOUT",
+      "markScale": 0.9,
+      "bg": "#F0E4E2",
+      "mesh": "#F1E9DA"
+    },
+    "faqs": [
+      { "q": "Is this cap licensed by a league?", "a": "No. It is an original two-tone colorway in a baseball palette with no club name, league mark or player reference." },
+      { "q": "Can I print a full-color logo?", "a": "Yes, up to four spot colors on the foam front at no extra setup. Process color is possible but looks softer on foam." },
+      { "q": "Why is the carton larger?", "a": "Foam fronts do not compress. A 100 pc carton runs about 0.18 cbm, so freight per piece is higher than for a twill cap." }
+    ],
+    "related": ["diamond-colorway-fitted", "turf-trucker", "trucker-mesh-cap"]
+  },
+  {
+    "slug": "rink-colorway-fitted",
+    "name": "Rink Colorway Fitted",
+    "eyebrow": "PRO COLORWAY · FITTED",
+    "cat": "nhl-colorways",
+    "shape": "baseball",
+    "tagline": "Deep teal fitted crown, ice visor, low contrast — a hockey-palette cap.",
+    "blurb": "Stock fitted cap in a deep teal and ice hockey palette. Blank or your logo.",
+    "price": 11.2,
+    "moq": 25,
+    "badges": ["Pro colorway"],
+    "intro": [
+      "A low-contrast take on the fitted cap: deep teal crown, pale ice-blue visor and a small front mark instead of a loud badge. It is a colorway built for hockey-season retail, where the palette is usually darker and quieter than basketball or baseball fans expect.",
+      "It is an original two-tone colorway in a hockey palette, not licensed merchandise: no club name, league mark or player reference is embroidered or printed. Ships blank in S/M and L/XL, or with your own logo. Sewn size band, no adjuster, flat 7.5 cm visor."
+    ],
+    "features": [
+      { "title": "Low-contrast dark palette", "text": "Teal crown and pale ice visor for a quieter, retail-first look." },
+      { "title": "True fitted shape", "text": "Sewn band, no adjuster; S/M 55–57 cm and L/XL 58–60 cm." },
+      { "title": "Blank or branded", "text": "Stock bodies ship blank, or take your mark in flat or 3D embroidery." },
+      { "title": "Flat 7.5 cm visor", "text": "7.5 cm flat visor with eight rows of stitching, shipped uncurved." }
+    ],
+    "specs": [
+      ["Crown", "6-panel, high-profile, structured"],
+      ["Fabric", "80% acrylic / 20% wool, 320 gsm"],
+      ["Visor", "Flat, 7.5 cm, pale ice"],
+      ["Closure", "None — fitted band"],
+      ["Sweatband", "Woven poly with size label"],
+      ["Sizes", "S/M (55–57 cm), L/XL (58–60 cm)"],
+      ["Decoration", "Flat embroidery, 3D puff, woven patch"],
+      ["Carton", "100 pcs per carton, 0.17 cbm"]
+    ],
+    "decoration": ["Flat embroidery", "3D puff embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Teal / Ice", "hex": "#27403F" },
+      { "name": "Charcoal / Steel", "hex": "#2B3440" },
+      { "name": "Burgundy / Cream", "hex": "#5E2434" }
+    ],
+    "sizes": ["S/M (55–57 cm)", "L/XL (58–60 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#27403F",
+      "brim": "#C9D8D6",
+      "accent": "#E6EDE9",
+      "stitch": "#A9BCB8",
+      "mark": "RINK",
+      "markScale": 1.1,
+      "bg": "#E4EAE7"
+    },
+    "faqs": [
+      { "q": "Is the low-contrast build deliberate?", "a": "Yes. A teal crown and pale visor with a quiet front mark reads as a colorway, not a badge, which suits cold-weather retail." },
+      { "q": "Does it come with a league patch?", "a": "No. Nothing on the cap references a club, league or player; it ships blank or with your own logo." },
+      { "q": "Are the sizes true fitted?", "a": "Yes, sewn bands with no adjuster. S/M is 55–57 cm and L/XL is 58–60 cm." }
+    ],
+    "related": ["rink-colorway-trucker", "pro-fit-fitted-cap", "diamond-colorway-fitted"]
+  },
+  {
+    "slug": "rink-colorway-trucker",
+    "name": "Rink Colorway Trucker",
+    "eyebrow": "PRO COLORWAY · TRUCKER",
+    "cat": "nhl-colorways",
+    "shape": "baseball",
+    "tagline": "Burgundy front, winter-weight grey mesh — a hockey-palette trucker.",
+    "blurb": "Hockey-palette trucker with winter-weight mesh. Ships blank or with your logo.",
+    "price": 8.9,
+    "moq": 25,
+    "badges": ["Pro colorway"],
+    "intro": [
+      "A hockey-palette trucker with a heavier mesh than our standard build: a tighter knit that blocks wind and holds a darker grey, which suits cold-weather retail better than the open summer mesh. Burgundy foam front, grey back, plain or branded with your own mark for fall and winter programs.",
+      "It is an original two-tone colorway in a hockey palette and carries no club name, league mark or player reference. The foam front takes a 12 cm print, so event and rink-shop programs can decorate cheaply, and the denser mesh keeps the back panel from looking thin up close. MOQ 25 pcs, blank bodies ship in 7–10 days."
+    ],
+    "features": [
+      { "title": "Winter-weight tighter mesh", "text": "A tighter knit that blocks wind better than open summer mesh." },
+      { "title": "Burgundy and grey", "text": "A dark two-tone built to sit beside outerwear, not neon event merch." },
+      { "title": "Blank or branded", "text": "Stock blanks, or your logo screen printed on the foam front." },
+      { "title": "Big front panel", "text": "Foam front takes a 12 cm mark with no curve distortion." }
+    ],
+    "specs": [
+      ["Crown", "5-panel, mid-profile, structured foam front"],
+      ["Fabric", "Poly foam front, winter-weight poly mesh back"],
+      ["Visor", "Curved, 7 cm, contrast grey"],
+      ["Closure", "7-position plastic snapback"],
+      ["Sweatband", "Polyester"],
+      ["Sizes", "One size (55–61 cm)"],
+      ["Decoration", "Screen print, flat embroidery, woven patch"],
+      ["Carton", "100 pcs per carton, 0.19 cbm"]
+    ],
+    "decoration": ["Screen print", "Flat embroidery", "Woven patch"],
+    "colors": [
+      { "name": "Burgundy / Grey", "hex": "#5E2434" },
+      { "name": "Navy / Silver", "hex": "#1F2E4E" },
+      { "name": "Black / Ice", "hex": "#15171B" }
+    ],
+    "sizes": ["One size (55–61 cm)"],
+    "art": {
+      "shape": "baseball",
+      "crown": "#5E2434",
+      "brim": "#2A2D31",
+      "accent": "#E9E4DA",
+      "stitch": "#C9B7B8",
+      "mark": "ICE",
+      "markScale": 1.2,
+      "bg": "#E7E1DA",
+      "mesh": "#A9AEB4"
+    },
+    "faqs": [
+      { "q": "What is winter-weight mesh?", "a": "A tighter knit with smaller openings than standard trucker mesh. It blocks more wind and holds a darker grey." },
+      { "q": "Is this a licensed product?", "a": "No. It is an original two-tone colorway in a hockey palette, blank or with your own logo, and carries no club or league marks." },
+      { "q": "Can I order fewer than 100 pcs?", "a": "Yes, 25 pcs per colorway on stock bodies. Custom mesh colors start at 100 pcs." }
+    ],
+    "related": ["rink-colorway-fitted", "turf-trucker", "trucker-mesh-cap"]
+  }
+]

@@ -1,0 +1,203 @@
+{
+  "slug": "how-to-order-custom-caps",
+  "title": "How to Order Custom Caps from China: Step by Step",
+  "h1": "How to Order Custom Baseball Caps from a Chinese Factory, Step by Step",
+  "description": "The full order path from China: quote, free digital proof, sample, 12-18 day production, QC photos, balance, and express, air, or sea shipping to your door.",
+  "category": "Ordering",
+  "updated": "2026-11-23",
+  "readMinutes": 6,
+  "tldr": [
+    "A first custom cap order runs about 4-6 weeks door to door: 1-3 days for a quote, 1-2 days for a free proof, 5-7 days for a sample, 12-18 days of production, and 5-8 days by express.",
+    "Nothing goes into production until you approve a digital proof and, if you order one, a physical sample.",
+    "Payment usually runs as a deposit before production and the balance after QC photos, before the goods ship.",
+    "You need five things for an accurate quote: a logo file, Pantone colors, a size breakdown, a ship-to address, and your in-hands date.",
+    "Reorders skip artwork and sampling, so they start producing faster and price at the new quantity tier."
+  ],
+  "intro": "Ordering from a Chinese cap factory is a fixed sequence, and most delays come from missing it in the middle: unclear artwork, an unapproved proof, or a balance payment landing while the goods are already packed. This walkthrough covers all ten steps, how long each one takes, what to have ready, and how payment and shipping work.",
+  "keyFacts": [
+    { "label": "Minimum order", "value": "50 pcs per colorway" },
+    { "label": "Sample", "value": "1-2 pcs, 5-7 days" },
+    { "label": "Bulk production", "value": "12-18 days" },
+    { "label": "Peak season production", "value": "18-25 days" },
+    { "label": "Express to U.S.", "value": "5-8 days" },
+    { "label": "Payment", "value": "T/T, Trade Assurance, PayPal for samples" }
+  ],
+  "sections": [
+    {
+      "h2": "How long does a custom cap order take from first email to delivery?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Plan on four to six weeks door to door for a first order: about one week for quote and proof, 5-7 days for a sample if you want one, 12-18 days of bulk production, and 5-8 days of express shipping to the U.S."
+        },
+        {
+          "type": "p",
+          "text": "Peak season pushes bulk production to 18-25 days, and sea freight adds 30-40 days in transit. Sea freight cuts the cost per cap sharply, so it suits large orders with a comfortable deadline."
+        }
+      ]
+    },
+    {
+      "h2": "What are the steps in a custom cap order?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "A custom cap order follows ten steps, and only two of them need your approval: the digital proof and the sample."
+        },
+        {
+          "type": "steps",
+          "items": [
+            { "title": "Inquiry and quote", "text": "Send your logo, quantity, colorways, and ship-to address. A quote comes back in 1-3 business days with unit price, setup, and freight." },
+            { "title": "Artwork check and free digital proof", "text": "The factory reviews your file and sends a mockup showing logo width in cm, thread colors, and placement. Revisions are free until you approve it." },
+            { "title": "Sample approval", "text": "Optional but recommended: 1-2 pcs in 5-7 days. You check fit, fabric, stitch density, and color in daylight." },
+            { "title": "Bulk order and deposit", "text": "Confirm quantity, sizes, and colorways, then pay the deposit by T/T or Alibaba Trade Assurance to book a production slot." },
+            { "title": "Production, 12-18 days", "text": "Fabric is cut, panels are embroidered, and caps are sewn, trimmed, and pressed. Peak season runs 18-25 days." },
+            { "title": "QC and photos", "text": "The factory inspects stitch quality, logo size, color match, and size counts, then sends photos before packing." },
+            { "title": "Balance payment", "text": "You pay the balance once you approve the QC photos and before the goods leave the factory." },
+            { "title": "Shipping", "text": "Express 5-8 days, air 8-12 days, or sea 30-40 days to the U.S. DDP door delivery is available." },
+            { "title": "Delivery and count check", "text": "Check carton count, size breakdown, and a few caps against the approved sample as soon as the shipment lands." },
+            { "title": "Reorder", "text": "Send the original order number or artwork. The file and thread colors are already on record." }
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "What does the timeline look like stage by stage?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The production clock starts when the deposit clears, not when you first email. Working backward from your in-hands date is the only reliable way to know which shipping method still fits."
+        },
+        {
+          "type": "table",
+          "head": ["Stage", "What happens", "Days"],
+          "rows": [
+            ["Inquiry and quote", "You send specs; the factory prices fabric, decoration, and freight", "1-3"],
+            ["Digital proof", "Free mockup with logo width and thread colors; revisions until approved", "1-2"],
+            ["Sample (optional)", "1-2 pcs sewn and shipped for your approval", "5-7 plus transit"],
+            ["Deposit and slot booking", "Payment received; production date confirmed", "1-2"],
+            ["Bulk production", "Cutting, embroidery, sewing, finishing", "12-18 (18-25 peak)"],
+            ["QC and photo approval", "Inspection, then photos sent to you", "1-2"],
+            ["Balance and dispatch", "Balance paid; goods handed to the carrier", "1-2"],
+            ["Transit to the U.S.", "Express, air, or sea", "5-40"]
+          ],
+          "caption": "Typical working days for a 50-1,000 pc order. Add customs clearance for sea freight."
+        }
+      ]
+    },
+    {
+      "h2": "What should you have ready before you ask for a quote?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Five things get you an accurate quote in the first reply: a logo file, Pantone colors, a size breakdown, a ship-to address, and your deadline."
+        },
+        {
+          "type": "table",
+          "head": ["What to send", "Format or detail", "Why it matters"],
+          "rows": [
+            ["Logo file", "Vector .ai, .eps, .pdf, or .svg; a 300 dpi .png as backup", "Vector art digitizes without redrawing, which keeps setup fast"],
+            ["Pantone colors", "PMS number for each color, plus a name for odd shades", "Thread is matched to Pantone, not to a screen image"],
+            ["Size breakdown", "Counts per size and per colorway", "Sizing drives the fabric cut and the price tier"],
+            ["Ship-to address", "Street, contact name, phone, and ZIP", "Freight and DDP eligibility depend on it"],
+            ["Deadline", "Your in-hands date, not the ship date", "It decides whether production and sea freight fit at all"]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Add the quantity per colorway and any decoration requirement, because puff, patches, and print each change both the unit price and the lead time."
+        }
+      ]
+    },
+    {
+      "h2": "How do deposits, QC, and balance payment work?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "You pay a deposit to start production and the balance after QC photos, before the goods ship. That order of events protects you: money changes hands twice, and the second payment only follows evidence that the caps are right."
+        },
+        {
+          "type": "p",
+          "text": "A common arrangement is 30% deposit and 70% before dispatch, though terms vary. Raymark accepts T/T, Alibaba Trade Assurance, and PayPal for samples; there is no card checkout, so every order starts with a [quote request](/contact/)."
+        },
+        {
+          "type": "p",
+          "text": "Good QC photos show the front logo, a full cap, the interior label, the closure, and one cap from each colorway. If logo size is critical, ask for a ruler in the frame."
+        },
+        {
+          "type": "callout",
+          "tone": "warn",
+          "title": "Do not skip the photo step",
+          "text": "Paying the full balance before you see production photos removes your only leverage if a color or logo size is wrong. Ask for photos of every colorway, not one representative cap."
+        }
+      ]
+    },
+    {
+      "h2": "Which shipping method should you choose?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Choose express for small or urgent orders, air for mid-size orders, and sea for anything over a few hundred caps that can wait. Compare landed cost, unit price plus freight per cap, rather than unit price alone."
+        },
+        {
+          "type": "table",
+          "head": ["Method", "Door to door to U.S.", "Best for"],
+          "rows": [
+            ["Express courier", "5-8 days", "50-300 pcs, tight deadlines"],
+            ["Air freight", "8-12 days", "300-1,000 pcs, moderate deadlines"],
+            ["Sea freight", "30-40 days", "500+ pcs, cost-first planning"]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "DDP door delivery is available, so freight can be quoted to your address rather than a port. Ask for DDP quotes at the same quantity and address."
+        }
+      ]
+    },
+    {
+      "h2": "How do reorders work, and what changes on the second run?",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Reorders skip artwork and sampling, so they start production sooner and price at the new quantity tier. The design, digitizing, and thread colors are already on file."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Send the original order number, or the artwork and approved Pantone list",
+            "Confirm the same fabric and thread colors, since dye lots can shift slightly between runs",
+            "Expect 12-18 days of production and the same shipping choices."
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "title": "Ask for a first-cap photo",
+          "text": "On a reorder the fabric may come from a new dye lot. One photo of the first finished cap catches a shade shift before the whole run is sewn."
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does production take after I approve the proof?",
+      "a": "12-18 days for bulk orders, or 18-25 days in peak season, plus shipping time. The clock starts once the deposit clears."
+    },
+    {
+      "q": "Do I pay the full amount up front?",
+      "a": "No. A deposit starts production and the balance is due after you approve QC photos, before dispatch."
+    },
+    {
+      "q": "Can I ship to more than one address?",
+      "a": "Yes, but each destination is a separate shipment with its own freight quote, and splitting usually raises the freight cost per cap."
+    },
+    {
+      "q": "What if I have a fixed event date?",
+      "a": "Say so before the quote. The in-hands date decides whether express fits, and it is the one detail that changes the whole schedule."
+    },
+    {
+      "q": "Is my artwork kept confidential?",
+      "a": "Yes. Raymark keeps artwork confidential and does not reuse your logo on other orders."
+    }
+  ],
+  "related": ["custom-cap-moq-guide", "custom-cap-artwork-guide", "classic-dad-hat"]
+}

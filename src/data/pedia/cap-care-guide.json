@@ -1,0 +1,171 @@
+{
+  "slug": "cap-care-guide",
+  "title": "Cap Care Guide: How to Clean and Store Baseball Caps",
+  "h1": "How to Clean, Dry and Store Baseball Caps So They Keep Their Shape",
+  "description": "Spot clean, wash, dry and store baseball caps without wrecking the brim, plus embroidery, leather patch, sweat stain and travel advice that actually works.",
+  "category": "Care",
+  "updated": "2026-11-23",
+  "readMinutes": 5,
+  "tldr": [
+    "Spot clean first with cold water, a drop of mild soap and a soft brush, and save a full wash for odor or a saturated sweatband.",
+    "Hand wash in cool water and air dry with the crown stuffed; never machine dry a cap, and never put one in a dishwasher.",
+    "Structured caps need spot cleaning and reshaping, while unstructured cotton caps can survive a cold, gentle machine cycle in a cap cage.",
+    "Store caps crown-up or hung with the brim supported, out of direct sun, and pack structured crowns stuffed rather than flattened."
+  ],
+  "intro": "Most caps are damaged by good intentions: hot water, a dryer, or a dishwasher. This guide covers the methods that work on twill, mesh, corduroy, embroidery and leather, plus how to dry, store and pack a cap so the brim keeps its curve.",
+  "keyFacts": [
+    { "label": "Safest method", "value": "Spot clean, cold water, air dry" },
+    { "label": "Hand wash soak", "value": "10–15 minutes, cool water" },
+    { "label": "Machine wash", "value": "Unstructured caps only, cold, gentle" },
+    { "label": "Dryer, radiator, dishwasher", "value": "Never" },
+    { "label": "Sweat stain treatment", "value": "Oxygen bleach soak, 30–60 minutes" },
+    { "label": "Storage", "value": "Crown-up, brim supported, out of sun" }
+  ],
+  "sections": [
+    {
+      "h2": "What is the safest way to clean a baseball cap?",
+      "blocks": [
+        { "type": "p", "text": "Spot clean it. Cold water, a drop of mild soap on a soft brush, work the stain from the outside in, blot, and air dry with the crown reshaped. That lifts most dust, food and collar marks without wetting the whole cap." },
+        { "type": "p", "text": "A full wash is for odor, a saturated sweatband or a cap gone gray at the edges, not for one smudge on the crown." }
+      ]
+    },
+    {
+      "h2": "Can you wash a baseball cap in a washing machine?",
+      "blocks": [
+        { "type": "p", "text": "Hand wash when you can, and machine wash only unstructured cotton caps, cold, gentle, in a cap cage. A structured front panel creases and can delaminate in a machine." },
+        { "type": "h3", "text": "Hand wash, the safe route" },
+        {
+          "type": "ul",
+          "items": [
+            "Fill a basin with cool water and a little mild detergent, never a degreasing dish soap.",
+            "Soak for 10–15 minutes, then brush the sweatband and brim edge with a soft brush.",
+            "Rinse until the water runs clear, press the water out in a towel, and never wring the crown."
+          ]
+        },
+        { "type": "h3", "text": "Machine wash, unstructured caps only" },
+        {
+          "type": "ul",
+          "items": [
+            "Use a cap cage or a tied pillowcase, cold water, gentle cycle, no other laundry, and no spin."
+          ]
+        },
+        { "type": "h3", "text": "Dishwasher, no" },
+        { "type": "p", "text": "A dishwasher is a bad idea: the heated dry cycle softens the plastic brim insert so it dries in whatever shape it collapsed into, and detergent residue leaves a chalky film." },
+        {
+          "type": "table",
+          "head": ["Task", "Do this", "Avoid this"],
+          "rows": [
+            ["Spot cleaning", "Cold water, mild soap, soft brush, blot", "Hot water, hard rubbing, dyed cloths"],
+            ["Hand wash", "Cool soak of 10–15 minutes, rinse clear", "Wringing or twisting the crown"],
+            ["Machine wash", "Cap cage, cold, gentle, unstructured only", "Warm water, normal cycle, other laundry"],
+            ["Drying", "Stuff the crown, air dry, brim curved", "Dryer, radiator, hair dryer, direct sun"],
+            ["Sweatband", "Diluted mild soap or oxygen bleach, dry fully", "Chlorine bleach, putting it away damp"],
+            ["Embroidery", "Soft brush along the stitch direction", "A direct iron, bleach, high heat"],
+            ["Leather patch", "Damp cloth, saddle soap, light conditioner", "Soaking, alcohol, machine washing"],
+            ["Storage", "Crown-up or hung, brim supported", "Weight on the crown, damp closets, sun"]
+          ],
+          "caption": "One rule covers most of this table: cold water, mild soap, air, and no heat."
+        },
+        { "type": "callout", "tone": "warn", "title": "Chlorine bleach is not a whitening shortcut", "text": "It attacks the brighteners in polyester thread and cotton twill, and the yellow cast it leaves cannot be reversed. Use oxygen bleach instead." }
+      ]
+    },
+    {
+      "h2": "How do you dry a cap so the brim keeps its curve?",
+      "blocks": [
+        { "type": "p", "text": "Stuff the crown, set the brim back to its original curve, and air dry at room temperature. Crumple a clean towel inside the crown so it holds shape, then leave the cap where air moves." },
+        {
+          "type": "ul",
+          "items": [
+            "Never use a dryer, a radiator or a hair dryer: heat softens the brim insert and fixes whatever shape the cap collapsed into.",
+            "Keep it out of direct sun, which fades dye and bakes the sweatband.",
+            "Change the paper inside the crown once, because it pulls moisture and odor out of the fabric.",
+            "Hanging a wet cap by its strap stretches it. A bowl of similar diameter makes a serviceable drying form."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "Does a structured cap need different care than an unstructured one?",
+      "blocks": [
+        { "type": "p", "text": "Yes. A structured cap has a stiffened front panel, usually buckram or fused interfacing, that holds a tall crown, and once it creases it never fully recovers, so spot-clean it only." },
+        {
+          "type": "ul",
+          "items": [
+            "Structured: blot rather than scrub the front panel, reshape while damp, and store it so nothing rests on the crown.",
+            "Unstructured: softer and more forgiving, so it tolerates a hand wash or gentle cycle and packs flat.",
+            "Flat-brim: the visor holds a shape memory, so support it flat while drying. Rope trim can shrink at a different rate, so avoid soaking the cord."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How do you clean embroidery, patches and leather?",
+      "blocks": [
+        { "type": "p", "text": "Treat embroidery as thread, not fabric. Brush along the stitch direction, rinse by dabbing, and never touch it with a hot iron, because polyester thread melts before cotton scorches." },
+        {
+          "type": "ul",
+          "items": [
+            "A soft toothbrush and mild soap handle dusty embroidery; rinse with a damp cloth rather than soaking it.",
+            "Iron inside out or through a thin cotton cloth on low heat, never directly on thread or a patch.",
+            "No chlorine bleach on thread or twill, because it yellows white thread permanently; oxygen bleach is the alternative.",
+            "Leather patches: wipe with a damp cloth, use saddle soap on grime, condition lightly, never soak. Engraved leather darkens with finger oil."
+          ]
+        }
+      ]
+    },
+    {
+      "h2": "How do you get rid of sweat stains and yellowing?",
+      "blocks": [
+        { "type": "p", "text": "Use oxygen bleach and a soft brush on the sweatband, then rinse until the water runs clear. Yellowing is usually sweat salts and trapped detergent, so a long cool soak beats a stronger chemical." },
+        {
+          "type": "steps",
+          "items": [
+            { "title": "Mix", "text": "Dissolve a scoop of oxygen bleach in a basin of cool water." },
+            { "title": "Soak", "text": "Submerge the sweatband, or the whole crown for heavy staining, for 30–60 minutes." },
+            { "title": "Brush", "text": "Work the band with a soft brush, then rinse until the water runs clear." },
+            { "title": "Dry", "text": "Blot, reshape, and air dry with the band exposed to airflow." }
+          ]
+        },
+        { "type": "callout", "tone": "note", "title": "Residue is what turns white caps gray", "text": "Detergent left in the sweatband attracts dirt. Rinse longer than feels necessary, and skip fabric softener, which coats fibers and holds odor." }
+      ]
+    },
+    {
+      "h2": "How should you store caps and pack them for travel?",
+      "blocks": [
+        { "type": "p", "text": "Store caps crown-up or hung with the brim supported, and put nothing on top of the crown. For travel, stuff a structured crown and roll unstructured caps flat." },
+        {
+          "type": "ul",
+          "items": [
+            "Keep caps out of direct sunlight, because a windowsill fades a crown in a season.",
+            "Skip sealed plastic bags for long storage, since trapped moisture causes mildew; use a breathable dust bag.",
+            "When stacking unstructured caps, nest the crowns so the brims are not carrying weight.",
+            "In a suitcase, fill a structured crown with socks and lay the cap face-up in the lid."
+          ]
+        },
+        { "type": "p", "text": "If you sell caps, a printed care card costs little and cuts returns, and Raymark's 50 pc minimum per colorway makes a small run practical." }
+      ]
+    },
+    {
+      "h2": "What is a realistic weekly cap routine?",
+      "blocks": [
+        { "type": "p", "text": "About five minutes a week is enough to keep a cap out of the wash. Wipe, air, brush, reshape." },
+        {
+          "type": "steps",
+          "items": [
+            { "title": "Wipe the band", "text": "A damp cloth along the sweatband lifts salt before it yellows." },
+            { "title": "Air it out", "text": "Leave the cap crown-up overnight, not in a gym bag, so moisture escapes." },
+            { "title": "Brush the crown", "text": "A soft brush lifts dust from twill and corduroy before it works into the weave." },
+            { "title": "Reshape and store", "text": "Re-curve the brim, stuff the crown lightly, and store the cap out of the sun." }
+          ]
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    { "q": "Can you put a baseball cap in the dishwasher?", "a": "No. The heated dry cycle softens the plastic brim insert, the jets distort the crown, and detergent residue stays in the fabric. Hand wash instead." },
+    { "q": "How do you dry a cap without losing the brim curve?", "a": "Stuff the crown with a towel, bend the brim back to its original curve, and air dry at room temperature away from sun and heat. Never use a dryer." },
+    { "q": "Can you iron a cap that has embroidery?", "a": "Only from the inside, or through a thin cotton cloth on low heat. A hot soleplate flattens stitches, melts polyester thread and can scorch a leather patch." },
+    { "q": "How do you store caps so the crown keeps its shape?", "a": "Crown-up or hung on a rack, with the brim supported and nothing resting on the crown, out of direct sun and in a breathable bag." }
+  ],
+  "related": ["cap-fabric-guide", "shipping-caps-to-usa", "washed-vintage-cap"]
+}
