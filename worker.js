@@ -1,17 +1,17 @@
 // Cloudflare Worker: static assets + canonical host redirect.
 //
 // The site is served from ./dist through the ASSETS binding (see wrangler.toml).
-// Requests to the apex domain are permanently redirected to www, so only one
-// hostname is ever indexed.
+// Every hostname other than the canonical apex (www, the workers.dev preview URL,
+// anything else) is permanently redirected to the apex, so only one hostname is
+// ever indexed.
 
-const CANONICAL_HOST = 'www.raymarkhat.com';
-const APEX_HOSTS = new Set(['raymarkhat.com']);
+const CANONICAL_HOST = 'raymarkhat.com';
 
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
-    if (APEX_HOSTS.has(url.hostname)) {
+    if (url.hostname !== CANONICAL_HOST) {
       url.hostname = CANONICAL_HOST;
       url.protocol = 'https:';
       url.port = '';

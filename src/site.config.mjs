@@ -1,6 +1,6 @@
 // Site-wide configuration. Change SITE_URL and the contact block once, everything follows.
 export const site = {
-  url: process.env.SITE_URL || 'https://www.raymarkhat.com', // 构建时可用 SITE_URL 覆盖
+  url: process.env.SITE_URL || 'https://raymarkhat.com', // 构建时可用 SITE_URL 覆盖
   name: 'Raymark Caps',
   brand: 'RAYMARK',
   legalName: 'Heze Raymark International Trade Co., Ltd',

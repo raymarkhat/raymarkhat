@@ -3,7 +3,7 @@
 站点现在**只托管在 Cloudflare Workers**：
 
 ```
-https://www.raymarkhat.com
+https://raymarkhat.com
 ```
 
 GitHub 仓库只存源码，不提供网页（GitHub Pages 已关闭，避免重复内容）。
@@ -20,7 +20,7 @@ GitHub  raymarkhat/raymarkhat
    ▼
 Cloudflare Worker "raymark"（静态资源模式，wrangler deploy）
    ▼
-https://www.raymarkhat.com
+https://raymarkhat.com
 ```
 
 构建零依赖：不需要 `npm install`，`node build.mjs` 直接出产物。
