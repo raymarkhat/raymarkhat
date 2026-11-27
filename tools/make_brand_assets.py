@@ -148,5 +148,5 @@ og("og-pedia.png", "Cap pedia",
    "Sizing charts, MOQ math, thread counts, freight and care — written by the people who make the caps.")
 og("og-contact.png", "Quote in 24 hours",
    ["Send a logo.", "Get a price."],
-   "MOQ 50 pcs. Free digital proof. WhatsApp +86 159 5435 8307 or info@pmbanner.com.")
+   "MOQ 50 pcs. Free digital proof. WhatsApp +86 159 5435 8307 or info@raymarkhat.com.")
 print("done")

@@ -318,7 +318,7 @@
     const mail = $('[data-send-mail]');
     if (wa) wa.href = `https://wa.me/8615954358307?text=${encodeURIComponent(text)}`;
     if (mail)
-      mail.href = `mailto:info@pmbanner.com?subject=${encodeURIComponent('Quote request — Raymark caps')}&body=${encodeURIComponent(text)}`;
+      mail.href = `mailto:info@raymarkhat.com?subject=${encodeURIComponent('Quote request — Raymark caps')}&body=${encodeURIComponent(text)}`;
     out.scrollIntoView({ behavior: 'smooth', block: 'center' });
   });
 
@@ -368,7 +368,7 @@
       ].filter(Boolean);
       const body = lines.join('\n');
       if (mode === 'mail') {
-        location.href = `mailto:info@pmbanner.com?subject=${encodeURIComponent(
+        location.href = `mailto:info@raymarkhat.com?subject=${encodeURIComponent(
           `Cap quote — ${get('company') || get('name') || 'new inquiry'}`
         )}&body=${encodeURIComponent(body)}`;
       } else {

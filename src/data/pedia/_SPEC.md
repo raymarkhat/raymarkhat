@@ -13,7 +13,7 @@ screen printers, boutique brands) and to larger consumer brands / creators.
 | Brand | Raymark (site wordmark: RAYMARK) |
 | Location | Heze, Shandong, China |
 | Phone / WhatsApp | +86 159 5435 8307 |
-| Email | info@pmbanner.com |
+| Email | info@raymarkhat.com |
 | Site currency | USD, prices shown per piece |
 | MOQ (custom) | 50 pcs per style/colorway |
 | MOQ (stock colorway) | 25 pcs |
