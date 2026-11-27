@@ -17,6 +17,11 @@ export const site = {
   email: 'info@pmbanner.com',
   hours: 'Mon–Sat, 09:00–21:00 China Standard Time (UTC+8)',
   hoursShort: 'Replies within 12 hours, 7 days a week',
+  // 搜索引擎验证码：填进这里，构建时自动输出 meta 标签
+  verification: {
+    google: process.env.GSC_TOKEN || '',
+    bing: process.env.BING_TOKEN || '',
+  },
   moq: 50,
   leadTime: '12–18 days',
   urlPath: {

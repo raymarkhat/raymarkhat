@@ -213,6 +213,8 @@ export function page({ url = '/', title, description, body, active = '', jsonLd 
   <meta name="description" content="${esc(description)}" />
   <link rel="canonical" href="${abs(url)}" />
   ${noindex ? '<meta name="robots" content="noindex, follow" />' : '<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1" />'}
+  ${site.verification?.google ? `<meta name="google-site-verification" content="${site.verification.google}" />` : ""}
+  ${site.verification?.bing ? `<meta name="msvalidate.01" content="${site.verification.bing}" />` : ""}
   <meta name="theme-color" content="#12181d" />
   <meta name="generator" content="Raymark static build" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
