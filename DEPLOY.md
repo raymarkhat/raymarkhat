@@ -3,7 +3,7 @@
 站点现在**只托管在 Cloudflare Workers**：
 
 ```
-https://raymark.847563751-a0d.workers.dev
+https://www.raymarkhat.com
 ```
 
 GitHub 仓库只存源码，不提供网页（GitHub Pages 已关闭，避免重复内容）。
@@ -20,7 +20,7 @@ GitHub  raymarkhat/raymarkhat
    ▼
 Cloudflare Worker "raymark"（静态资源模式，wrangler deploy）
    ▼
-https://raymark.847563751-a0d.workers.dev
+https://www.raymarkhat.com
 ```
 
 构建零依赖：不需要 `npm install`，`node build.mjs` 直接出产物。
@@ -44,7 +44,7 @@ npx wrangler deploy     # 2. 推送（需要 Cloudflare 登录态或 API token�
 `wrangler.toml` 已配置好：
 
 ```toml
-name = "raymark"
+name = "raymarkhat"
 compatibility_date = "2025-01-01"
 
 [assets]

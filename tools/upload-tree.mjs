@@ -72,10 +72,19 @@ if (dry) {
   process.exit(0);
 }
 
-const ref = await api('GET', `/repos/${repo}/git/ref/heads/${branch}`);
-const parentSha = ref.object.sha;
-const parent = await api('GET', `/repos/${repo}/git/commits/${parentSha}`);
-console.log(`parent commit: ${parentSha.slice(0, 10)} (tree ${parent.tree.sha.slice(0, 10)})`);
+// an empty repository has no ref yet — handle that case
+let parentSha = null;
+let baseTree = null;
+try {
+  const ref = await api('GET', `/repos/${repo}/git/ref/heads/${branch}`);
+  parentSha = ref.object.sha;
+  const parent = await api('GET', `/repos/${repo}/git/commits/${parentSha}`);
+  baseTree = parent.tree.sha;
+  console.log(`parent commit: ${parentSha.slice(0, 10)} (tree ${baseTree.slice(0, 10)})`);
+} catch (err) {
+  if (!String(err.message).includes('404')) throw err;
+  console.log(`repository is empty — this will be the first commit on ${branch}`);
+}
 
 // binary files need blobs; text files go inline in the tree
 const blobs = [];
@@ -100,16 +109,20 @@ const treeEntries = [
 ];
 
 const treePayload = { tree: treeEntries };
-if (!fresh) treePayload.base_tree = parent.tree.sha;
+if (!fresh && baseTree) treePayload.base_tree = baseTree;
 const tree = await api('POST', `/repos/${repo}/git/trees`, treePayload);
 console.log(`tree created: ${tree.sha.slice(0, 10)} (${treeEntries.length} entries)`);
 
 const commit = await api('POST', `/repos/${repo}/git/commits`, {
   message,
   tree: tree.sha,
-  parents: [parentSha],
+  parents: parentSha ? [parentSha] : [],
 });
 console.log(`commit created: ${commit.sha.slice(0, 10)}`);
 
-await api('PATCH', `/repos/${repo}/git/refs/heads/${branch}`, { sha: commit.sha, force: false });
+if (parentSha) {
+  await api('PATCH', `/repos/${repo}/git/refs/heads/${branch}`, { sha: commit.sha, force: false });
+} else {
+  await api('POST', `/repos/${repo}/git/refs`, { ref: `refs/heads/${branch}`, sha: commit.sha });
+}
 console.log(`✓ ${branch} now at ${commit.sha.slice(0, 10)}`);
