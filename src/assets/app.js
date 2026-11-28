@@ -9,8 +9,8 @@
   const money = (n) => `$${(Math.round(n * 100) / 100).toFixed(2)}`;
 
   /* ------------------------------------------------------------ pricing */
-  const stepsFor = (moq) => (moq <= 25 ? [25, 50, 100, 500] : [50, 100, 500, 1000]);
-  const FACTORS = [1, 0.95, 0.86, 0.78];
+  const stepsFor = () => [10, 50, 100, 500, 1000];
+  const FACTORS = [1.25, 1, 0.95, 0.86, 0.78];
   function unitPrice(base, moq, qty) {
     const steps = stepsFor(moq);
     let idx = 0;

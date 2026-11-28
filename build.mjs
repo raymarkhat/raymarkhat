@@ -197,7 +197,7 @@ write(
   'llms.txt',
   `# ${site.name}
 
-> ${site.legalName} designs and manufactures custom baseball caps and pro-colorway caps in ${site.city}, ${site.region}, ${site.countryName}, and ships them factory-direct to the United States. Minimum order 50 pcs per colorway (25 pcs on stock colorways). Free digital proof before payment; no card payments online — every order starts with a quote.
+> ${site.legalName} designs and manufactures custom baseball caps and pro-colorway caps in ${site.city}, ${site.region}, ${site.countryName}, and ships them factory-direct to the United States. Minimum order 10 pcs per colorway (25 pcs on stock colorways). Free digital proof before payment; no card payments online — every order starts with a quote.
 
 ## Key facts
 
@@ -207,7 +207,7 @@ write(
 - WhatsApp / phone: ${site.phoneDisplay}
 - Email: ${site.email}
 - Currency: USD, per piece, ex-works
-- MOQ: 50 pcs per style/colorway (custom), 25 pcs (stock pro colorways)
+- MOQ: 10 pcs per style/colorway, stock and custom alike
 - Samples: 1–2 pcs, 5–7 days, refunded on orders over 500 pcs (sample fee)
 - Bulk lead time: 12–18 days after proof approval
 - Decoration: flat embroidery, 3D puff, chenille/woven patch, leather patch, screen print, sublimation
@@ -239,7 +239,7 @@ ${articles.map((a) => `- [${a.title}](${site.url.replace(/\/$/, '')}/pedia/${a.s
 ## Pages
 
 - [Shop](${site.url.replace(/\/$/, '')}/shop/): all 16 styles with USD tier pricing
-- [Custom caps](${site.url.replace(/\/$/, '')}/custom-baseball-caps/): the 50 pc custom program
+- [Custom caps](${site.url.replace(/\/$/, '')}/custom-baseball-caps/): the 10 pc custom program
 - [Pro colorways](${site.url.replace(/\/$/, '')}/team-caps/): stock two-tone colorways at 25 pcs
 - [Pedia](${site.url.replace(/\/$/, '')}/pedia/): sizing, MOQ, decoration, freight and care guides
 - [Contact](${site.url.replace(/\/$/, '')}/contact/): quote form, WhatsApp and email

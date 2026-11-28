@@ -12,7 +12,7 @@ export const products = [
     tagline: 'The structured workhorse: 12-color embroidery on a mid-profile crown.',
     blurb: 'Structured 6-panel, mid-profile, curved brim. The cap most U.S. brands reorder.',
     price: 6.8,
-    moq: 50,
+    moq: 10,
     badges: ['Best seller'],
     intro: [
       'Our Signature 6-Panel is the cap we quote most often: a mid-profile structured crown, six sewn panels, a pre-curved visor and a metal buckle closure. It takes flat embroidery, 3D puff and patches on the front, a side mark and a back wordmark — all in one run.',
@@ -45,7 +45,7 @@ export const products = [
     sizes: ['One size (56–60 cm)', 'S/M (55–57 cm)', 'L/XL (58–61 cm)', 'Youth'],
     art: { crown: '#1B2A44', brim: '#14203A', accent: '#EFE4CC', stitch: '#EFE4CC', mark: 'RAYMARK', markScale: 0.92, bg: '#EAE3D4' },
     faqs: [
-      { q: 'What is the minimum order for this cap?', a: '50 pcs per colorway. You can split those 50 pcs across sizes at no extra cost.' },
+      { q: 'What is the minimum order for this cap?', a: '10 pcs per colorway. You can split those 10 caps across sizes at no extra cost.' },
       { q: 'Can I get a sample before ordering 500 pcs?', a: 'Yes. A 1–2 pc sample takes 5–7 days and the sample fee is refunded on orders over 500 pcs.' },
       { q: 'Does the price include embroidery?', a: 'Yes — one front logo in up to 12 colors is included. Side and back decoration is quoted separately at about $0.35–$0.60 per position.' },
     ],
@@ -60,7 +60,7 @@ export const products = [
     tagline: 'Soft unstructured crown, low profile — the retail-brand default.',
     blurb: 'Unstructured, garment-washed cotton. Sits low, sells fast in DTC assortments.',
     price: 6.2,
-    moq: 50,
+    moq: 10,
     badges: ['Lowest price'],
     intro: [
       'The dad hat is the cheapest cap you can put a logo on without it looking cheap. An unstructured crown, washed cotton twill and a low profile give it a soft, worn-in shape that photographs well and fits nearly everyone.',
@@ -70,7 +70,7 @@ export const products = [
       { title: 'Garment washed', text: 'Enzyme wash softens the twill and gives the fabric a slightly faded, retail-ready hand-feel.' },
       { title: 'Wordmark friendly', text: 'The soft front panel takes long, thin letterforms that a stiff crown would distort.' },
       { title: 'Metal buckle, not plastic', text: 'Brass-toned slide buckle and a fabric tuck strap instead of a snapback.' },
-      { title: 'Low minimum', text: '50 pcs per colorway; 25 pcs on stock colorways.' },
+      { title: 'Low minimum', text: '10 pcs per colorway; 25 pcs on stock colorways.' },
     ],
     specs: [
       ['Crown', '6-panel, low-profile, unstructured'],
@@ -108,7 +108,7 @@ export const products = [
     tagline: 'High structured crown, flat visor, plastic snap — streetwear staple.',
     blurb: 'High-profile flat brim with a plastic snapback. Built for bold front marks.',
     price: 7.9,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'A high structured crown, a flat visor and a seven-position plastic snap: the silhouette that reads as streetwear, skate and music merch rather than corporate giveaway.',
@@ -155,7 +155,7 @@ export const products = [
     tagline: 'Five panels, no top button — the clean, modern front.',
     blurb: 'Five-panel camp cap with a seamless-feeling front panel and squared visor.',
     price: 7.4,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'A five-panel cap removes the center front seam. The result is one unbroken front panel that suits wide, horizontal logos and small centered marks equally well — and reads as a considered, modern shape rather than a promo staple.',
@@ -202,7 +202,7 @@ export const products = [
     tagline: 'Foam front, mesh back, snap closure — the promotional standard.',
     blurb: 'Foam-front trucker with breathable mesh back. Cheapest way to a big logo.',
     price: 6.9,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'Foam front, polyester mesh back, plastic snap. The trucker is the most cost-effective cap to print or embroider because the flat foam panel accepts large, bold artwork with no curve distortion.',
@@ -249,7 +249,7 @@ export const products = [
     tagline: 'Full-grain leather patch, laser-etched — the premium upsell.',
     blurb: 'Laser-etched leather patch on a structured crown. Highest perceived value.',
     price: 9.6,
-    moq: 50,
+    moq: 10,
     badges: ['Premium'],
     intro: [
       'A leather patch changes what a $10 cap looks like. We laser-etch your mark into 1.6 mm full-grain leather, edge-burnish it and stitch it to a structured crown with a matched or contrast thread.',
@@ -259,7 +259,7 @@ export const products = [
       { title: 'Laser-etched, not printed', text: 'The mark burns into the leather — no ink to crack, peel or fade.' },
       { title: 'Full-grain leather', text: '1.6 mm vegetable-tanned hide, edge-burnished and stitched with 4 sides visible.' },
       { title: 'Contrast or tonal thread', text: 'Choose a stitch color that outlines the patch or disappears into the crown.' },
-      { title: 'Premium without MOQ', text: '50 pcs gets you leather; no need to commit to 500.' },
+      { title: 'Premium without MOQ', text: '10 pcs gets you leather; no need to commit to 500.' },
     ],
     specs: [
       ['Crown', '6-panel, mid-profile, structured'],
@@ -296,7 +296,7 @@ export const products = [
     tagline: '8-wale corduroy, unstructured, autumn-friendly texture.',
     blurb: '8-wale corduroy dad cap. Texture sells in fall assortments.',
     price: 8.4,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'Eight-wale cotton corduroy on an unstructured crown, finished with a brass buckle. The texture does the work: even a plain cap looks considered, and a small tonal embroidery looks expensive.',
@@ -343,7 +343,7 @@ export const products = [
     tagline: 'Contrast rope trim across a five-panel front.',
     blurb: 'Five-panel with contrast rope trim. The golf-trip and resort favorite.',
     price: 8.6,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'A five-panel crown with a rope cord stitched across the front seam and a contrast visor. It is a 1950s golf shape that has come back hard in resort, tennis and country-club merchandising.',
@@ -377,7 +377,7 @@ export const products = [
     faqs: [
       { q: 'Is the rope sewn or glued?', a: 'Sewn into the front seam. Glued rope is faster and cheaper but lifts after a few washes.' },
       { q: 'Can the rope match the crown?', a: 'Yes, tonal rope is available — it reads as a raised seam rather than a stripe.' },
-      { q: 'What is the MOQ for a three-color build?', a: '50 pcs. Crown, visor and rope colors are all part of the same per-colorway minimum.' },
+      { q: 'What is the MOQ for a three-color build?', a: '10 pcs. Crown, visor and rope colors are all part of the same per-colorway minimum.' },
     ],
     related: ['saturday-rope-cap', 'camp-5-panel-cap', 'performance-golf-cap'],
   }),
@@ -390,7 +390,7 @@ export const products = [
     tagline: 'Acid-washed cotton with a soft, broken-in shape.',
     blurb: 'Acid-washed twill that arrives already broken in. Vintage retail look.',
     price: 7.2,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'Acid washing removes the stiffness and the shine. What is left is a soft, slightly mottled cap that looks like it has been in a drawer for five years — which is exactly the aesthetic a vintage-inspired brand wants on day one.',
@@ -437,7 +437,7 @@ export const products = [
     tagline: 'Moisture-wicking poly, laser-perforated panels, low profile.',
     blurb: 'Lightweight performance poly with perforated panels. Golf and run clubs.',
     price: 8.8,
-    moq: 50,
+    moq: 10,
     badges: [],
     intro: [
       'A lightweight polyester cap built for heat: moisture-wicking sweatband, laser-perforated side panels, and a low-profile structured crown that holds its shape when wet.',
@@ -484,7 +484,7 @@ export const products = [
     tagline: 'Navy crown, silver visor, high-profile — pro-football colorway.',
     blurb: 'High-profile snapback in a two-tone pro-football colorway.',
     price: 9.9,
-    moq: 25,
+    moq: 10,
     badges: ['Pro colorway'],
     intro: [
       'A high-profile snapback built in a two-tone pro-football colorway: deep navy crown, metallic-silver visor, white 3D puff embroidery. The contrast visor is what makes it read as licensed team merch at a glance.',
@@ -517,7 +517,7 @@ export const products = [
     art: { crown: '#1A2A45', brim: '#B9C0C9', accent: '#F2F2EF', stitch: '#C9CED6', mark: 'GRIDIRON', markScale: 0.85, bg: '#E3E4E0', puff: true },
     faqs: [
       { q: 'Does the cap come with a team logo?', a: 'No. We ship blanks with your mark only. Team names, logos and league marks are trademarks of their owners and are not included or licensed by us.' },
-      { q: 'Why is the MOQ lower on this cap?', a: 'The colorway is a stock build — fabric is already cut and dyed, so we only run your embroidery. Custom colorways start at 50 pcs.' },
+      { q: 'Why is the MOQ lower on this cap?', a: 'The colorway is a stock build — fabric is already cut and dyed, so we only run your embroidery. Custom colorways start at 10 pcs.' },
       { q: 'Can I match a specific team’s exact colors?', a: 'Send Pantone references and we will match thread and fabric as closely as the mill allows. Exact licensed color matching is not guaranteed.' },
     ],
     related: ['flat-brim-snapback', 'pro-fit-fitted-cap', 'turf-trucker'],
@@ -531,7 +531,7 @@ export const products = [
     tagline: 'Forest foam front, white mesh back, pro-football palette.',
     blurb: 'Foam-front trucker in a pro-football green-and-white build.',
     price: 9.4,
-    moq: 25,
+    moq: 10,
     badges: [],
     intro: [
       'The trucker silhouette in a pro-football palette: forest foam front, white mesh back, contrast white visor piping. Big flat front panel, big logo, low cost per impression.',
@@ -577,7 +577,7 @@ export const products = [
     tagline: 'Fitted, no strap, flat visor — the on-field silhouette.',
     blurb: 'True fitted crown in half sizes, flat visor, no closure. On-field shape.',
     price: 10.9,
-    moq: 50,
+    moq: 10,
     badges: ['New'],
     intro: [
       'A true fitted cap: no strap, no snap, a sewn-in size band and a close, structured fit in half sizes from 6 7/8 to 7 5/8. The silhouette players wear on the field and collectors wear off it.',
@@ -623,7 +623,7 @@ export const products = [
     tagline: 'Cream crown, crimson visor — soft, wearable team colorway.',
     blurb: 'Soft dad-hat crown in a cream-and-crimson pro colorway.',
     price: 8.9,
-    moq: 25,
+    moq: 10,
     badges: [],
     intro: [
       'Pro-football colorways do not have to be stiff. This is the same two-tone idea on a soft, unstructured dad-hat crown: cream body, crimson visor and button, tonal embroidery.',
@@ -633,7 +633,7 @@ export const products = [
       { title: 'Soft crown', text: 'Unstructured, low-profile, garment washed — no break-in period.' },
       { title: 'Feminine fit', text: 'Shallower crown and 55–58 cm band suit smaller frames.' },
       { title: 'Tonal two-tone', text: 'Cream body with a crimson visor reads as a colorway, not a costume.' },
-      { title: 'Stock colorway', text: '25 pc minimum, 7–10 day blank turnaround.' },
+      { title: 'Stock colorway', text: '10 pc minimum, 7–10 day blank turnaround.' },
     ],
     specs: [
       ['Crown', '6-panel, low-profile, unstructured'],
@@ -669,7 +669,7 @@ export const products = [
     tagline: 'Royal five-panel, cream rope and visor — game-day golf shape.',
     blurb: 'Five-panel rope cap in a royal-and-cream game-day colorway.',
     price: 9.2,
-    moq: 25,
+    moq: 10,
     badges: [],
     intro: [
       'The rope cap is the tailgate uniform: royal five-panel, cream rope trim, cream visor, small centered mark. It photographs like a vintage program cover and sells in pro shops and campus stores.',
@@ -701,8 +701,8 @@ export const products = [
     art: { crown: '#21409A', brim: '#F4F0E6', accent: '#F4F0E6', stitch: '#C9D3E8', mark: 'SATURDAY', markScale: 0.9, rope: '#F4F0E6', bg: '#E4E6EC', fivePanel: true },
     faqs: [
       { q: 'Can the mark be embroidered in cream?', a: 'Yes, cream on royal is the stock build. Contrast thread changes are free up to 12 colors.' },
-      { q: 'Is this the same body as the custom rope cap?', a: 'Same body, different stock colorway and a 25 pc minimum instead of 50.' },
-      { q: 'Can I order a mixed case of colorways?', a: 'Mixed cases start at 25 pcs per colorway, so three colorways means 75 pcs total.' },
+      { q: 'Is this the same body as the custom rope cap?', a: 'Same body, different stock colorway and a 10 pc minimum instead of 50.' },
+      { q: 'Can I order a mixed case of colorways?', a: 'Mixed cases start at 10 pcs per colorway, so three colorways means 75 pcs total.' },
     ],
     related: ['rope-cap', 'camp-5-panel-cap', 'gridiron-snapback'],
   }),
@@ -715,7 +715,7 @@ export const products = [
     tagline: 'Camo crown, black visor, gold stitch — hunting-season crossover.',
     blurb: 'Camo trucker-dad hybrid with gold embroidery. Fall and hunting crossover.',
     price: 9.6,
-    moq: 25,
+    moq: 10,
     badges: [],
     intro: [
       'A camo crown with a solid black visor and gold embroidery — the colorway that bridges team merchandise and hunting/outdoor retail, which is where a lot of U.S. fall headwear volume actually sits.',
@@ -725,7 +725,7 @@ export const products = [
       { title: 'Printed camo', text: 'Reactive-printed twill in three scales, not a cheap allover print that fades.' },
       { title: 'Gold stitch pop', text: 'Metallic gold thread against camo is the highest-contrast combination we run.' },
       { title: 'Cross-category', text: 'Sells in team shops, farm stores and outdoor retailers.' },
-      { title: 'Low minimum', text: '25 pcs on stock camo, 50 pcs to print your own pattern.' },
+      { title: 'Low minimum', text: '10 pcs on stock camo, 10 pcs to print your own pattern.' },
     ],
     specs: [
       ['Crown', '6-panel, mid-profile, structured'],
@@ -746,7 +746,7 @@ export const products = [
     sizes: ['One size (56–60 cm)'],
     art: { crown: '#5A5F45', brim: '#1B1D1A', accent: '#D9C36A', stitch: '#3F4434', mark: 'ZONE', markScale: 1.15, bg: '#E4E0D2', camo: true },
     faqs: [
-      { q: 'Can I supply my own camo pattern?', a: 'Yes, from 50 pcs. Send a repeat file and we will print and proof it on your crown color.' },
+      { q: 'Can I supply my own camo pattern?', a: 'Yes, from 10 pcs. Send a repeat file and we will print and proof it on your crown color.' },
       { q: 'Does camo hide embroidery?', a: 'Low-contrast camo does. Pick gold, white or black thread and keep the mark at least 6 cm wide.' },
       { q: 'Is this cap waterproof?', a: 'No. It is cotton twill. A water-repellent finish is available from 200 pcs.' },
     ],

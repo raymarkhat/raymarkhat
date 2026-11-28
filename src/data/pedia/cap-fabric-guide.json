@@ -19,7 +19,7 @@
     { "label": "Lightest common option", "value": "Performance mesh, 120–180 GSM" },
     { "label": "Heaviest common option", "value": "Canvas and corduroy, 300–400 GSM" },
     { "label": "Best embroidery ground", "value": "Cotton twill" },
-    { "label": "Custom minimum", "value": "50 pcs per style and colorway" }
+    { "label": "Custom minimum", "value": "10 pcs per style and colorway" }
   ],
   "sections": [
     {
@@ -91,7 +91,7 @@
     {
       "h2": "How does fabric choice affect cost per piece?",
       "blocks": [
-        { "type": "p", "text": "Less than most buyers expect. Fabric is a minor share of a cap's cost, and decoration, panel count, labor and trim move the unit price more. Raymark's 50 pc minimum per style and colorway is low enough to test a heavier canvas before a full rollout." },
+        { "type": "p", "text": "Less than most buyers expect. Fabric is a minor share of a cap's cost, and decoration, panel count, labor and trim move the unit price more. Raymark's 10 pc minimum per style and colorway is low enough to test a heavier canvas before a full rollout." },
         {
           "type": "ul",
           "items": [

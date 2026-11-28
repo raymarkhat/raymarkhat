@@ -30,8 +30,8 @@ export const abs = (p = '/') => site.url.replace(/\/$/, '') + p;
 
 /* ------------------------------------------------------------------ pricing */
 export function tiersFor(p) {
-  const steps = p.moq <= 25 ? [25, 50, 100, 500] : [50, 100, 500, 1000];
-  const factors = [1, 0.95, 0.86, 0.78];
+  const steps = [10, 50, 100, 500, 1000];
+  const factors = [1.25, 1, 0.95, 0.86, 0.78];
   return steps.map((qty, i) => ({ qty, price: money(p.price * factors[i]) }));
 }
 export const priceAt = (p, qty) => {
@@ -61,7 +61,7 @@ export const mailLink = (subject, body) =>
 /* ------------------------------------------------------------------- chrome */
 function announceBar() {
   const items = [
-    'MOQ 50 pcs per colorway',
+    'MOQ 10 pcs per colorway',
     '12-color embroidery included',
     '12–18 day bulk lead time',
     'DDP to your U.S. door',
@@ -156,13 +156,13 @@ function footer() {
       <div>
         <h4>Shop</h4>
         <ul>
-          <li><a href="/shop/all/">All 52 styles</a></li>
           <li><a href="/baseball-caps/">Baseball caps</a></li>
+          <li><a href="/sports-outdoor-caps/">Sport &amp; outdoor caps</a></li>
           <li><a href="/bucket-hats/">Bucket hats</a></li>
-          <li><a href="/custom-hat/">Custom hat program</a></li>
-          <li><a href="/brand-section/">Pro league colourways</a></li>
+          <li><a href="/fashion-hats/">Fashion hats</a></li>
           <li><a href="/kids-hats/">Kids hats</a></li>
-          <li><a href="/sports-outdoor-caps/">Sport &amp; outdoor</a></li>
+          <li><a href="/brand-section/">Team colourways</a></li>
+          <li><a href="/custom-hat/">Custom hat program</a></li>
           <li><a href="/shop/all/">All 52 styles</a></li>
         </ul>
       </div>

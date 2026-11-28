@@ -6,7 +6,7 @@ export const site = {
   legalName: 'Heze Raymark International Trade Co., Ltd',
   tagline: 'Custom & pro-team baseball caps, factory-direct.',
   description:
-    'Factory-direct custom baseball caps and pro-team colorway caps from Heze, Shandong. MOQ 50 pcs, 12-color embroidery, 12–18 day bulk lead time, DDP shipping to the U.S.',
+    'Factory-direct custom baseball caps and pro-team colorway caps from Heze, Shandong. MOQ 10 pcs, 12-color embroidery, 12–18 day bulk lead time, DDP shipping to the U.S.',
   founded: '2014',
   city: 'Heze',
   region: 'Shandong',
@@ -22,7 +22,7 @@ export const site = {
     google: process.env.GSC_TOKEN || '',
     bing: process.env.BING_TOKEN || '',
   },
-  moq: 50,
+  moq: 10,
   leadTime: '12–18 days',
   urlPath: {
     home: '/',

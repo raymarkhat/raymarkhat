@@ -19,7 +19,7 @@
     { "label": "6-panel layout", "value": "six triangles, front center seam" },
     { "label": "Common 5-panel styles", "value": "camp caps, rope hats, 5-panel snapbacks" },
     { "label": "Common 6-panel styles", "value": "classic baseball caps, promo caps, trucker fronts" },
-    { "label": "Custom MOQ", "value": "50 pcs per colorway" }
+    { "label": "Custom MOQ", "value": "10 pcs per colorway" }
   ],
   "sections": [
     {
@@ -121,7 +121,7 @@
             ["Structure", "Often unstructured or lightly structured", "Available structured or unstructured"],
             ["Typical styles", "Camp caps, rope hats, 5-panel snapbacks", "Classic baseball caps, promo caps, trucker fronts"],
             ["Fit feel", "Flatter, closer to the head", "Rounder, more volume above the head"],
-            ["Cost at 50-500 pcs", "Higher on non-stock builds", "Lowest on stock blanks"]
+            ["Cost at 10-500 pcs", "Higher on non-stock builds", "Lowest on stock blanks"]
           ],
           "caption": "Panel count is a shape decision first and a cost decision second. Size, color, and decoration change the price more than the panel count does."
         },

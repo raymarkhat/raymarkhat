@@ -1,23 +1,23 @@
 {
   "slug": "custom-cap-moq-guide",
-  "title": "Custom Cap MOQ: Why 50 Pcs per Colorway Is the Floor",
-  "h1": "Custom Cap MOQ Explained: What 50 Pcs per Colorway Really Means",
+  "title": "Custom Cap MOQ: Why 10 Pcs per Colorway Is the Floor",
+  "h1": "Custom Cap MOQ Explained: What 10 Pcs per Colorway Really Means",
   "description": "A 50-piece MOQ is per colorway, not per order. See why embroidery sets that floor, real 50/100/500/1,000 price tiers, and how to cut your per-cap cost.",
   "category": "Ordering",
   "updated": "2026-11-23",
   "readMinutes": 6,
   "tldr": [
-    "Custom cap MOQs apply per style and colorway, so 50 pcs means 50 caps in one color combination, not 50 caps spread across five colors.",
-    "50 pcs is the practical floor because embroidery digitizing, thread cones, and fabric cuts are priced for a run of that size.",
-    "Factory-direct pricing commonly falls from about $7-10 per cap at 50 pcs to $3.50-5.20 at 1,000 pcs.",
+    "Custom cap MOQs apply per style and colorway, so 10 pcs means 10 caps in one color combination, not 50 caps spread across five colors.",
+    "10 pcs is the practical floor because embroidery digitizing, thread cones, and fabric cuts are priced for a run of that size.",
+    "Factory-direct pricing commonly falls from about $7-10 per cap at 10 pcs to $3.50-5.20 at 1,000 pcs.",
     "You can lower cost per piece without raising quantity by trimming colorways, using stock fabric, simplifying decoration, and combining sizes.",
-    "Below MOQ, expect a short-run surcharge or a decline, so plan the first run around 50 pcs per colorway."
+    "Below MOQ, expect a short-run surcharge or a decline, so plan the first run around 10 pcs per colorway."
   ],
-  "intro": "The minimum order quantity is the first number a cap factory quotes and the one most often misread. This guide explains what the number covers, why 50 pcs is where embroidery starts to make sense, and how to lower your per-piece price without ordering more.",
+  "intro": "The minimum order quantity is the first number a cap factory quotes and the one most often misread. This guide explains what the number covers, why 10 pcs is where embroidery starts to make sense, and how to lower your per-piece price without ordering more.",
   "keyFacts": [
-    { "label": "Custom MOQ", "value": "50 pcs per colorway" },
+    { "label": "Custom MOQ", "value": "10 pcs per colorway" },
     { "label": "Stock colorway MOQ", "value": "25 pcs" },
-    { "label": "Typical price at 50 pcs", "value": "$7-10 per cap" },
+    { "label": "Typical price at 10 pcs", "value": "$7-10 per cap" },
     { "label": "Typical price at 1,000 pcs", "value": "$3.50-5.20 per cap" },
     { "label": "Bulk lead time", "value": "12-18 days" }
   ],
@@ -27,7 +27,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "An MOQ per colorway means the minimum applies to each style-and-color combination, not to your total order. Raymark's custom MOQ is 50 pcs per colorway, so 50 caps in navy/white plus 50 in black/red is a 100-piece order made of two 50-piece runs."
+          "text": "An MOQ per colorway means the minimum applies to each style-and-color combination, not to your total order. Raymark's custom MOQ is 10 pcs per colorway, so 50 caps in navy/white plus 50 in black/red is a 100-piece order made of two 50-piece runs."
         },
         {
           "type": "p",
@@ -35,18 +35,18 @@
         },
         {
           "type": "p",
-          "text": "Plan colorways before quantity. One colorway at 100 pcs usually costs less per cap than two at 50 pcs each, at the same total cap count."
+          "text": "Plan colorways before quantity. One colorway at 100 pcs usually costs less per cap than two at 10 pcs each, at the same total cap count."
         },
         {
           "type": "callout",
           "tone": "tip",
           "title": "Mix sizes, not colors",
-          "text": "Sizes can be mixed freely inside one colorway: 25 M, 25 L, and 50 XL in navy is still one 50+ piece run. Colors are what reset the MOQ math."
+          "text": "Sizes can be mixed freely inside one colorway: 25 M, 25 L, and 50 XL in navy is still one 10+ piece run. Colors are what reset the MOQ math."
         }
       ]
     },
     {
-      "h2": "Why is 50 pcs the practical floor for embroidery?",
+      "h2": "Why is 10 pcs the practical floor for embroidery?",
       "blocks": [
         {
           "type": "p",
@@ -55,7 +55,7 @@
         {
           "type": "ul",
           "items": [
-            "Setup: one digitized file per logo, the same at 50 or 5,000 caps. At 50 pcs it adds real cents per cap; at 1,000 it nearly disappears.",
+            "Setup: one digitized file per logo, the same at 10 or 5,000 caps. At 10 pcs it adds real cents per cap; at 1,000 it nearly disappears.",
             "Thread: a front logo can use up to 12 colors, each needing its own cone. Stock shades are on the shelf; a close Pantone match may mean ordering cones for a production run.",
             "Fabric: a six-panel cap takes roughly half a meter as a rule of thumb, so 50 caps is about 25 meters, near a mill's minimum dye lot.",
             "Machine time: multi-head machines sew several caps at once, and a 50-piece run fills a slot without tying up a line for a week."
@@ -64,11 +64,11 @@
       ]
     },
     {
-      "h2": "How does tiered pricing work at 50, 100, 500, and 1,000 pcs?",
+      "h2": "How does tiered pricing work at 10, 50, 100, 500, and 1,000 pcs?",
       "blocks": [
         {
           "type": "p",
-          "text": "Per-piece price falls at each tier because fixed costs spread across more caps, not because thread or twill gets cheaper. Digitizing, cutting setup, and machine start-up cost the same at 50 pcs as at 1,000."
+          "text": "Per-piece price falls at each tier because fixed costs spread across more caps, not because thread or twill gets cheaper. Digitizing, cutting setup, and machine start-up cost the same at 10 pcs as at 1,000."
         },
         {
           "type": "p",
@@ -78,7 +78,7 @@
           "type": "table",
           "head": ["Quantity (one colorway)", "Flat embroidery", "3D puff or patch", "What drives the change"],
           "rows": [
-            ["50 pcs", "$7.00-10.00", "$8.50-12.00", "Setup spread over the fewest caps"],
+            ["10 pcs", "$8.75-12.50", "$8.50-12.00", "Setup spread over the fewest caps"],
             ["100 pcs", "$5.50-8.00", "$7.00-9.50", "Digitizing amortized, fabric cut in one pass"],
             ["500 pcs", "$4.20-6.20", "$5.40-7.50", "Better fabric price, longer machine runs"],
             ["1,000 pcs", "$3.50-5.20", "$4.60-6.40", "Lowest packing and freight cost per cap"]
@@ -133,7 +133,7 @@
         },
         {
           "type": "p",
-          "text": "If you need fewer than 50 pcs, order a 1-2 pc sample at sample pricing, then bulk once the design is proven. The sample fee is refunded on bulk orders over 500 pcs."
+          "text": "If you need fewer than 10 pcs, order a 1-2 pc sample at sample pricing, then bulk once the design is proven. The sample fee is refunded on bulk orders over 500 pcs."
         }
       ]
     },
@@ -151,7 +151,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Plan the first order as one colorway at 50-100 pcs, prove the fit and decoration, then scale what sells."
+          "text": "Plan the first order as one colorway at 10-10 pcs, prove the fit and decoration, then scale what sells."
         },
         {
           "type": "steps",
@@ -159,7 +159,7 @@
             { "title": "Choose one hero colorway", "text": "Pick the color you can sell 50 of, and use flat embroidery unless the design truly needs puff." },
             { "title": "Approve the free proof", "text": "Check logo width in cm, thread colors, and panel placement before fabric is cut." },
             { "title": "Order 1-2 samples", "text": "Samples take 5-7 days. Check the embroidery edge and the fit before bulk." },
-            { "title": "Run 50-100 pcs", "text": "Review QC photos before you pay the balance." },
+            { "title": "Run 10-10 pcs", "text": "Review QC photos before you pay the balance." },
             { "title": "Reorder at 500+ pcs", "text": "Digitizing already exists, so the second run prices lower and moves faster." }
           ]
         },
@@ -175,7 +175,7 @@
   "faqs": [
     {
       "q": "Is the 50-piece MOQ per order or per color?",
-      "a": "Per colorway. Each style-and-color combination has to reach 50 pcs; sizes can be mixed freely inside it."
+      "a": "Per colorway. Each style-and-color combination has to reach 10 pcs; sizes can be mixed freely inside it."
     },
     {
       "q": "Can I mix sizes in a 50-piece order?",
@@ -187,7 +187,7 @@
     },
     {
       "q": "Why does Raymark quote some caps at 25 pcs?",
-      "a": "Stock colorways are already cut and dyed, so they start at 25 pcs. Custom colors, custom fabric, and custom decoration start at 50 pcs per colorway."
+      "a": "Stock colorways are already cut and dyed, so they start at 25 pcs. Custom colors, custom fabric, and custom decoration start at 10 pcs per colorway."
     },
     {
       "q": "Can I order a sample before the 50-piece run?",

@@ -46,7 +46,7 @@ export function pediaIndexPage(articles) {
       <div>
         <span class="eyebrow">How we write</span>
         <h2 style="margin-bottom:16px">Numbers, not adjectives.</h2>
-        <p>Every page here is maintained by the Raymark product team in Heze, Shandong. Where a figure is a standard we publish our own, we give it — MOQ 50 pcs, samples 5–7 days, bulk 12–18. Where a figure depends on your order (freight, duty, decoration upcharges) we say so and tell you what to ask for.</p>
+        <p>Every page here is maintained by the Raymark product team in Heze, Shandong. Where a figure is a standard we publish our own, we give it — MOQ 10 pcs, samples 5–7 days, bulk 12–18. Where a figure depends on your order (freight, duty, decoration upcharges) we say so and tell you what to ask for.</p>
         <p class="muted">If a page is out of date, tell us and we will fix it. That is cheaper for us than answering the same email twice.</p>
         <a class="btn btn--outline mt-2" href="/contact/">Ask a question ${icon.arrow}</a>
       </div>
@@ -126,7 +126,7 @@ export function articlePage(a, all) {
       <aside class="aside">
         <div class="aside-card" style="background:var(--ink);color:var(--cream);border-color:var(--ink)">
           <h3 style="color:#fff">Need a price?</h3>
-          <p class="small" style="color:#c9c3b4">Send a logo and a quantity. You get a priced mockup in 24 hours, MOQ 50 pcs.</p>
+          <p class="small" style="color:#c9c3b4">Send a logo and a quantity. You get a priced mockup in 24 hours, MOQ 10 pcs.</p>
           <a class="btn btn--red btn--sm btn--block" href="/contact/">Get a quote</a>
           <a class="btn btn--ghost btn--sm btn--block mt-1" style="--fg:#f7f2e6;--bd:#4a545c" href="${waLink('Hi Raymark, I read your pedia article and have a question.')}" target="_blank" rel="noopener">${icon.wa} WhatsApp</a>
         </div>

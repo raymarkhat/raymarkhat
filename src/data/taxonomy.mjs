@@ -8,12 +8,12 @@ export const parents = [
     nameZh: '棒球帽',
     title: 'Baseball Caps — Custom 6-Panel, Dad Hat & Snapback',
     description:
-      'Custom baseball caps from 50 pcs: classic 6-panel, unstructured dad hats, fitted caps, snapbacks and trucker mesh. 12-colour embroidery, free digital proof, DDP to the U.S.',
+      'Custom baseball caps from 10 pcs: classic 6-panel, unstructured dad hats, fitted caps, snapbacks and trucker mesh. 12-colour embroidery, free digital proof, DDP to the U.S.',
     h1: 'Baseball caps, five ways.',
     short: 'Classic 6-panel, dad hat, fitted, snapback and trucker mesh.',
     intro: [
       'Every cap program starts with the crown. Whether you need a structured six-panel for a corporate store, a soft dad hat for a DTC brand, a fitted cap for a team dealer or a foam trucker for a promo catalog, the shape decides how your logo reads before anyone reads it.',
-      'All five styles run from 50 pcs per colourway, take up to 12 embroidery colours on the front, and ship 12–18 days after you approve the proof.',
+      'All five styles run from 10 pcs per colourway, take up to 12 embroidery colours on the front, and ship 12–18 days after you approve the proof.',
     ],
     children: ['classic-baseball-cap', 'dad-hats', 'fitted-caps', 'snapback-caps', 'trucker-caps'],
   },
@@ -23,7 +23,7 @@ export const parents = [
     nameZh: '运动户外帽',
     title: 'Sports & Outdoor Caps — Golf Caps, Visors, Running Caps',
     description:
-      'Performance golf caps, open-top golf visors and lightweight running caps for clubs, tournaments and athletic brands. MOQ 50 pcs, moisture-wicking fabrics, laser perforation.',
+      'Performance golf caps, open-top golf visors and lightweight running caps for clubs, tournaments and athletic brands. MOQ 10 pcs, moisture-wicking fabrics, laser perforation.',
     h1: 'Built for the course and the trail.',
     short: 'Golf caps, open-top visors and running caps on technical fabrics.',
     intro: [
@@ -38,7 +38,7 @@ export const parents = [
     nameZh: '渔夫帽',
     title: 'Bucket Hats — Cotton, Nylon, Mesh & Wide Brim',
     description:
-      'Custom bucket hats from 50 pcs: cotton twill, waterproof nylon, mesh fishing buckets and UPF 50+ wide brim sun hats. Embroidered or patched, DDP shipping to the U.S.',
+      'Custom bucket hats from 10 pcs: cotton twill, waterproof nylon, mesh fishing buckets and UPF 50+ wide brim sun hats. Embroidered or patched, DDP shipping to the U.S.',
     h1: 'Bucket hats, four ways to wear the sun.',
     short: 'Cotton, waterproof nylon, mesh and wide brim sun buckets.',
     intro: [
@@ -53,12 +53,12 @@ export const parents = [
     nameZh: '时尚礼帽',
     title: 'Fashion Hats — Berets & Cowboy Hats, Custom Made',
     description:
-      'Custom wool berets and felt or straw cowboy hats for fashion labels, boutiques and western retailers. Cut-and-sew construction, leather trim options, MOQ 50 pcs.',
+      'Custom wool berets and felt or straw cowboy hats for fashion labels, boutiques and western retailers. Cut-and-sew construction, leather trim options, MOQ 10 pcs.',
     h1: 'Two silhouettes that never really left.',
     short: 'Wool berets and felt or straw western hats, cut and blocked.',
     intro: [
       'Berets and cowboy hats are cut-and-sew or blocked shapes, not cap bodies — they need different patterns, different lining and a slower line speed. That is also why they hold a higher price and why few factories will run them at low volume.',
-      'We run both from 50 pcs per colourway, with wool blends, leather trim, grosgrain bands and badge detailing available on the same order as your caps.',
+      'We run both from 10 pcs per colourway, with wool blends, leather trim, grosgrain bands and badge detailing available on the same order as your caps.',
     ],
     children: ['berets', 'cowboy-hats'],
   },
@@ -68,7 +68,7 @@ export const parents = [
     nameZh: '童帽',
     title: 'Kids Hats — Toddler Caps, Bucket Hats & Baby Sun Hats',
     description:
-      'Custom kids caps, toddler bucket hats and UPF 50+ baby sun hats from 50 pcs. Soft brims, chin straps, adjustable bands and child-safe trims.',
+      'Custom kids caps, toddler bucket hats and UPF 50+ baby sun hats from 10 pcs. Soft brims, chin straps, adjustable bands and child-safe trims.',
     h1: 'Small heads, same standards.',
     short: 'Toddler caps, kids buckets and UPF 50+ baby sun hats.',
     intro: [
@@ -98,9 +98,9 @@ export const parents = [
     nameZh: '定制帽子',
     title: 'Custom Hat Program — Your Logo on Any Shape',
     description:
-      'Custom hat manufacturing from 50 pcs: baseball caps, dad hats, trucker caps, bucket hats, golf caps and kids hats. Free digital proof, 12-colour embroidery, 12–18 day bulk.',
+      'Custom hat manufacturing from 10 pcs: baseball caps, dad hats, trucker caps, bucket hats, golf caps and kids hats. Free digital proof, 12-colour embroidery, 12–18 day bulk.',
     h1: 'One program, every shape.',
-    short: 'Seven custom programs from 50 pcs, on any shape we run.',
+    short: 'Seven custom programs from 10 pcs, on any shape we run.',
     intro: [
       'Custom work is the same process whatever the shape: send artwork, approve a priced proof, then sample or go straight to bulk. What changes is the pattern, the decoration method and the lead time on cut-and-sew shapes.',
       'Pick the shape below and you will see the price tiers, decoration options and the factory lead time for that construction.',
@@ -125,9 +125,9 @@ export const children = [
     name: 'Classic Baseball Cap',
     nameZh: '经典弯檐棒球帽',
     kind: 'catalog',
-    title: 'Classic Baseball Caps — Custom 6-Panel, 50 Pcs Min',
+    title: 'Classic Baseball Caps — Custom 6-Panel, 10 Pcs Min',
     description:
-      'Structured and unstructured classic baseball caps with a curved visor, from 50 pcs. Cotton twill, leather patch and 5-panel options, 12-colour embroidery, free proof.',
+      'Structured and unstructured classic baseball caps with a curved visor, from 10 pcs. Cotton twill, leather patch and 5-panel options, 12-colour embroidery, free proof.',
     h1: 'Classic baseball caps.',
     intro: [
       'The classic cap is a six-panel crown with a curved visor — the shape 80% of buyers picture when they say "baseball cap". Structured versions hold a flat front panel for detail-heavy logos; unstructured versions sit lower and softer.',
@@ -140,7 +140,7 @@ export const children = [
       },
       {
         q: 'What is the minimum for a custom classic cap?',
-        a: '50 pcs per colourway, mixable across sizes. One front logo in up to 12 thread colours is included in the price.',
+        a: '10 pcs per colourway, mixable across sizes. One front logo in up to 12 thread colours is included in the price.',
       },
     ],
   },
@@ -150,9 +150,9 @@ export const children = [
     name: 'Dad Hat / Unstructured Cap',
     nameZh: '软顶老爹帽',
     kind: 'catalog',
-    title: 'Dad Hats & Unstructured Caps — Custom, 50 Pcs Min',
+    title: 'Dad Hats & Unstructured Caps — Custom, 10 Pcs Min',
     description:
-      'Custom dad hats and unstructured caps in washed cotton, corduroy and canvas from 50 pcs. Low profile, soft crown, metal buckle. The cheapest logo cap that still looks retail.',
+      'Custom dad hats and unstructured caps in washed cotton, corduroy and canvas from 10 pcs. Low profile, soft crown, metal buckle. The cheapest logo cap that still looks retail.',
     h1: 'Dad hats and unstructured caps.',
     intro: [
       'A dad hat is a low-profile, unstructured cap with a soft crown and an adjustable back. No buckram, no stiff front panel — which means it folds into a bag and reads as everyday wear rather than corporate giveaway.',
@@ -171,7 +171,7 @@ export const children = [
     kind: 'catalog',
     title: 'Fitted Caps — Custom, Half Sizes 6 7/8 to 7 5/8',
     description:
-      'Custom fitted baseball caps with no adjuster, in half sizes from 6 7/8 to 7 5/8. Acrylic-wool blend, flat or curved visor, 3D puff embroidery. MOQ 50 pcs.',
+      'Custom fitted baseball caps with no adjuster, in half sizes from 6 7/8 to 7 5/8. Acrylic-wool blend, flat or curved visor, 3D puff embroidery. MOQ 10 pcs.',
     h1: 'Fitted caps, true to size.',
     intro: [
       'A fitted cap has no strap, no snap and no take-up — the band is sewn to size, which is why it sits closer and looks sharper than an adjustable cap. It also means you have to commit to a size run.',
@@ -188,9 +188,9 @@ export const children = [
     name: 'Snapback Cap',
     nameZh: '平檐按扣帽',
     kind: 'catalog',
-    title: 'Snapback Caps — Flat Brim, Custom, 50 Pcs Min',
+    title: 'Snapback Caps — Flat Brim, Custom, 10 Pcs Min',
     description:
-      'Custom flat-brim snapbacks with a high structured crown and 7-position plastic snap. Streetwear, skate and music merch shapes from 50 pcs, 3D puff embroidery available.',
+      'Custom flat-brim snapbacks with a high structured crown and 7-position plastic snap. Streetwear, skate and music merch shapes from 10 pcs, 3D puff embroidery available.',
     h1: 'Snapbacks and flat brims.',
     intro: [
       'The snapback is a high, structured, flat-brim cap with a plastic adjuster. It reads as streetwear rather than corporate, which makes it the right shape for drops, collabs and anything sold next to apparel.',
@@ -207,9 +207,9 @@ export const children = [
     name: 'Trucker Cap / Mesh Cap',
     nameZh: '卡车网帽',
     kind: 'catalog',
-    title: 'Trucker Caps & Mesh Caps — Custom, 50 Pcs Min',
+    title: 'Trucker Caps & Mesh Caps — Custom, 10 Pcs Min',
     description:
-      'Custom foam-front trucker caps and mesh-back caps from 50 pcs. The cheapest way to carry a large logo, and the coolest cap for outdoor work and summer events.',
+      'Custom foam-front trucker caps and mesh-back caps from 10 pcs. The cheapest way to carry a large logo, and the coolest cap for outdoor work and summer events.',
     h1: 'Truckers and mesh caps.',
     intro: [
       'A trucker cap is a foam or structured front panel with mesh sides and back. The flat foam face accepts a 12 cm logo with no curvature problems, and the mesh moves air — which is why it dominates farm supply, landscaping, construction and fishing.',
@@ -228,9 +228,9 @@ export const children = [
     name: 'Golf Cap',
     nameZh: '高尔夫帽',
     kind: 'catalog',
-    title: 'Custom Golf Caps — Performance & Piqué, 50 Pcs Min',
+    title: 'Custom Golf Caps — Performance & Piqué, 10 Pcs Min',
     description:
-      'Custom golf caps in performance poly and cotton piqué from 50 pcs. Laser-perforated panels, moisture-wicking bands, low-profile crowns for club and tournament branding.',
+      'Custom golf caps in performance poly and cotton piqué from 10 pcs. Laser-perforated panels, moisture-wicking bands, low-profile crowns for club and tournament branding.',
     h1: 'Golf caps that survive four hours.',
     intro: [
       'Golf caps are bought by clubs, pro shops, charity tournaments and apparel brands, usually in small runs with a hard date attached. The technical requirements matter more than the shape: wicking band, perforated panels, a crown that does not collapse when wet.',
@@ -247,9 +247,9 @@ export const children = [
     name: 'Golf Visor',
     nameZh: '高尔夫空顶帽',
     kind: 'catalog',
-    title: 'Custom Golf Visors — Open Top, 50 Pcs Min',
+    title: 'Custom Golf Visors — Open Top, 10 Pcs Min',
     description:
-      'Custom open-top golf visors with wide bands and moisture-wicking sweatbands, from 50 pcs. Packable knit and performance builds for clubs, tennis and running events.',
+      'Custom open-top golf visors with wide bands and moisture-wicking sweatbands, from 10 pcs. Packable knit and performance builds for clubs, tennis and running events.',
     h1: 'Open-top visors.',
     intro: [
       'A visor removes the crown and keeps the visor, which makes it the coolest option on a hot course and the easiest to pack. The band does all the work: it has to sit without pressure and hold a logo without stretching out.',
@@ -266,9 +266,9 @@ export const children = [
     name: 'Tennis / Running Cap',
     nameZh: '跑步网球帽',
     kind: 'catalog',
-    title: 'Custom Running & Tennis Caps — Lightweight, 50 Pcs Min',
+    title: 'Custom Running & Tennis Caps — Lightweight, 10 Pcs Min',
     description:
-      'Featherweight running caps and short-visor tennis caps from 50 pcs. Micro poly, reflective trim options, packable crowns for run clubs, races and tennis programmes.',
+      'Featherweight running caps and short-visor tennis caps from 10 pcs. Micro poly, reflective trim options, packable crowns for run clubs, races and tennis programmes.',
     h1: 'Running and tennis caps.',
     intro: [
       'Running caps are judged on weight and ventilation, tennis caps on a shorter visor that does not block the ball. Both need a band that does not chafe and a crown that survives being stuffed in a bag.',
@@ -287,9 +287,9 @@ export const children = [
     name: 'Cotton Bucket Hat',
     nameZh: '棉布渔夫帽',
     kind: 'catalog',
-    title: 'Custom Cotton Bucket Hats — Twill & Canvas, 50 Pcs Min',
+    title: 'Custom Cotton Bucket Hats — Twill & Canvas, 10 Pcs Min',
     description:
-      'Custom cotton bucket hats in twill and washed canvas from 50 pcs. 6.5 cm brim, packable crown, embroidered or patched. The retail-standard bucket shape.',
+      'Custom cotton bucket hats in twill and washed canvas from 10 pcs. 6.5 cm brim, packable crown, embroidered or patched. The retail-standard bucket shape.',
     h1: 'Cotton bucket hats.',
     intro: [
       'Cotton is the default bucket fabric because it takes embroidery cleanly, dyes to soft retail colours and softens with wear instead of cracking. A 6.5 cm brim is the commercial middle: enough shade to be useful, short enough to stay wearable.',
@@ -306,9 +306,9 @@ export const children = [
     name: 'Nylon / Waterproof Bucket Hat',
     nameZh: '防水尼龙渔夫帽',
     kind: 'catalog',
-    title: 'Custom Nylon & Waterproof Bucket Hats — 50 Pcs Min',
+    title: 'Custom Nylon & Waterproof Bucket Hats — 10 Pcs Min',
     description:
-      'Custom nylon bucket hats and seam-sealed waterproof buckets from 50 pcs. Quick-dry, packable, PU-coated options for fishing, outdoor and travel brands.',
+      'Custom nylon bucket hats and seam-sealed waterproof buckets from 10 pcs. Quick-dry, packable, PU-coated options for fishing, outdoor and travel brands.',
     h1: 'Nylon and waterproof buckets.',
     intro: [
       'Nylon buckets are bought for three reasons: they pack into a pocket, they dry fast, and they can be made genuinely waterproof with a PU coating and taped seams.',
@@ -325,9 +325,9 @@ export const children = [
     name: 'Mesh Bucket Hat',
     nameZh: '网眼渔夫帽',
     kind: 'catalog',
-    title: 'Custom Mesh Bucket Hats — Fishing & Resort, 50 Pcs Min',
+    title: 'Custom Mesh Bucket Hats — Fishing & Resort, 10 Pcs Min',
     description:
-      'Custom mesh bucket hats with solid front panels and breathable mesh bodies, from 50 pcs. Built for fishing, resort and summer event programs.',
+      'Custom mesh bucket hats with solid front panels and breathable mesh bodies, from 10 pcs. Built for fishing, resort and summer event programs.',
     h1: 'Mesh bucket hats.',
     intro: [
       'A mesh bucket keeps the shade of a brim and adds airflow through the crown. Solid front panel for the logo, mesh sides and back for the heat — the same logic as a trucker cap, in a bucket shape.',
@@ -344,9 +344,9 @@ export const children = [
     name: 'Wide Brim Bucket Hat',
     nameZh: '宽檐渔夫帽防晒款',
     kind: 'catalog',
-    title: 'Custom Wide Brim Bucket Hats — UPF 50+, 50 Pcs Min',
+    title: 'Custom Wide Brim Bucket Hats — UPF 50+, 10 Pcs Min',
     description:
-      'Custom wide brim bucket hats with 9–10 cm brims, neck cords and UPF 50+ fabrics. Sun protection for outdoor, safari, fishing and kids programs, from 50 pcs.',
+      'Custom wide brim bucket hats with 9–10 cm brims, neck cords and UPF 50+ fabrics. Sun protection for outdoor, safari, fishing and kids programs, from 10 pcs.',
     h1: 'Wide brim, real sun cover.',
     intro: [
       'A wide brim bucket is a sun-protection product first and a fashion item second. Brim width is the spec that matters: 9–10 cm covers ears and neck, 6.5 cm does not.',
@@ -365,9 +365,9 @@ export const children = [
     name: 'Beret',
     nameZh: '贝雷帽',
     kind: 'catalog',
-    title: 'Custom Berets — Wool Blend & Leather Trim, 50 Pcs Min',
+    title: 'Custom Berets — Wool Blend & Leather Trim, 10 Pcs Min',
     description:
-      'Custom wool blend berets with leather bands and badge points, from 50 pcs. Classic 28 cm disc, blocked and lined, for fashion labels and uniform programs.',
+      'Custom wool blend berets with leather bands and badge points, from 10 pcs. Classic 28 cm disc, blocked and lined, for fashion labels and uniform programs.',
     h1: 'Berets.',
     intro: [
       'A beret is a blocked wool disc with a band and a small stem — simple to describe, hard to make well. The difference between a good one and a bad one is the blocking and the band tension.',
@@ -375,7 +375,7 @@ export const children = [
     ],
     faqs: [
       { q: 'Will a wool beret shrink?', a: 'Wool felt can felt and shrink with hot water and agitation. Cold hand wash, reshape wet, dry flat.' },
-      { q: 'Can a beret carry a metal badge?', a: 'Yes, a badge point or pin backing is standard on the leather-trim build, from 50 pcs.' },
+      { q: 'Can a beret carry a metal badge?', a: 'Yes, a badge point or pin backing is standard on the leather-trim build, from 10 pcs.' },
     ],
   },
   {
@@ -384,13 +384,13 @@ export const children = [
     name: 'Cowboy Hat',
     nameZh: '牛仔帽',
     kind: 'catalog',
-    title: 'Custom Cowboy Hats — Felt & Straw, 50 Pcs Min',
+    title: 'Custom Cowboy Hats — Felt & Straw, 10 Pcs Min',
     description:
-      'Custom felt and straw cowboy hats with cattleman creases, leather bands and chin straps, from 50 pcs. Western retail, rodeo and event programs.',
+      'Custom felt and straw cowboy hats with cattleman creases, leather bands and chin straps, from 10 pcs. Western retail, rodeo and event programs.',
     h1: 'Western hats.',
     intro: [
       'Cowboy hats are blocked shapes with a creased crown and a wide, shaped brim. Felt holds a crease and takes a leather band; straw is lighter and ventilated for summer.',
-      'Both run from 50 pcs, with band, lining and chin strap configurable per colourway.',
+      'Both run from 10 pcs, with band, lining and chin strap configurable per colourway.',
     ],
     faqs: [
       { q: 'Felt or straw?', a: 'Felt for year-round and formal, straw for summer and heat. Straw is roughly 20% cheaper per piece.' },
@@ -405,9 +405,9 @@ export const children = [
     name: 'Kids Baseball Cap',
     nameZh: '儿童棒球帽',
     kind: 'catalog',
-    title: 'Custom Kids Baseball Caps — 52–55 cm, 50 Pcs Min',
+    title: 'Custom Kids Baseball Caps — 52–55 cm, 10 Pcs Min',
     description:
-      'Custom kids baseball caps and toddler truckers from 50 pcs. 50–55 cm bands, soft crowns, adjustable straps and child-safe trims for schools, teams and kids brands.',
+      'Custom kids baseball caps and toddler truckers from 10 pcs. 50–55 cm bands, soft crowns, adjustable straps and child-safe trims for schools, teams and kids brands.',
     h1: 'Kids baseball caps.',
     intro: [
       'A kids cap is not a scaled-down adult cap: the crown ratio, band height and strap all change. Get the band right and the cap stays on; get it wrong and it ends up in a drawer.',
@@ -424,9 +424,9 @@ export const children = [
     name: 'Kids Bucket Hat',
     nameZh: '儿童渔夫帽',
     kind: 'catalog',
-    title: 'Custom Kids Bucket Hats — Reversible Options, 50 Pcs Min',
+    title: 'Custom Kids Bucket Hats — Reversible Options, 10 Pcs Min',
     description:
-      'Custom kids bucket hats in cotton and reversible prints, from 50 pcs. 50–54 cm bands, 5.5 cm brims, neck cords and packable crowns for kids brands and camps.',
+      'Custom kids bucket hats in cotton and reversible prints, from 10 pcs. 50–54 cm bands, 5.5 cm brims, neck cords and packable crowns for kids brands and camps.',
     h1: 'Kids bucket hats.',
     intro: [
       'The kids bucket is the summer camp and beach staple. Two builds sell: a plain cotton version for embroidery, and a reversible print version that gives two looks for one price.',
@@ -443,9 +443,9 @@ export const children = [
     name: 'Baby Sun Hat',
     nameZh: '宝宝防晒帽',
     kind: 'catalog',
-    title: 'Custom Baby Sun Hats — UPF 50+, 44–48 cm, 50 Pcs Min',
+    title: 'Custom Baby Sun Hats — UPF 50+, 44–48 cm, 10 Pcs Min',
     description:
-      'Custom baby sun hats with UPF 50+ fabric, soft wide brims and tie or hook-and-loop chin straps. 42–48 cm bands for infant and toddler programs, from 50 pcs.',
+      'Custom baby sun hats with UPF 50+ fabric, soft wide brims and tie or hook-and-loop chin straps. 42–48 cm bands for infant and toddler programs, from 10 pcs.',
     h1: 'Baby sun hats.',
     intro: [
       'Baby sun hats are a safety product. The brim has to be soft enough to bend when a baby rolls over, the strap has to hold without pressing on the neck, and the fabric has to be rated.',
@@ -542,13 +542,13 @@ export const children = [
     name: 'Custom Baseball Caps',
     nameZh: '定制棒球帽',
     kind: 'program',
-    title: 'Custom Baseball Caps — 50 Pcs, 12-Colour Embroidery',
+    title: 'Custom Baseball Caps — 10 Pcs, 12-Colour Embroidery',
     description:
-      'Custom baseball caps from 50 pcs: 6-panel, 5-panel, leather patch and premium twill. Free digital proof, 12-colour embroidery, 12–18 day bulk, DDP to the U.S.',
+      'Custom baseball caps from 10 pcs: 6-panel, 5-panel, leather patch and premium twill. Free digital proof, 12-colour embroidery, 12–18 day bulk, DDP to the U.S.',
     h1: 'Custom baseball caps.',
     intro: [
       'The standard custom baseball cap program: pick a crown, pick a fabric, send a logo. One front logo in up to 12 thread colours is included, and a digital proof comes back before you pay anything.',
-      'Most first orders here are 50–150 pcs — enough to test a colourway in a store or at an event without a container commitment.',
+      'Most first orders here are 10–10 pcs — enough to test a colourway in a store or at an event without a container commitment.',
     ],
     faqs: [
       { q: 'What do I need to send?', a: 'A vector logo (AI, EPS, PDF, SVG) or a clean 300 dpi PNG, plus quantity, colourway and the date you need the caps in hand.' },
@@ -561,9 +561,9 @@ export const children = [
     name: 'Custom Dad Hats',
     nameZh: '定制老爹帽',
     kind: 'program',
-    title: 'Custom Dad Hats — Unstructured, 50 Pcs Min',
+    title: 'Custom Dad Hats — Unstructured, 10 Pcs Min',
     description:
-      'Custom dad hats and unstructured caps from 50 pcs. Washed cotton, corduroy and canvas, soft crown, metal buckle. Cheap per piece, retail-looking result.',
+      'Custom dad hats and unstructured caps from 10 pcs. Washed cotton, corduroy and canvas, soft crown, metal buckle. Cheap per piece, retail-looking result.',
     h1: 'Custom dad hats.',
     intro: [
       'Custom dad hats are the lowest-cost way into a branded cap that still looks like retail. Unstructured crown, soft twill, metal buckle — no buckram to distort a wordmark.',
@@ -571,7 +571,7 @@ export const children = [
     ],
     faqs: [
       { q: 'Can I put a big logo on a dad hat?', a: 'Up to about 9 cm. Wider marks wrap around the crown curve and the ends distort.' },
-      { q: 'What is the price at 500 pcs?', a: 'Roughly 22% below the 50-pc price, because the cutting and embroidery setup is amortised over more pieces.' },
+      { q: 'What is the price at 500 pcs?', a: 'Roughly 22% below the 10-pc price, because the cutting and embroidery setup is amortised over more pieces.' },
     ],
   },
   {
@@ -580,9 +580,9 @@ export const children = [
     name: 'Custom Trucker / Mesh Caps',
     nameZh: '定制卡车网帽',
     kind: 'program',
-    title: 'Custom Trucker Caps — Foam Front, Screen Print, 50 Pcs',
+    title: 'Custom Trucker Caps — Foam Front, Screen Print, 10 Pcs',
     description:
-      'Custom trucker caps and mesh caps from 50 pcs. Foam or structured front, screen print or embroidery, 12 cm logo area, cheapest large-logo cap we make.',
+      'Custom trucker caps and mesh caps from 10 pcs. Foam or structured front, screen print or embroidery, 12 cm logo area, cheapest large-logo cap we make.',
     h1: 'Custom trucker caps.',
     intro: [
       'The trucker is the cheapest way to carry a big logo: a flat foam front takes a 12 cm screen print with no curvature problems, and the mesh back keeps it wearable in heat.',
@@ -601,7 +601,7 @@ export const children = [
     kind: 'program',
     title: 'Custom Bucket Hats — Cotton, Nylon, Mesh & Wide Brim',
     description:
-      'Custom bucket hats from 50 pcs in cotton twill, waterproof nylon, mesh and wide brim UPF builds. Embroidered or patched, with neck cords and packable brims.',
+      'Custom bucket hats from 10 pcs in cotton twill, waterproof nylon, mesh and wide brim UPF builds. Embroidered or patched, with neck cords and packable brims.',
     h1: 'Custom bucket hats.',
     intro: [
       'Bucket hats are the fastest-growing shape we make. The build choice is really a fabric choice: cotton for retail, nylon for outdoor, mesh for fishing, wide brim for sun protection.',
@@ -609,7 +609,7 @@ export const children = [
     ],
     faqs: [
       { q: 'What brim width should I order?', a: '6.5 cm is the commercial default. Go to 9–10 cm only if the product is sun protection rather than fashion.' },
-      { q: 'Can I mix bucket styles in one order?', a: 'Yes, but the 50-pc minimum applies per style and colourway, so a mixed order means 50 of each.' },
+      { q: 'Can I mix bucket styles in one order?', a: 'Yes, but the 10-pc minimum applies per style and colourway, so a mixed order means 50 of each.' },
     ],
   },
   {
@@ -618,9 +618,9 @@ export const children = [
     name: 'Custom Golf Caps',
     nameZh: '定制高尔夫运动帽',
     kind: 'program',
-    title: 'Custom Golf Caps & Visors — Performance, 50 Pcs',
+    title: 'Custom Golf Caps & Visors — Performance, 10 Pcs',
     description:
-      'Custom golf caps and visors from 50 pcs. Performance poly or cotton piqué, laser-perforated panels, wicking bands, small embroidered marks for clubs and tournaments.',
+      'Custom golf caps and visors from 10 pcs. Performance poly or cotton piqué, laser-perforated panels, wicking bands, small embroidered marks for clubs and tournaments.',
     h1: 'Custom golf caps.',
     intro: [
       'Golf orders are small, dated and usually embroidered on the left front or the side rather than the centre — club crests sit small and precise.',
@@ -637,9 +637,9 @@ export const children = [
     name: 'Custom Kids Hats',
     nameZh: '定制儿童帽',
     kind: 'program',
-    title: 'Custom Kids Hats — 44–56 cm Bands, 50 Pcs Min',
+    title: 'Custom Kids Hats — 44–56 cm Bands, 10 Pcs Min',
     description:
-      'Custom kids caps, toddler bucket hats and baby sun hats from 50 pcs. 44–56 cm bands, soft brims, breakaway straps and child-safe nickel-free trims.',
+      'Custom kids caps, toddler bucket hats and baby sun hats from 10 pcs. 44–56 cm bands, soft brims, breakaway straps and child-safe nickel-free trims.',
     h1: 'Custom kids hats.',
     intro: [
       'Kids headwear is sized, not shrunk. A 52–55 cm band with a soft crown fits a 3–8 year old; 44–48 cm covers infant to toddler sun hats.',
@@ -647,7 +647,7 @@ export const children = [
     ],
     faqs: [
       { q: 'What sizes should I stock?', a: 'Toddler 48–51 cm, kids 52–55 cm, youth 55–57 cm. Most school and camp programs order kids plus youth.' },
-      { q: 'Is there a minimum per size?', a: 'No — the 50-pc minimum is per colourway, and sizes can be mixed inside it.' },
+      { q: 'Is there a minimum per size?', a: 'No — the 10-pc minimum is per colourway, and sizes can be mixed inside it.' },
     ],
   },
   {
@@ -658,7 +658,7 @@ export const children = [
     kind: 'program',
     title: 'Custom Other Hats — Berets, Cowboy Hats, Visors & More',
     description:
-      'Custom berets, cowboy hats, visors, beanies and special shapes from 50 pcs. Cut-and-sew and blocked constructions, leather trim and badge options.',
+      'Custom berets, cowboy hats, visors, beanies and special shapes from 10 pcs. Cut-and-sew and blocked constructions, leather trim and badge options.',
     h1: 'Other shapes we run.',
     intro: [
       'Not every program fits a cap. Berets, western hats, visors and blocked shapes all run through the same quoting process, with longer lead times because they are cut-and-sew or blocked rather than assembled from a cap body.',

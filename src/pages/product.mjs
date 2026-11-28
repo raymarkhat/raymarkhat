@@ -158,11 +158,94 @@ export function productPage(p) {
   </div>
 </section>
 
+<section class="section section--paper2" style="padding-top:8px">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <span class="eyebrow">Buyer decisions</span>
+        <h2 style="margin-bottom:0">What to compare before you order.</h2>
+      </div>
+      <a class="link-arrow sec-head__link" href="/pedia/custom-cap-moq-guide/">How MOQ works ${icon.arrow}</a>
+    </div>
+
+    <div class="grid g2" style="gap:34px;align-items:start">
+      <div style="overflow-x:auto">
+        <table class="data" style="min-width:520px;background:var(--cream)">
+          <caption class="small" style="text-align:left;padding:12px 16px;color:var(--muted);border-bottom:1px solid var(--line)">
+            Adjacent builds, same factory — priced at the 10-pc entry tier
+          </caption>
+          <thead>
+            <tr><th scope="col">Build</th><th scope="col">Shape</th><th scope="col">Best for</th><th scope="col">10 pcs</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">${esc(p.name)} <span class="mono muted">(this page)</span></th>
+              <td>${esc(p.cat)}</td>
+              <td>${esc(p.bestFor || 'Custom programs and team orders')}</td>
+              <td>$${tiersFor(p)[0].price}</td>
+            </tr>
+            ${related
+              .slice(0, 2)
+              .map(
+                (r) => `<tr>
+              <th scope="row"><a href="/caps/${r.slug}/">${esc(r.name)}</a></th>
+              <td>${esc(r.cat)}</td>
+              <td>${esc(r.bestFor || 'Brand and promo programs')}</td>
+              <td>$${tiersFor(r)[0].price}</td>
+            </tr>`
+              )
+              .join('')}
+          </tbody>
+        </table>
+        <p class="small muted mt-2">
+          Comparing shapes rather than this model?
+          <a href="/pedia/5-panel-vs-6-panel/">5-panel vs 6-panel</a> covers crown structure, and
+          <a href="/pedia/cap-fabric-guide/">the fabric guide</a> covers weight and hand feel.
+        </p>
+      </div>
+
+      <div>
+        <table class="data" style="background:var(--cream);border:1px solid var(--line);border-radius:8px;overflow:hidden">
+          <caption class="small" style="text-align:left;padding:12px 16px;color:var(--muted);border-bottom:1px solid var(--line)">
+            Decoration methods — what each one is good at
+          </caption>
+          <thead>
+            <tr><th scope="col">Method</th><th scope="col">Look</th><th scope="col">Best on</th><th scope="col">Cost driver</th></tr>
+          </thead>
+          <tbody>
+            <tr><th scope="row">Flat embroidery</th><td>Clean, matte, durable</td><td>Wordmarks, fine detail</td><td>Stitch count</td></tr>
+            <tr><th scope="row">3D puff</th><td>Raised, dimensional</td><td>Single bold logo</td><td>Foam layers, stitch count</td></tr>
+            <tr><th scope="row">Woven / chenille patch</th><td>Tight detail, textile edge</td><td>Multi-colour crests</td><td>Patch size, colours</td></tr>
+            <tr><th scope="row">Leather patch</th><td>Premium, tonal</td><td>Heritage and outdoor brands</td><td>Leather grade, laser time</td></tr>
+            <tr><th scope="row">Screen print</th><td>Flat, high contrast</td><td>Foam-front truckers</td><td>Colours in the artwork</td></tr>
+          </tbody>
+        </table>
+        <p class="small muted mt-2">
+          One front logo in up to 12 thread colours is included in the piece price; patch and print pricing is quoted per artwork.
+          <a href="/pedia/embroidery-vs-print/">Embroidery vs print</a> has the full comparison.
+        </p>
+      </div>
+    </div>
+
+    <div class="notice mt-3">
+      <span>${icon.check}</span>
+      <span>
+        <strong>10 pcs minimum per colorway</strong>, sizes mixable inside it. Sampling takes <strong>5 days</strong>;
+        bulk runs <strong>12–18 days</strong> after proof approval. Full spec and freight detail on the
+        <a href="/pedia/how-to-order-custom-caps/">ordering guide</a>.
+      </span>
+    </div>
+  </div>
+</section>
+
 <section class="section">
   <div class="wrap">
     <div class="sec-head">
-      <div><span class="eyebrow">Pairs well with</span><h2>More caps in this range.</h2></div>
-      <a class="link-arrow sec-head__link" href="/shop/all/">All styles ${icon.arrow}</a>
+      <div>
+        <span class="eyebrow">Pairs well with</span>
+        <h2 style="margin-bottom:0">More caps in this range.</h2>
+      </div>
+      <a class="link-arrow sec-head__link" href="/shop/all/">All 52 styles ${icon.arrow}</a>
     </div>
     <div class="card-grid card-grid--3">${related.map((r) => productCard(r)).join('')}</div>
   </div>

@@ -19,8 +19,10 @@ export const orgSchema = {
   image: abs('/assets/img/og-default.png'),
   address: {
     '@type': 'PostalAddress',
-    addressLocality: site.city,
-    addressRegion: site.region,
+    streetAddress: 'Building 4, Yangguang Industrial Park, Zhonghua West Road, Nancheng Subdistrict, Mudan District',
+    addressLocality: 'Heze',
+    addressRegion: 'Shandong',
+    postalCode: '274000',
     addressCountry: 'CN',
   },
   contactPoint: [

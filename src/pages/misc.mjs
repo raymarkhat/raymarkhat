@@ -104,7 +104,7 @@ ${ctaBand({ title: 'Prefer to skip the form?', text: 'Message the number directl
     url: '/contact/',
     title: `Contact — Custom Cap Quotes in 24h | ${site.brand}`,
     description:
-      'Request a custom baseball cap quote: WhatsApp +86 159 5435 8307, email info@raymarkhat.com. MOQ 50 pcs, free digital proof, replies within 12 hours.',
+      'Request a custom baseball cap quote: WhatsApp +86 159 5435 8307, email info@raymarkhat.com. MOQ 10 pcs, free digital proof, replies within 12 hours.',
     active: 'Contact',
     body,
     jsonLd: [

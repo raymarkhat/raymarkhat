@@ -88,7 +88,7 @@ ${categoryBar()}
         <div class="tile__body">
           <span class="mono" style="color:var(--gold)">Custom program</span>
           <h3>Your logo on<br />any shape.</h3>
-          <p class="small" style="color:#c9c3b4">Seven custom programs — caps, dad hats, truckers, buckets, golf, kids and special shapes. 50 pcs minimum.</p>
+          <p class="small" style="color:#c9c3b4">Seven custom programs — caps, dad hats, truckers, buckets, golf, kids and special shapes. 10 pcs minimum.</p>
           <span class="link-arrow">Start a custom order ${icon.arrow}</span>
         </div>
         <div class="tile__media"><img src="/assets/img/caps/${heroFor('custom-hat').slug}-front.svg" width="900" height="760" alt="" loading="lazy" /></div>
@@ -107,7 +107,7 @@ ${categoryBar()}
           <thead><tr><th>Order size</th><th>Typical band</th><th>Best for</th></tr></thead>
           <tbody>
             <tr><td>25–49 pcs</td><td>$${money(7.4)}–$${money(14.5)}</td><td>Stock colourways, single event</td></tr>
-            <tr><td>50–99 pcs</td><td>$4.90–$16.00</td><td>Testing a shape or colourway</td></tr>
+            <tr><td>10–49 pcs</td><td>$4.90–$16.00</td><td>Testing a shape or colourway</td></tr>
             <tr><td>100–499 pcs</td><td>$4.65–$15.20</td><td>Seasonal drop, team program</td></tr>
             <tr><td>500+ pcs</td><td>$3.80–$12.50</td><td>Distributor stock, private label</td></tr>
           </tbody>
@@ -140,7 +140,7 @@ ${ctaBand({ title: 'Not sure which shape<br />fits your logo?', text: 'Send the 
     url: '/shop/',
     title: `Shop by Category — 7 Categories, ${products.length} Hat Styles | ${site.brand}`,
     description:
-      'Browse by category: baseball caps, sport and outdoor, bucket hats, fashion hats, kids, brand colourways and the custom program. Live USD pricing from 25–50 pcs.',
+      'Browse by category: baseball caps, sport and outdoor, bucket hats, fashion hats, kids, brand colourways and the custom program. Live USD pricing from 10 pcs.',
     active: 'Shop',
     body,
     jsonLd: [
@@ -216,7 +216,7 @@ ${ctaBand({ title: 'Found a shape?<br />Send the logo.', text: 'A quote takes 24
     url: '/shop/all/',
     title: `All Hat Styles — ${products.length} SKUs, USD Pricing | ${site.brand}`,
     description:
-      'The full catalogue in one grid: 52 hat styles with category filters and live USD pricing from 25–50 pcs. Baseball caps, bucket hats, golf caps, kids hats and more.',
+      'The full catalogue in one grid: 52 hat styles with category filters and live USD pricing from 10 pcs. Baseball caps, bucket hats, golf caps, kids hats and more.',
     active: 'Shop',
     body,
     jsonLd: [

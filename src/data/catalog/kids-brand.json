@@ -8,7 +8,7 @@
     "tagline": "Soft structured crown, 52–55 cm band, strap kids can adjust themselves.",
     "blurb": "Structured kids cap with a soft crown, a 52–55 cm band and a no-pinch strap.",
     "price": 5.4,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "Kids outgrow caps faster than they wear them out, so this one is built around the two things that matter: a band that starts at 52 cm and a crown that does not fight the logo. Light buckram holds the front panel flat, and the rest stays soft enough to fold into a backpack.",
@@ -50,7 +50,7 @@
     "faqs": [
       { "q": "What ages does the 52–55 cm band fit?", "a": "About four to eight years. The snap takes up 3 cm, so the band closes to 52 cm without the crown dropping over the ears." },
       { "q": "Are there any small parts?", "a": "No. The top button is sewn through, the eyelets are stitched, and there is no charm, clip or pin anywhere on the cap." },
-      { "q": "Can I split a 50 pc order between sizes?", "a": "Yes. The kids band and the toddler band can be mixed in one 50 pc colorway at no extra cost." }
+      { "q": "Can I split a 10 pc order between sizes?", "a": "Yes. The kids band and the toddler band can be mixed in one 10 pc colorway at no extra cost." }
     ],
     "related": ["kids-trucker-cap", "kids-cotton-bucket", "signature-6-panel-cap"]
   },
@@ -63,11 +63,11 @@
     "tagline": "Foam front, mesh back, 50–54 cm band — the cheapest cap to print.",
     "blurb": "Foam-front kids trucker with a mesh back and a 50–54 cm strap. Big logo, low cost.",
     "price": 5.9,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "A kids trucker is the cheapest way to put a large logo on a small head. The foam front is flat, so a 10 cm print or patch sits square with no curve distortion, and the mesh back keeps a running, sweaty kid noticeably cooler than cotton.",
-      "Sizing runs 50–54 cm on a plastic snap, which covers about three to six years. The front takes screen print, flat embroidery or a woven patch; the mesh back is left plain because embroidery on mesh puckers. Minimum is 50 pcs per colorway, mixed sizes allowed."
+      "Sizing runs 50–54 cm on a plastic snap, which covers about three to six years. The front takes screen print, flat embroidery or a woven patch; the mesh back is left plain because embroidery on mesh puckers. Minimum is 10 pcs per colorway, mixed sizes allowed."
     ],
     "features": [
       { "title": "Flat foam front", "text": "Takes a 10 cm wide print or patch with no curvature distortion." },
@@ -119,7 +119,7 @@
     "tagline": "5.5 cm brim, 50–54 cm band, neck cord — a bucket hat that stays on.",
     "blurb": "Cotton bucket hat with a neck cord and a 5.5 cm brim for playground sun.",
     "price": 5.2,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "A bucket hat is the practical answer for kids who will not keep a cap on: the brim shades the ears and the neck cord keeps it attached when they run. This one is 100% cotton twill with a 5.5 cm brim, a 50–54 cm band and a soft crown that packs flat.",
@@ -174,7 +174,7 @@
     "tagline": "Two prints in one hat, 52–56 cm, packable — flip it and it is a new cap.",
     "blurb": "Reversible bucket hat: two prints, one 52–56 cm band, packs into a pocket.",
     "price": 6.4,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "Two hats in one bag: a printed cotton bucket with a second print on the inside, joined at the brim so it can be turned inside out and worn the other way. Useful for travel, camp and any parent who has watched a child refuse the hat they picked.",
@@ -229,7 +229,7 @@
     "tagline": "44–48 cm, 6 cm brim, tie chin strap and UPF 50+ cotton — first-summer hat.",
     "blurb": "Baby sun hat with a wide 6 cm brim, tie chin strap and UPF 50+ fabric.",
     "price": 4.9,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "For a baby too young for a cap, the sun hat does the work: a 6 cm brim that covers the face and the back of the neck, a 44–48 cm band and a chin strap that keeps it on in a stroller or a carrier.",
@@ -249,7 +249,7 @@
       ["Sweatband", "Cotton poplin, 2 cm"],
       ["Sizes", "One size (44–48 cm)"],
       ["Decoration", "Flat embroidery, woven label"],
-      ["Carton", "150 pcs per carton, 0.14 cbm"]
+      ["Carton", "110 pcs per carton, 0.14 cbm"]
     ],
     "decoration": ["Flat embroidery", "Woven label"],
     "colors": [
@@ -284,7 +284,7 @@
     "tagline": "42–46 cm, soft brim and hook-and-loop strap — the newborn sun hat.",
     "blurb": "Smallest sun hat we make: 42–46 cm band, soft brim, hook-and-loop strap.",
     "price": 5.3,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "This is the newborn size: a 42–46 cm band, a soft brim and a hook-and-loop strap instead of a tie, because a strap a parent can open one-handed is the difference between the hat staying on and ending up in the stroller basket at all, which is where most baby hats finish.",
@@ -304,7 +304,7 @@
       ["Sweatband", "Cotton twill, 2 cm"],
       ["Sizes", "One size (42–46 cm)"],
       ["Decoration", "Flat embroidery, woven label"],
-      ["Carton", "150 pcs per carton, 0.13 cbm"]
+      ["Carton", "110 pcs per carton, 0.13 cbm"]
     ],
     "decoration": ["Flat embroidery", "Woven label"],
     "colors": [
@@ -339,7 +339,7 @@
     "tagline": "Royal crown, white visor, high-profile — an original basketball colorway.",
     "blurb": "Two-tone snapback in a basketball palette. Ships blank or with your own logo.",
     "price": 9.9,
-    "moq": 25,
+    "moq": 10,
     "badges": ["Pro colorway"],
     "intro": [
       "A high-profile snapback in royal blue and white: structured crown, flat visor, white 3D puff front. It is an original two-tone colorway built in a basketball palette — the colors read as court-side, but the cap carries no team name, league mark or player reference.",
@@ -349,7 +349,7 @@
       { "title": "Two-tone court build", "text": "Royal crown, white visor and white button in one stock colorway." },
       { "title": "Ships blank or branded", "text": "Order the body as-is, or send a logo and we embroider the front." },
       { "title": "High-profile flat front", "text": "About 10 cm of flat panel takes raised puff up to 10 cm wide." },
-      { "title": "25 pc minimum", "text": "Stock bodies are already cut and dyed, so the minimum is lower." }
+      { "title": "10 pc minimum", "text": "Stock bodies are already cut and dyed, so the minimum is lower." }
     ],
     "specs": [
       ["Crown", "6-panel, high-profile, structured"],
@@ -381,7 +381,7 @@
     },
     "faqs": [
       { "q": "Does the cap come with a team logo?", "a": "No. It ships blank or with your own mark. Team names, league marks and player references are not part of this product, and nothing on it is licensed." },
-      { "q": "Can I order 25 pcs in one colorway?", "a": "Yes, 25 pcs per colorway, mixed sizes included. Custom colorways start at 50 pcs." },
+      { "q": "Can I order 25 pcs in one colorway?", "a": "Yes, 10 pcs per colorway, mixed sizes included. Custom colorways start at 10 pcs." },
       { "q": "Is the colorway exclusive to me?", "a": "No. It is a stock colorway we run year-round, so other buyers can order it too. Exclusive colorways start at 100 pcs." }
     ],
     "related": ["hardwood-colorway-dad-hat", "flat-brim-snapback", "pro-fit-fitted-cap"]
@@ -395,7 +395,7 @@
     "tagline": "Gold crown, black visor, soft unstructured — a basketball-palette dad hat.",
     "blurb": "Soft dad hat in a hardwood gold-and-black colorway. Blank or your logo.",
     "price": 8.9,
-    "moq": 25,
+    "moq": 10,
     "badges": ["Pro colorway"],
     "intro": [
       "The same court color story on a soft crown: gold garment-washed twill, black visor, contrast stitch. Where the snapback is loud, this is the cap someone wears to a game and then to work the next day, because an unstructured low crown does not look like merchandise.",
@@ -405,7 +405,7 @@
       { "title": "Court palette, soft body", "text": "Gold crown and black visor on a garment-washed unstructured crown." },
       { "title": "Blank or branded", "text": "Ships as a blank stock colorway, or with your logo embroidered." },
       { "title": "Low unstructured crown", "text": "Low-profile unstructured front suits long wordmarks and small badges." },
-      { "title": "Adjustable 55–60 cm", "text": "55–60 cm adjustable band; 25 pc minimum, mixed sizes allowed." }
+      { "title": "Adjustable 55–60 cm", "text": "55–60 cm adjustable band; 10 pc minimum, mixed sizes allowed." }
     ],
     "specs": [
       ["Crown", "6-panel, low-profile, unstructured"],
@@ -450,7 +450,7 @@
     "tagline": "Navy fitted crown, scarlet visor, flat brim — a baseball-palette stock cap.",
     "blurb": "Stock fitted cap in a navy-and-scarlet baseball palette. Blank or your logo.",
     "price": 11.8,
-    "moq": 25,
+    "moq": 10,
     "badges": ["Pro colorway"],
     "intro": [
       "A stock fitted cap in a baseball palette: navy wool-blend crown, scarlet flat visor, dense 3D puff front. No strap and no snap, just a sewn size band and a close fit — the shape buyers ask for when the cap has to read as on-field rather than promotional.",
@@ -506,11 +506,11 @@
     "tagline": "Cardinal foam front, white mesh — a baseball-palette trucker, blank or branded.",
     "blurb": "Foam-front trucker in a cardinal-and-white baseball palette. Blank or your logo.",
     "price": 9.4,
-    "moq": 25,
+    "moq": 10,
     "badges": ["Pro colorway"],
     "intro": [
       "A trucker in a baseball palette: cardinal foam front, white mesh back, white visor piping and a big flat panel for a logo. The trucker shape is the cheapest way to carry a wide mark, and the contrast mesh is what makes the two-tone read as deliberate rather than mismatched.",
-      "It is an original two-tone colorway in a baseball palette and carries no club name, league mark or player reference. Order the blank body for resale or send artwork: screen print and flat embroidery both work on foam, up to about 10 cm wide. Stock bodies mean a 25 pc minimum and 7–10 day blank turnaround."
+      "It is an original two-tone colorway in a baseball palette and carries no club name, league mark or player reference. Order the blank body for resale or send artwork: screen print and flat embroidery both work on foam, up to about 10 cm wide. Stock bodies mean a 10 pc minimum and 7–10 day blank turnaround."
     ],
     "features": [
       { "title": "Oversized logo area", "text": "Foam front takes a 12 cm wide mark, the largest flat field we run." },
@@ -562,7 +562,7 @@
     "tagline": "Deep teal fitted crown, ice visor, low contrast — a hockey-palette cap.",
     "blurb": "Stock fitted cap in a deep teal and ice hockey palette. Blank or your logo.",
     "price": 11.2,
-    "moq": 25,
+    "moq": 10,
     "badges": ["Pro colorway"],
     "intro": [
       "A low-contrast take on the fitted cap: deep teal crown, pale ice-blue visor and a small front mark instead of a loud badge. It is a colorway built for hockey-season retail, where the palette is usually darker and quieter than basketball or baseball fans expect.",
@@ -617,7 +617,7 @@
     "tagline": "Burgundy front, winter-weight grey mesh — a hockey-palette trucker.",
     "blurb": "Hockey-palette trucker with winter-weight mesh. Ships blank or with your logo.",
     "price": 8.9,
-    "moq": 25,
+    "moq": 10,
     "badges": ["Pro colorway"],
     "intro": [
       "A hockey-palette trucker with a heavier mesh than our standard build: a tighter knit that blocks wind and holds a darker grey, which suits cold-weather retail better than the open summer mesh. Burgundy foam front, grey back, plain or branded with your own mark for fall and winter programs.",
@@ -660,7 +660,7 @@
     "faqs": [
       { "q": "What is winter-weight mesh?", "a": "A tighter knit with smaller openings than standard trucker mesh. It blocks more wind and holds a darker grey." },
       { "q": "Is this a licensed product?", "a": "No. It is an original two-tone colorway in a hockey palette, blank or with your own logo, and carries no club or league marks." },
-      { "q": "Can I order fewer than 100 pcs?", "a": "Yes, 25 pcs per colorway on stock bodies. Custom mesh colors start at 100 pcs." }
+      { "q": "Can I order fewer than 100 pcs?", "a": "Yes, 10 pcs per colorway on stock bodies. Custom mesh colors start at 100 pcs." }
     ],
     "related": ["rink-colorway-fitted", "turf-trucker", "trucker-mesh-cap"]
   }

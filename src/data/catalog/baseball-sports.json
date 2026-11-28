@@ -8,7 +8,7 @@
     "tagline": "300 gsm cotton twill, six structured panels, and a crown that holds a dense logo.",
     "blurb": "The premium blank: dense 300 gsm twill and a stiff front panel that keeps logos crisp.",
     "price": 7.4,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "Most caps are built from 240 to 260 gsm twill. This one runs 300 gsm, a heavier yarn count that gives the crown body and stops the front panel from softening after a season. Six sewn panels, a full buckram front and a pre-curved visor keep the shape square in the box.",
@@ -66,7 +66,7 @@
         "a": "The twill is 300 gsm against 240–260 gsm on a standard cap, and the crown carries a full buckram front rather than a partial one."
       },
       {
-        "q": "Why is it $7.40 at 50 pcs?",
+        "q": "Why is it $7.40 at 10 pcs?",
         "a": "The heavier fabric costs more per meter and the structured build takes longer to block, which adds roughly $1.00 over our entry six-panel."
       },
       {
@@ -85,7 +85,7 @@
     "tagline": "Acrylic-wool fitted crown in half sizes, flat or curved visor, no adjuster.",
     "blurb": "True fitted cap with a sewn-in size band and a high structured crown. No strap.",
     "price": 11.2,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "A fitted cap is a size, not a range. The band is sewn in from 6 7/8 to 7 5/8 in half sizes, the crown is blocked on a wooden form, and there is no plastic snap to loosen after a hundred wears. That is why it reads as equipment rather than giveaway.",
@@ -163,7 +163,7 @@
     "tagline": "Twenty percent wool, on-field crown shape, eight rows of visor stitching.",
     "blurb": "Wool-blend fitted cap with the on-field silhouette and dense eight-row visor stitching.",
     "price": 12.4,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "The gap between a wool blend and a straight acrylic cap shows in the hand: the wool adds loft, the crown presses sharper and the fabric does not shine under arena lights. Ours runs 20% wool, enough to change the look without the price of a full wool felt.",
@@ -241,7 +241,7 @@
     "tagline": "Mid-profile snapback with a flat brim, cut for long thin wordmarks.",
     "blurb": "Six-panel snapback shaped for wide, thin lettering. Flat brim, plastic snap.",
     "price": 9.2,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "Most snapbacks are built for a badge. This one is built for a line of type: a mid-profile crown, a front panel without heavy buckram support, and a flat brim that keeps the proportions horizontal. Long, thin wordmarks read cleanly across it instead of wrapping around a stiff curve.",
@@ -318,7 +318,7 @@
     "tagline": "Foam front, mesh back, five panels — the cheapest large-logo build we run.",
     "blurb": "Classic foam-front trucker with a mesh back. Biggest flat logo area for the money.",
     "price": 7.2,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "The foam-front trucker is the least expensive way to put a large logo on a cap. The front is a single molded foam panel, so a 12 cm print or patch sits perfectly flat with no curve to fight, and the mesh back keeps both the cost and the weight down.",
@@ -397,7 +397,7 @@
     "tagline": "Two-tone trucker with contrast mesh, a piped brim and a snapback closure.",
     "blurb": "Two-tone trucker with contrast mesh and piping. A promo cap that looks designed.",
     "price": 8.1,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "The foam-front trucker is cheap; the two-tone version looks expensive. Contrast mesh against the front panel, piping along the visor edge and a snapback closure turn a giveaway into something a retailer will hang on a peg instead of dropping it into a clearance bin.",
@@ -475,7 +475,7 @@
     "tagline": "Laser-perforated technical tour cap with a moisture-wicking sweatband.",
     "blurb": "Tour-shaped performance cap: perforated panels, wicking band, structured front.",
     "price": 9.8,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "A tour cap has to look technical without looking like a running hat. This one is built on a low structured crown with laser-perforated side panels, a wicking sweatband and a matte poly shell that does not shine under a camera flash or a clubhouse light.",
@@ -553,7 +553,7 @@
     "tagline": "Cotton piqué golf cap with a metal buckle and a classic club profile.",
     "blurb": "Piqué cotton, mid crown, brass buckle. The clubhouse cap without the club markup.",
     "price": 8.4,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "Piqué is the polo-shirt weave: a small raised diamond that gives cotton texture and lets air through. On a cap it reads as clubhouse rather than sportswear, which is why pro shops and resort accounts order it over a technical shell. It also creases less than plain twill after a day in a golf bag.",
@@ -630,7 +630,7 @@
     "tagline": "Open-top visor with a wide wicking band and a laser-perforated brim.",
     "blurb": "Open-top performance visor. Wide wicking band, low glare, built for summer rounds.",
     "price": 6.9,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "A visor solves the problem a cap creates: heat. With the crown open, air moves over the head, and a wide band still catches sweat before it reaches the eyes. Ours uses a 4.5 cm band with a wicking lining rather than the thin elastic band on a promotional visor.",
@@ -706,7 +706,7 @@
     "tagline": "Soft knit band visor that packs flat, with an elastic back and no hardware.",
     "blurb": "Knit-band visor that folds into a bag. Elastic back, no hardware, travel-ready.",
     "price": 7.6,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "This visor is built around a soft knit band rather than a stiff shell, so it can be folded in half and pushed into a golf bag without taking a permanent crease. It comes out looking the way it went in, which is useful for resort shops that hand them out at the first tee.",
@@ -783,7 +783,7 @@
     "tagline": "90 gsm micro poly running cap with an optional reflective trim.",
     "blurb": "Featherweight running cap in 90 gsm micro poly. Low profile, reflective option.",
     "price": 8.9,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "At 90 gsm the shell is about half the weight of a standard cotton cap, and the finished piece comes in near 55 g. That matters on a long run: less fabric to soak, faster drying, and no heavy buckram pressing on the forehead after twenty minutes.",
@@ -860,7 +860,7 @@
     "tagline": "Five-panel tennis cap with a short visor and a light cotton blend shell.",
     "blurb": "Short-visor five-panel in light cotton blend. Made for courts, clubs and resort shops.",
     "price": 8.2,
-    "moq": 50,
+    "moq": 10,
     "badges": [],
     "intro": [
       "Tennis caps are cut short on purpose: a 6 cm visor keeps the ball in view on an overhead, and a five-panel crown sits close enough to stay put through a serve. This one is built on a light cotton blend at about 180 gsm, cool enough for a full match.",

@@ -19,7 +19,7 @@
     { "label": "Front logo size", "value": "typically 6-9 cm wide" },
     { "label": "Stitch count", "value": "4,000-9,000 stitches" },
     { "label": "Thread colors", "value": "up to 12" },
-    { "label": "Custom MOQ", "value": "50 pcs per colorway" }
+    { "label": "Custom MOQ", "value": "10 pcs per colorway" }
   ],
   "sections": [
     {
@@ -44,7 +44,7 @@
         },
         {
           "type": "p",
-          "text": "Cost scales with stitch count more than with color count. A common rule of thumb is $0.25-$0.50 per 1,000 stitches at 50-250 pcs, so a 4,000-stitch mark adds roughly $1-$2 per cap and a 9,000-stitch front adds $2.25-$4.50. Removing background fills and outlining large shapes instead of filling them is the fastest way to cut cost without changing the design."
+          "text": "Cost scales with stitch count more than with color count. A common rule of thumb is $0.25-$0.50 per 1,000 stitches at 50-210 pcs, so a 4,000-stitch mark adds roughly $1-$2 per cap and a 9,000-stitch front adds $2.25-$4.50. Removing background fills and outlining large shapes instead of filling them is the fastest way to cut cost without changing the design."
         }
       ]
     },
@@ -115,7 +115,7 @@
             ["Chenille patch", "Varsity looks, big raised letters", "High; hand finishing", "Bulky; not for fine detail"],
             ["Leather patch", "Premium brand marks, laser engraving", "High; material and application", "Heavier; engraving is normally one color"]
           ],
-          "caption": "Cost impact is relative per piece at roughly 50-500 pcs. Treat the ranking as a rule of thumb and confirm exact pricing on a quote."
+          "caption": "Cost impact is relative per piece at roughly 10-500 pcs. Treat the ranking as a rule of thumb and confirm exact pricing on a quote."
         },
         {
           "type": "callout",
@@ -130,7 +130,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "At 50 pieces, setup costs dominate. Screen print's per-color setup and patch tooling hurt far more than they would at 5,000 pieces, while embroidery carries almost no setup beyond digitizing the artwork once."
+          "text": "At 10 pieces, setup costs dominate. Screen print's per-color setup and patch tooling hurt far more than they would at 5,000 pieces, while embroidery carries almost no setup beyond digitizing the artwork once."
         },
         {
           "type": "p",

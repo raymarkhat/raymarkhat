@@ -6,7 +6,7 @@ import { products, parents, heroFor } from '../lib/catalog.mjs';
 const quickAnswers = [
   {
     q: 'What is the minimum order for custom caps?',
-    a: '50 pieces per style and colorway, mixable across sizes. Stock pro-colorways start at 25 pieces. Samples of 1–2 pieces are available first.',
+    a: '10 pieces per style and colorway, mixable across sizes. Stock pro-colorways also start at 10 pieces. Samples of 1–2 pieces are available first.',
   },
   {
     q: 'How long does a custom cap order take?',
@@ -14,7 +14,7 @@ const quickAnswers = [
   },
   {
     q: 'How much does a custom cap cost?',
-    a: 'Our caps start at $6.20 per piece at 50–99 pcs and drop to about $4.85 at 1,000 pcs, with one front logo in up to 12 thread colors included.',
+    a: 'Our caps start at $6.20 per piece at 10–49 pcs and drop to about $4.85 at 1,000 pcs, with one front logo in up to 12 thread colors included.',
   },
   {
     q: 'Do you ship to the U.S. door?',
@@ -31,14 +31,14 @@ export function homePage(pedia = {}) {
   <div class="wrap hero__grid">
     <div>
       <span class="eyebrow">Heze, Shandong → United States</span>
-      <h1><span class="line">Headwear</span><span class="line">programs,</span><span class="line hl">from 50 pcs.</span></h1>
+      <h1><span class="line">Headwear</span><span class="line">programs,</span><span class="line hl">from 10 pcs.</span></h1>
       <p class="hero__sub">Custom 6-panels, dad hats, truckers and pro-colorway caps — embroidered, patched and shipped factory-direct to U.S. brands, shops and team dealers. No container loads required.</p>
       <div class="hero__ctas">
         <a class="btn btn--red" href="/shop/">Shop the catalog ${icon.arrow}</a>
         <a class="btn btn--outline" href="/contact/">Get a quote</a>
       </div>
       <div class="hero__stats">
-        <div class="hero__stat"><b>50 pcs</b><span>per colorway</span></div>
+        <div class="hero__stat"><b>10 pcs</b><span>per colorway</span></div>
         <div class="hero__stat"><b>12–18</b><span>day bulk lead</span></div>
         <div class="hero__stat"><b>12</b><span>thread colors</span></div>
         <div class="hero__stat"><b>DDP</b><span>to your door</span></div>
@@ -139,6 +139,7 @@ ${trustRow()}
           <caption class="small" style="text-align:left;padding:14px 16px;color:var(--muted);border-bottom:1px solid var(--line)">Example: a 6-panel custom cap, one front logo</caption>
           <thead><tr><th>Quantity</th><th>Per piece</th><th>Per 100</th></tr></thead>
           <tbody>
+            <tr><td>10–49</td><td>$${money(6.8 * 1.25)}</td><td>—</td></tr>
             <tr><td>50–99</td><td>$${money(6.8)}</td><td>—</td></tr>
             <tr><td>100–499</td><td>$${money(6.8 * 0.95)}</td><td>$${money(6.8 * 0.95 * 100)}</td></tr>
             <tr><td>500–999</td><td>$${money(6.8 * 0.86)}</td><td>$${money(6.8 * 0.86 * 100)}</td></tr>
@@ -148,6 +149,68 @@ ${trustRow()}
         <p class="small muted mt-2">Ex-works pricing shown. DDP freight is quoted per order by weight and destination — air is usually the cheapest choice under 300 kg.</p>
       </div>
     </div>
+  </div>
+</section>
+
+<section class="section section--paper2">
+  <div class="wrap">
+    ${sectionHead({
+      eyebrow: 'Cap shapes compared',
+      title: 'Which cap shape fits the program?',
+      link: { href: '/shop/', label: 'Browse all 52 styles' },
+    })}
+    <div style="overflow-x:auto">
+      <table class="data" style="min-width:860px;background:var(--cream)">
+        <caption class="small" style="text-align:left;padding:14px 16px;color:var(--muted);border-bottom:1px solid var(--line)">
+          Shapes sold side by side by Raymark. All five are available from 10 pcs per colorway, one front logo included.
+        </caption>
+        <thead>
+          <tr><th scope="col">Shape</th><th scope="col">Crown</th><th scope="col">Usually bought by</th><th scope="col">Decoration that works best</th><th scope="col">Min.</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row"><a href="/baseball-caps/classic-baseball-cap/">Classic 6-panel</a></th>
+            <td>Structured, mid-to-high profile</td>
+            <td>Promo and corporate programs, retail blanks</td>
+            <td>Flat embroidery, 3D puff, woven patch</td>
+            <td>10 pcs</td>
+          </tr>
+          <tr>
+            <th scope="row"><a href="/baseball-caps/dad-hats/">Dad hat / 6-panel unstructured</a></th>
+            <td>Soft, low profile, pre-curved</td>
+            <td>DTC brands, coffee and lifestyle retail</td>
+            <td>Flat embroidery, small chest-style logo</td>
+            <td>10 pcs</td>
+          </tr>
+          <tr>
+            <th scope="row"><a href="/baseball-caps/fitted-caps/">Fitted cap</a></th>
+            <td>Structured, blocked to half sizes</td>
+            <td>Team dealers, on-field uniform programs</td>
+            <td>3D puff front, side embroidery</td>
+            <td>10 pcs</td>
+          </tr>
+          <tr>
+            <th scope="row"><a href="/baseball-caps/trucker-caps/">Trucker / mesh back</a></th>
+            <td>Foam or twill front, mesh back</td>
+            <td>Events, agriculture, outdoor and beer brands</td>
+            <td>Screen print, chenille patch</td>
+            <td>10 pcs</td>
+          </tr>
+          <tr>
+            <th scope="row"><a href="/bucket-hats/">Bucket hat</a></th>
+            <td>Unstructured, all-round brim</td>
+            <td>Resorts, festivals, fishing and kids lines</td>
+            <td>Flat embroidery, woven label, print</td>
+            <td>10 pcs</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="small muted mt-2">
+      Not sure which one converts? Send the end use and a target landed cost —
+      <a href="/contact/">we will come back with two shapes and a proof</a>, usually within 24 hours.
+      The <a href="/pedia/custom-cap-moq-guide/">MOQ guide</a> explains how the 10-pc floor works per colorway.
+    </p>
   </div>
 </section>
 
@@ -199,7 +262,7 @@ ${ctaBand()}
     url: '/',
     title: `Custom Baseball Caps, Factory-Direct | ${site.brand}`,
     description:
-      'Factory-direct custom baseball caps and pro-team colorway caps from 50 pcs. 12-color embroidery, free digital proof, 12–18 day lead time, DDP delivery to the U.S.',
+      'Factory-direct custom baseball caps and pro-team colorway caps from 10 pcs. 12-color embroidery, free digital proof, 12–18 day lead time, DDP delivery to the U.S.',
     active: 'Home',
     body,
     jsonLd: [

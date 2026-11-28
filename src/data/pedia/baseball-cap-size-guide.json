@@ -11,14 +11,14 @@
     "Fitted caps run S to XL, from 7 (about 56 cm) to 7 3/4 (about 62 cm); measure in centimeters, then convert.",
     "Measure around the widest part of your head, about 1 cm above the ears, with the tape snug but not tight.",
     "Youth caps typically fit heads around 50 to 55 cm, with a shallower crown and a shorter brim than adult caps.",
-    "For a team or company order on one SKU, use an adjustable 56-60 cm cap; Raymark's custom MOQ is 50 pcs per colorway."
+    "For a team or company order on one SKU, use an adjustable 56-60 cm cap; Raymark's custom MOQ is 10 pcs per colorway."
   ],
   "intro": "Most cap fit problems start with a guess instead of a measurement. A soft tape around your head, read in centimeters, converts directly to one-size adjustable ranges and fitted hat sizes. This guide shows how to measure, how to read the chart, and what to do when you only get one SKU for a whole team.",
   "keyFacts": [
     { "label": "One-size adjustable", "value": "56-60 cm / 7-7 1/2" },
     { "label": "Fitted sizes", "value": "S-XL, 7-7 3/4" },
     { "label": "Youth range", "value": "about 50-55 cm" },
-    { "label": "Custom MOQ", "value": "50 pcs per colorway" },
+    { "label": "Custom MOQ", "value": "10 pcs per colorway" },
     { "label": "Sample", "value": "1-2 pcs, 5-7 days" }
   ],
   "sections": [
@@ -168,7 +168,7 @@
           "type": "callout",
           "tone": "warn",
           "title": "Mind the minimum",
-          "text": "Raymark's MOQ is 50 pcs per style/colorway, so a size split inside one colorway is easier than adding a second colorway. Confirm the split in your quote request."
+          "text": "Raymark's MOQ is 10 pcs per style/colorway, so a size split inside one colorway is easier than adding a second colorway. Confirm the split in your quote request."
         }
       ]
     }
