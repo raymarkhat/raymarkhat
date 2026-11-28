@@ -86,7 +86,7 @@ ${trustRow()}
       title: 'The caps buyers reorder.',
       text: 'Prices are per piece in USD, include one front logo, and drop with quantity. Every product page carries its full tier table.',
       link: '/shop/all/',
-      linkLabel: 'All 52 styles',
+      linkLabel: 'All Styles',
     })}
     <div class="card-grid">${best.map((p) => productCard(p)).join('')}</div>
   </div>
@@ -157,7 +157,7 @@ ${trustRow()}
     ${sectionHead({
       eyebrow: 'Cap shapes compared',
       title: 'Which cap shape fits the program?',
-      link: { href: '/shop/', label: 'Browse all 52 styles' },
+      link: { href: '/shop/', label: 'Browse all styles' },
     })}
     <div style="overflow-x:auto">
       <table class="data" style="min-width:860px;background:var(--cream)">

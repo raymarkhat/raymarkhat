@@ -245,7 +245,7 @@ export function productPage(p) {
         <span class="eyebrow">Pairs well with</span>
         <h2 style="margin-bottom:0">More caps in this range.</h2>
       </div>
-      <a class="link-arrow sec-head__link" href="/shop/all/">All 52 styles ${icon.arrow}</a>
+      <a class="link-arrow sec-head__link" href="/shop/all/">All Styles ${icon.arrow}</a>
     </div>
     <div class="card-grid card-grid--3">${related.map((r) => productCard(r)).join('')}</div>
   </div>
