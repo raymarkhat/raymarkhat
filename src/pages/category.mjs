@@ -172,7 +172,7 @@ ${isProgram ? programPanel() : ''}
         <h3 style="font-size:1rem;margin-bottom:12px">Typical terms on this category</h3>
         <dl class="spec-list" style="grid-template-columns:1fr">
           <div><dt>Minimum order</dt><dd>${lead?.moq || 50} pcs per colourway</dd></div>
-          <div><dt>Sample</dt><dd>1–2 pcs, 5–7 days</dd></div>
+          <div><dt>Sample</dt><dd>1–2 pcs, 5 days</dd></div>
           <div><dt>Bulk lead time</dt><dd>12–18 days after proof</dd></div>
           <div><dt>Decoration</dt><dd>Flat / 3D puff, patch, print</dd></div>
           <div><dt>Shipping</dt><dd>DDP air 8–12 days to the U.S.</dd></div>

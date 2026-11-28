@@ -208,7 +208,7 @@ write(
 - Email: ${site.email}
 - Currency: USD, per piece, ex-works
 - MOQ: 10 pcs per style/colorway, stock and custom alike
-- Samples: 1–2 pcs, 5–7 days, refunded on orders over 500 pcs (sample fee)
+- Samples: 1–2 pcs, 5 days, refunded on orders over 500 pcs (sample fee)
 - Bulk lead time: 12–18 days after proof approval
 - Decoration: flat embroidery, 3D puff, chenille/woven patch, leather patch, screen print, sublimation
 - Shipping to the U.S.: express 5–8 days, air 8–12 days, sea 30–40 days; DDP door delivery available

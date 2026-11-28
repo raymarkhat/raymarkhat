@@ -10,7 +10,7 @@ const quickAnswers = [
   },
   {
     q: 'How long does a custom cap order take?',
-    a: 'Samples take 5–7 days. Bulk production runs 12–18 days after you approve the digital proof, plus transit: 5–8 days by express, 8–12 by air, 30–40 by sea.',
+    a: 'Samples take 5 days. Bulk production runs 12–18 days after you approve the digital proof, plus transit: 5–8 days by express, 8–12 by air, 30–40 by sea.',
   },
   {
     q: 'How much does a custom cap cost?',
@@ -109,7 +109,7 @@ ${trustRow()}
       <div class="step">
         <span class="step__n">03</span>
         <h3>Sample or run bulk</h3>
-        <p>Approve a 1–2 pc sample in 5–7 days, or go straight to bulk if the proof is final. 30% deposit to start.</p>
+        <p>Approve a 1–2 pc sample in 5 days, or go straight to bulk if the proof is final. 30% deposit to start.</p>
       </div>
       <div class="step">
         <span class="step__n">04</span>

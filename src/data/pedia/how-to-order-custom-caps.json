@@ -7,7 +7,7 @@
   "updated": "2026-11-23",
   "readMinutes": 6,
   "tldr": [
-    "A first custom cap order runs about 4-6 weeks door to door: 1-3 days for a quote, 1-2 days for a free proof, 5-7 days for a sample, 12-18 days of production, and 5-8 days by express.",
+    "A first custom cap order runs about 4-6 weeks door to door: 1-3 days for a quote, 1-2 days for a free proof, 5 days for a sample, 12-18 days of production, and 5-8 days by express.",
     "Nothing goes into production until you approve a digital proof and, if you order one, a physical sample.",
     "Payment usually runs as a deposit before production and the balance after QC photos, before the goods ship.",
     "You need five things for an accurate quote: a logo file, Pantone colors, a size breakdown, a ship-to address, and your in-hands date.",
@@ -16,7 +16,7 @@
   "intro": "Ordering from a Chinese cap factory is a fixed sequence, and most delays come from missing it in the middle: unclear artwork, an unapproved proof, or a balance payment landing while the goods are already packed. This walkthrough covers all ten steps, how long each one takes, what to have ready, and how payment and shipping work.",
   "keyFacts": [
     { "label": "Minimum order", "value": "10 pcs per colorway" },
-    { "label": "Sample", "value": "1-2 pcs, 5-7 days" },
+    { "label": "Sample", "value": "1-2 pcs, 5 days" },
     { "label": "Bulk production", "value": "12-18 days" },
     { "label": "Peak season production", "value": "18-25 days" },
     { "label": "Express to U.S.", "value": "5-8 days" },
@@ -28,7 +28,7 @@
       "blocks": [
         {
           "type": "p",
-          "text": "Plan on four to six weeks door to door for a first order: about one week for quote and proof, 5-7 days for a sample if you want one, 12-18 days of bulk production, and 5-8 days of express shipping to the U.S."
+          "text": "Plan on four to six weeks door to door for a first order: about one week for quote and proof, 5 days for a sample if you want one, 12-18 days of bulk production, and 5-8 days of express shipping to the U.S."
         },
         {
           "type": "p",
@@ -48,7 +48,7 @@
           "items": [
             { "title": "Inquiry and quote", "text": "Send your logo, quantity, colorways, and ship-to address. A quote comes back in 1-3 business days with unit price, setup, and freight." },
             { "title": "Artwork check and free digital proof", "text": "The factory reviews your file and sends a mockup showing logo width in cm, thread colors, and placement. Revisions are free until you approve it." },
-            { "title": "Sample approval", "text": "Optional but recommended: 1-2 pcs in 5-7 days. You check fit, fabric, stitch density, and color in daylight." },
+            { "title": "Sample approval", "text": "Optional but recommended: 1-2 pcs in 5 days. You check fit, fabric, stitch density, and color in daylight." },
             { "title": "Bulk order and deposit", "text": "Confirm quantity, sizes, and colorways, then pay the deposit by T/T or Alibaba Trade Assurance to book a production slot." },
             { "title": "Production, 12-18 days", "text": "Fabric is cut, panels are embroidered, and caps are sewn, trimmed, and pressed. Peak season runs 18-25 days." },
             { "title": "QC and photos", "text": "The factory inspects stitch quality, logo size, color match, and size counts, then sends photos before packing." },

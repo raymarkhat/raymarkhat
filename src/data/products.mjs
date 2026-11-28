@@ -46,7 +46,7 @@ export const products = [
     art: { crown: '#1B2A44', brim: '#14203A', accent: '#EFE4CC', stitch: '#EFE4CC', mark: 'RAYMARK', markScale: 0.92, bg: '#EAE3D4' },
     faqs: [
       { q: 'What is the minimum order for this cap?', a: '10 pcs per colorway. You can split those 10 caps across sizes at no extra cost.' },
-      { q: 'Can I get a sample before ordering 500 pcs?', a: 'Yes. A 1–2 pc sample takes 5–7 days and the sample fee is refunded on orders over 500 pcs.' },
+      { q: 'Can I get a sample before ordering 500 pcs?', a: 'Yes. A 1–2 pc sample takes 5 days and the sample fee is refunded on orders over 500 pcs.' },
       { q: 'Does the price include embroidery?', a: 'Yes — one front logo in up to 12 colors is included. Side and back decoration is quoted separately at about $0.35–$0.60 per position.' },
     ],
     related: ['classic-dad-hat', 'flat-brim-snapback', 'leather-patch-cap'],

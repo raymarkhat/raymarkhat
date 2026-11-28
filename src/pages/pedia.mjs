@@ -46,7 +46,7 @@ export function pediaIndexPage(articles) {
       <div>
         <span class="eyebrow">How we write</span>
         <h2 style="margin-bottom:16px">Numbers, not adjectives.</h2>
-        <p>Every page here is maintained by the Raymark product team in Heze, Shandong. Where a figure is a standard we publish our own, we give it — MOQ 10 pcs, samples 5–7 days, bulk 12–18. Where a figure depends on your order (freight, duty, decoration upcharges) we say so and tell you what to ask for.</p>
+        <p>Every page here is maintained by the Raymark product team in Heze, Shandong. Where a figure is a standard we publish our own, we give it — MOQ 10 pcs, samples 5 days, bulk 12–18. Where a figure depends on your order (freight, duty, decoration upcharges) we say so and tell you what to ask for.</p>
         <p class="muted">If a page is out of date, tell us and we will fix it. That is cheaper for us than answering the same email twice.</p>
         <a class="btn btn--outline mt-2" href="/contact/">Ask a question ${icon.arrow}</a>
       </div>

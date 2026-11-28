@@ -45,7 +45,7 @@ export function productPage(p) {
       <div style="border:1px solid var(--line);border-radius:var(--r-md);padding:16px 18px;background:var(--cream)">
         <span class="mono" style="color:var(--muted)">Lead time &amp; shipping</span>
         <div style="display:grid;gap:7px;margin-top:10px;font-size:.86rem">
-          <span>Sample: <strong>5–7 days</strong></span>
+          <span>Sample: <strong>5 days</strong></span>
           <span>Bulk production: <strong>${site.leadTime}</strong> after proof approval</span>
           <span>DDP air to the U.S.: <strong>8–12 days</strong></span>
         </div>

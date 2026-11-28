@@ -552,7 +552,7 @@ export const children = [
     ],
     faqs: [
       { q: 'What do I need to send?', a: 'A vector logo (AI, EPS, PDF, SVG) or a clean 300 dpi PNG, plus quantity, colourway and the date you need the caps in hand.' },
-      { q: 'How long does it take?', a: 'Proof in 24 hours, sample in 5–7 days, bulk in 12–18 days after approval, then 5–12 days transit.' },
+      { q: 'How long does it take?', a: 'Proof in 24 hours, sample in 5 days, bulk in 12–18 days after approval, then 5–12 days transit.' },
     ],
   },
   {

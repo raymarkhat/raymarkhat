@@ -158,7 +158,7 @@
           "items": [
             { "title": "Choose one hero colorway", "text": "Pick the color you can sell 50 of, and use flat embroidery unless the design truly needs puff." },
             { "title": "Approve the free proof", "text": "Check logo width in cm, thread colors, and panel placement before fabric is cut." },
-            { "title": "Order 1-2 samples", "text": "Samples take 5-7 days. Check the embroidery edge and the fit before bulk." },
+            { "title": "Order 1-2 samples", "text": "Samples take 5 days. Check the embroidery edge and the fit before bulk." },
             { "title": "Run 10-10 pcs", "text": "Review QC photos before you pay the balance." },
             { "title": "Reorder at 500+ pcs", "text": "Digitizing already exists, so the second run prices lower and moves faster." }
           ]
@@ -191,7 +191,7 @@
     },
     {
       "q": "Can I order a sample before the 50-piece run?",
-      "a": "Yes. Samples are 1-2 pcs, take 5-7 days, and the sample fee is refunded on bulk orders over 500 pcs."
+      "a": "Yes. Samples are 1-2 pcs, take 5 days, and the sample fee is refunded on bulk orders over 500 pcs."
     }
   ],
   "related": ["how-to-order-custom-caps", "custom-cap-artwork-guide", "signature-6-panel-cap"]
