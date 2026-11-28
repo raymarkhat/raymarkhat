@@ -163,7 +163,6 @@ function footer() {
           <li><a href="/kids-hats/">Kids hats</a></li>
           <li><a href="/brand-section/">Team colourways</a></li>
           <li><a href="/custom-hat/">Custom hat program</a></li>
-          <li><a href="/shop/all/">All 52 styles</a></li>
         </ul>
       </div>
       <div>
