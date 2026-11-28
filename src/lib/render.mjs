@@ -197,8 +197,36 @@ function footer() {
 }
 
 /* -------------------------------------------------------------------- shell */
+
+// SERP titles get truncated around 60 characters. Shorten in a predictable order:
+//   1. drop the "10 Pcs Min" boilerplate (MOQ is already in the description)
+//   2. drop the descriptor after an em dash
+//   3. hard-trim on a word boundary
+const TITLE_MAX = 60;
+function fitTitle(raw) {
+  const suffix = ` | ${site.brand}`;
+  let full = raw.includes(site.brand) ? raw : raw + suffix;
+  if (full.length <= TITLE_MAX) return full;
+
+  const noMoq = full
+    .replace(/,\s*10 Pcs Min(?=\s*\|)/i, '')
+    .replace(/,\s*10 Pcs(?=\s*\|)/i, '');
+  if (noMoq.length <= TITLE_MAX) return noMoq;
+
+  const dash = noMoq.indexOf(' — ');
+  if (dash > 0) {
+    const candidate = `${noMoq.slice(0, dash)}${suffix}`;
+    if (candidate.length <= TITLE_MAX) return candidate;
+  }
+
+  const budget = TITLE_MAX - suffix.length;
+  const head = noMoq.split(' | ')[0].slice(0, budget);
+  const cut = head.slice(0, head.lastIndexOf(' '));
+  return `${cut}${suffix}`;
+}
+
 export function page({ url = '/', title, description, body, active = '', jsonLd = [], ogImage = '/assets/img/og-default.png', noindex = false, bodyClass = '' }) {
-  const fullTitle = title.includes(site.brand) ? title : `${title} | ${site.brand}`;
+  const fullTitle = fitTitle(title);
   const ld = (Array.isArray(jsonLd) ? jsonLd : [jsonLd])
     .filter(Boolean)
     .map((o) => `<script type="application/ld+json">${JSON.stringify(o).replace(/</g, '\\u003c')}</script>`)
@@ -216,6 +244,7 @@ export function page({ url = '/', title, description, body, active = '', jsonLd 
   ${site.verification?.bing ? `<meta name="msvalidate.01" content="${site.verification.bing}" />` : ""}
   <meta name="theme-color" content="#12181d" />
   <meta name="generator" content="Raymark static build" />
+  <link rel="icon" href="/favicon.ico" sizes="any" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="icon" href="/assets/img/favicon-32.png" sizes="32x32" type="image/png" />
   <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png" />

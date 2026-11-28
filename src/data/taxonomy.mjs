@@ -21,7 +21,7 @@ export const parents = [
     slug: 'sports-outdoor-caps',
     name: 'Sports & Outdoor Caps',
     nameZh: '运动户外帽',
-    title: 'Sports & Outdoor Caps — Golf Caps, Visors, Running Caps',
+    title: 'Sports & Outdoor Caps — Golf, Visor & Running',
     description:
       'Performance golf caps, open-top golf visors and lightweight running caps for clubs, tournaments and athletic brands. MOQ 10 pcs, moisture-wicking fabrics, laser perforation.',
     h1: 'Built for the course and the trail.',

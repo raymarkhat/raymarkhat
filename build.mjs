@@ -108,6 +108,7 @@ for (const [slug, view, prefix, zoom] of [
 copy(path.join(SRC, 'assets', 'site.css'), 'assets/site.css');
 copy(path.join(SRC, 'assets', 'app.js'), 'assets/app.js');
 copy(path.join(SRC, 'assets', 'favicon.svg'), 'favicon.svg');
+copy(path.join(SRC, 'assets', 'favicon.ico'), 'favicon.ico');
 
 // raster brand assets (generated once by tools/make_brand_assets.py)
 const brandDir = path.join(SRC, 'assets', 'brand');
